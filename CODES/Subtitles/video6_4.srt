@@ -1,0 +1,1059 @@
+﻿1
+00:00:00,450 --> 00:00:03,140
+The next process we have
+is controlling a stage.
+
+2
+00:00:03,140 --> 00:00:06,550
+And this is focused very
+heavily on our project manager.
+
+3
+00:00:06,550 --> 00:00:07,910
+We start looking at our stages.
+
+4
+00:00:07,910 --> 00:00:10,330
+Our stages are going to
+be made up of timeboxes.
+
+5
+00:00:10,330 --> 00:00:12,100
+Whether those are releases or sprints
+
+6
+00:00:12,100 --> 00:00:13,360
+underneath those releases.
+
+7
+00:00:13,360 --> 00:00:15,060
+And this will create the features
+
+8
+00:00:15,060 --> 00:00:17,960
+that will enable the
+benefits in the end product.
+
+9
+00:00:17,960 --> 00:00:19,570
+As we look at this controlling a stage
+
+10
+00:00:19,570 --> 00:00:21,870
+we have to remember in
+an agile way of working
+
+11
+00:00:21,870 --> 00:00:24,580
+we want to be very team
+based and collaborative.
+
+12
+00:00:24,580 --> 00:00:26,320
+So, we're going to require
+the team to help us
+
+13
+00:00:26,320 --> 00:00:28,850
+when we're planning
+things, estimating things,
+
+14
+00:00:28,850 --> 00:00:32,140
+and creating our work
+packages in a flexible manner.
+
+15
+00:00:32,140 --> 00:00:34,460
+As we start looking at
+this as a project manager,
+
+16
+00:00:34,460 --> 00:00:35,293
+we want to figure out
+
+17
+00:00:35,293 --> 00:00:38,070
+how are we going to do our
+reporting and our communication?
+
+18
+00:00:38,070 --> 00:00:40,570
+How are we going to
+identify issues and risks?
+
+19
+00:00:40,570 --> 00:00:42,890
+And one of the best things
+inside the agile environment
+
+20
+00:00:42,890 --> 00:00:45,420
+is to keep it much more informal.
+
+21
+00:00:45,420 --> 00:00:46,760
+In traditional Prince2,
+
+22
+00:00:46,760 --> 00:00:48,800
+we would do this through
+checkpoint reports
+
+23
+00:00:48,800 --> 00:00:51,370
+and highlight reports
+and using risk registers
+
+24
+00:00:51,370 --> 00:00:52,660
+and things like that.
+
+25
+00:00:52,660 --> 00:00:54,920
+But, when we start tailoring it for Agile,
+
+26
+00:00:54,920 --> 00:00:56,920
+we're going to do things like stand-ups
+
+27
+00:00:56,920 --> 00:00:58,580
+using information radiators,
+
+28
+00:00:58,580 --> 00:01:00,950
+using burn charts or sprint demos.
+
+29
+00:01:00,950 --> 00:01:03,460
+We want to identify any
+blocks or impediments to us
+
+30
+00:01:03,460 --> 00:01:05,160
+being able to cretae the finished product.
+
+31
+00:01:05,160 --> 00:01:07,020
+And this is one of the ways
+we do our risk management,
+
+32
+00:01:07,020 --> 00:01:09,910
+is by doing this
+identification within the team,
+
+33
+00:01:09,910 --> 00:01:13,180
+as opposed to doing it through
+an electronic risk register.
+
+34
+00:01:13,180 --> 00:01:15,350
+Now, as we go through
+our Agile process here,
+
+35
+00:01:15,350 --> 00:01:18,770
+we want to focus on how we're
+going to get something delivered.
+
+36
+00:01:18,770 --> 00:01:20,910
+Back when we were doing regular Prince2,
+
+37
+00:01:20,910 --> 00:01:21,970
+we were looking at things like
+
+38
+00:01:21,970 --> 00:01:24,150
+time and cost as our main variables,
+
+39
+00:01:24,150 --> 00:01:25,160
+but here in Agile,
+
+40
+00:01:25,160 --> 00:01:27,720
+we're looking at things
+like scope and quality.
+
+41
+00:01:27,720 --> 00:01:29,872
+And by changing scope
+or quality we can decide
+
+42
+00:01:29,872 --> 00:01:33,510
+what's going to get delivered
+on time and on budget.
+
+43
+00:01:33,510 --> 00:01:35,500
+Now, as I look through
+this, what are some of the
+
+44
+00:01:35,500 --> 00:01:36,810
+things you might find
+
+45
+00:01:36,810 --> 00:01:38,290
+when you start looking at the controlling
+
+46
+00:01:38,290 --> 00:01:40,810
+a stage process inside of Agile?
+
+47
+00:01:40,810 --> 00:01:43,660
+The most common thing you're
+going to see, is timeboxes.
+
+48
+00:01:43,660 --> 00:01:46,270
+And these timeboxes are used
+so that we have a control
+
+49
+00:01:46,270 --> 00:01:48,670
+mechanism in place that's based on time.
+
+50
+00:01:48,670 --> 00:01:51,970
+You've got two weeks to
+deliver X Y Z products.
+
+51
+00:01:51,970 --> 00:01:54,250
+This is going to be forming one release.
+
+52
+00:01:54,250 --> 00:01:55,680
+Now, we might iterate on that later
+
+53
+00:01:55,680 --> 00:01:57,359
+or increment on that later,
+but were always going to
+
+54
+00:01:57,359 --> 00:01:59,840
+be using these high level timeboxes
+
+55
+00:01:59,840 --> 00:02:01,430
+that build up the stages.
+
+56
+00:02:01,430 --> 00:02:04,230
+Those big stages can then
+be broken down into releases
+
+57
+00:02:04,230 --> 00:02:07,140
+and those releases can be
+broken down into sprints.
+
+58
+00:02:07,140 --> 00:02:09,530
+The other thing you're going
+to see is that sometimes
+
+59
+00:02:09,530 --> 00:02:11,480
+there's more than one team working.
+
+60
+00:02:11,480 --> 00:02:13,670
+You may have a single
+team working on a project
+
+61
+00:02:13,670 --> 00:02:16,640
+or you may have three or four
+teams working on a project.
+
+62
+00:02:16,640 --> 00:02:18,850
+If you have multiple teams
+working on a project,
+
+63
+00:02:18,850 --> 00:02:19,940
+you have to start focusing
+
+64
+00:02:19,940 --> 00:02:22,310
+on what's known as the scrum of scrums.
+
+65
+00:02:22,310 --> 00:02:23,810
+Where we start with this project manager
+
+66
+00:02:23,810 --> 00:02:25,770
+working with each of those team managers
+
+67
+00:02:25,770 --> 00:02:28,810
+to make sure their scrum
+processes are working properly.
+
+68
+00:02:28,810 --> 00:02:31,120
+So, you have this one overall scrum master
+
+69
+00:02:31,120 --> 00:02:34,670
+looking out over these
+four smaller organizations.
+
+70
+00:02:34,670 --> 00:02:36,630
+Now, some of the things you might also see
+
+71
+00:02:36,630 --> 00:02:37,463
+as you're trying to figure out
+
+72
+00:02:37,463 --> 00:02:39,550
+what to do inside controlling a stage
+
+73
+00:02:39,550 --> 00:02:42,150
+is you always want to
+plan around your features.
+
+74
+00:02:42,150 --> 00:02:44,820
+Your time is just fixed
+constant inside of this
+
+75
+00:02:44,820 --> 00:02:46,540
+and so you have to start figuring out
+
+76
+00:02:46,540 --> 00:02:50,190
+how many features can you
+build inside your fixed sprint?
+
+77
+00:02:50,190 --> 00:02:53,440
+To do this, you should be
+creating flexible work packages.
+
+78
+00:02:53,440 --> 00:02:55,120
+This will allow your
+management by exception
+
+79
+00:02:55,120 --> 00:02:57,610
+to work much easier, it
+allows the teams to be
+
+80
+00:02:57,610 --> 00:03:00,420
+much more self organized,
+it enables communication
+
+81
+00:03:00,420 --> 00:03:03,197
+to happen amongst the team and
+amongst the project manager.
+
+82
+00:03:03,197 --> 00:03:06,600
+Its the equivalent of having
+a release and multiple sprints
+
+83
+00:03:06,600 --> 00:03:08,750
+all being put into one stage.
+
+84
+00:03:08,750 --> 00:03:10,340
+But, if you're going to
+create your work packages,
+
+85
+00:03:10,340 --> 00:03:12,730
+you want to make sure those work packages,
+
+86
+00:03:12,730 --> 00:03:15,490
+which generally take the
+form of a product backlog,
+
+87
+00:03:15,490 --> 00:03:18,180
+are going to be easily
+accessed by the teams,
+
+88
+00:03:18,180 --> 00:03:20,020
+so they can figure out
+what they can get done
+
+89
+00:03:20,020 --> 00:03:21,900
+in a single sprint.
+
+90
+00:03:21,900 --> 00:03:23,380
+If you're ever going to
+be the project manager
+
+91
+00:03:23,380 --> 00:03:25,160
+in an agile environment, you really do
+
+92
+00:03:25,160 --> 00:03:27,950
+have to remember that
+scope and quality criteria
+
+93
+00:03:27,950 --> 00:03:29,420
+are going to be your foundation.
+
+94
+00:03:29,420 --> 00:03:30,390
+Because this is where you're going to
+
+95
+00:03:30,390 --> 00:03:31,870
+be able to de scope things
+
+96
+00:03:31,870 --> 00:03:34,660
+to get a higher level of
+quality or reduce your quality
+
+97
+00:03:34,660 --> 00:03:36,050
+to get a higher level of scope.
+
+98
+00:03:36,050 --> 00:03:37,790
+And this is something you're
+going to have to help the team
+
+99
+00:03:37,790 --> 00:03:38,630
+decide on.
+
+100
+00:03:38,630 --> 00:03:40,190
+Is, what are we going to get done
+
+101
+00:03:40,190 --> 00:03:42,970
+inside this sprint, based on our progress,
+
+102
+00:03:42,970 --> 00:03:45,200
+our velocity and other issues like that.
+
+103
+00:03:45,200 --> 00:03:48,260
+And your job is to always monitor risks.
+
+104
+00:03:48,260 --> 00:03:50,060
+So you want to look at the risk involved
+
+105
+00:03:50,060 --> 00:03:51,950
+with this Agile process and help them
+
+106
+00:03:51,950 --> 00:03:54,400
+come to the right solution
+of what the scope should be
+
+107
+00:03:54,400 --> 00:03:57,106
+and what the quality should
+be to make sure we're doing
+
+108
+00:03:57,106 --> 00:03:59,530
+everything we need to
+on time and on budget.
+
+109
+00:03:59,530 --> 00:04:02,010
+Again, this is a very
+collaborative environment.
+
+110
+00:04:02,010 --> 00:04:03,900
+We want to make sure
+we're all working together
+
+111
+00:04:03,900 --> 00:04:04,960
+and the team is being able to
+
+112
+00:04:04,960 --> 00:04:06,890
+pull the features out to work on.
+
+113
+00:04:06,890 --> 00:04:09,060
+We're going to show this
+in a very visual way
+
+114
+00:04:09,060 --> 00:04:10,800
+inside our information radiators.
+
+115
+00:04:10,800 --> 00:04:13,740
+Doing our standup meetings
+and going through our demos.
+
+116
+00:04:13,740 --> 00:04:16,540
+We always want to do it based
+on facts and not feelings.
+
+117
+00:04:16,540 --> 00:04:18,440
+We want to think about how much was done
+
+118
+00:04:18,440 --> 00:04:20,540
+and look at that velocity,
+so we can figure out
+
+119
+00:04:20,540 --> 00:04:22,510
+what can be done in the next sprint.
+
+120
+00:04:22,510 --> 00:04:23,820
+And we always want to inspect
+
+121
+00:04:23,820 --> 00:04:25,530
+what's coming out of these and adapt.
+
+122
+00:04:25,530 --> 00:04:28,030
+If is start inspecting a
+product and I realize its not
+
+123
+00:04:28,030 --> 00:04:29,990
+up to the quality level,
+I need to feed that
+
+124
+00:04:29,990 --> 00:04:32,090
+back done to the team
+and say, hey, you need to
+
+125
+00:04:32,090 --> 00:04:33,320
+increase the quality on this.
+
+126
+00:04:33,320 --> 00:04:35,450
+And they may come back and
+say, if I increase the quality
+
+127
+00:04:35,450 --> 00:04:37,580
+on that I'm going to have to
+de scope this other feature
+
+128
+00:04:37,580 --> 00:04:38,640
+we plan on doing
+
+129
+00:04:38,640 --> 00:04:40,720
+cause they only have a
+fixed amount of resources,
+
+130
+00:04:40,720 --> 00:04:43,310
+a fixed amount of time, and
+a fixed amount of money.
+
+131
+00:04:43,310 --> 00:04:45,280
+And that's okay, because
+we want to make sure
+
+132
+00:04:45,280 --> 00:04:48,050
+we're getting a good quality
+product out the other end
+
+133
+00:04:48,050 --> 00:04:50,070
+so that our customers can use it.
+
+134
+00:04:50,070 --> 00:04:51,530
+Now, when we talk about work packages,
+
+135
+00:04:51,530 --> 00:04:53,070
+you have to remember that work packages
+
+136
+00:04:53,070 --> 00:04:56,430
+are a vital interface
+inside controlling a stage.
+
+137
+00:04:56,430 --> 00:04:58,840
+This is the main way
+that the project manager
+
+138
+00:04:58,840 --> 00:05:00,480
+talks to the team manager
+
+139
+00:05:00,480 --> 00:05:02,400
+and lets them know what's expected.
+
+140
+00:05:02,400 --> 00:05:05,420
+This is where we start binging
+Prince2 and Agile together.
+
+141
+00:05:05,420 --> 00:05:07,870
+Because, in Prince2 we
+use a lot of work packages
+
+142
+00:05:07,870 --> 00:05:10,840
+to dictate what the part
+teams are going to work on.
+
+143
+00:05:10,840 --> 00:05:12,380
+But the big difference here in Agile,
+
+144
+00:05:12,380 --> 00:05:13,410
+is that this work package
+
+145
+00:05:13,410 --> 00:05:15,400
+is going to be collaboratively defined.
+
+146
+00:05:15,400 --> 00:05:16,690
+The team might help with it,
+
+147
+00:05:16,690 --> 00:05:18,410
+the team manager will
+certainly help with it,
+
+148
+00:05:18,410 --> 00:05:20,340
+and the project manager will help with it.
+
+149
+00:05:20,340 --> 00:05:22,870
+This will create a safe
+boundary of control.
+
+150
+00:05:22,870 --> 00:05:24,190
+Heres what is expected,
+
+151
+00:05:24,190 --> 00:05:27,230
+heres your left and right
+limits stay within them.
+
+152
+00:05:27,230 --> 00:05:30,340
+This give you space to empower
+your teams to self organize
+
+153
+00:05:30,340 --> 00:05:32,880
+enable their rich communication
+and work on the products
+
+154
+00:05:32,880 --> 00:05:34,850
+they need to during the sprint.
+
+155
+00:05:34,850 --> 00:05:36,580
+When you start making a work package,
+
+156
+00:05:36,580 --> 00:05:38,410
+it can be just for one sprint,
+
+157
+00:05:38,410 --> 00:05:41,210
+one release, or multiple
+sprints and releases.
+
+158
+00:05:41,210 --> 00:05:43,870
+Generally though, I try
+to keep the work packages
+
+159
+00:05:43,870 --> 00:05:45,470
+down to just one sprint.
+
+160
+00:05:45,470 --> 00:05:47,120
+I find that works a lot better
+
+161
+00:05:47,120 --> 00:05:48,610
+and it works a lot more efficiently
+
+162
+00:05:48,610 --> 00:05:50,530
+as we can work through those processes,
+
+163
+00:05:50,530 --> 00:05:52,200
+because sometimes at the end of the sprint
+
+164
+00:05:52,200 --> 00:05:55,170
+we'll have new people come on
+the team and old people leave.
+
+165
+00:05:55,170 --> 00:05:57,740
+And that's okay, you can change
+over at the end of a sprint.
+
+166
+00:05:57,740 --> 00:06:00,090
+You just don't want to change
+over in the middle of a sprint.
+
+167
+00:06:00,090 --> 00:06:02,370
+And so as you're doing
+that its helpful to have
+
+168
+00:06:02,370 --> 00:06:05,693
+a formal work package that's
+done for each and every sprint.
+
+169
+00:06:06,570 --> 00:06:09,280
+Now, how is the project manager
+in controlling the stage
+
+170
+00:06:09,280 --> 00:06:11,570
+going to report up to the project board?
+
+171
+00:06:11,570 --> 00:06:15,000
+In traditional Prince2, we
+use formal highlight report.
+
+172
+00:06:15,000 --> 00:06:16,960
+Now when we go to Agile, we might not need
+
+173
+00:06:16,960 --> 00:06:18,730
+to have something nearly as formal.
+
+174
+00:06:18,730 --> 00:06:21,490
+Instead, it might be an
+email, or it might be
+
+175
+00:06:21,490 --> 00:06:24,041
+bringing the project board
+down to the team radiator
+
+176
+00:06:24,041 --> 00:06:26,900
+and start going through the
+information on the radiator.
+
+177
+00:06:26,900 --> 00:06:28,890
+Either way is okay, it
+just depends on what
+
+178
+00:06:28,890 --> 00:06:31,700
+you want to do for your project,
+the size, the complexity,
+
+179
+00:06:31,700 --> 00:06:33,040
+and the scope of it.
+
+180
+00:06:33,040 --> 00:06:34,720
+Your highlight report
+should have information
+
+181
+00:06:34,720 --> 00:06:37,270
+on releases and sprints and
+the progress being made,
+
+182
+00:06:37,270 --> 00:06:39,270
+as well as the benefits that
+are going to be realized.
+
+183
+00:06:39,270 --> 00:06:42,430
+And this can be in the form
+of a report, a burn chart,
+
+184
+00:06:42,430 --> 00:06:45,300
+an information radiator, or
+something else of that nature.
+
+185
+00:06:45,300 --> 00:06:47,900
+Again, in Agile, we can
+be a lot less formal
+
+186
+00:06:47,900 --> 00:06:49,500
+with some of these things as long as
+
+187
+00:06:49,500 --> 00:06:51,880
+the same information is being conveyed.
+
+188
+00:06:51,880 --> 00:06:53,570
+And also, we want to look at this,
+
+189
+00:06:53,570 --> 00:06:55,180
+is this going to be a push method,
+
+190
+00:06:55,180 --> 00:06:56,070
+where the project manager's
+
+191
+00:06:56,070 --> 00:06:58,060
+going to send the
+information up to the board,
+
+192
+00:06:58,060 --> 00:07:00,430
+or is it going to be a pull
+method, where the project board
+
+193
+00:07:00,430 --> 00:07:02,950
+is going to grab the information
+from some repository,
+
+194
+00:07:02,950 --> 00:07:04,530
+like the information radiator.
+
+195
+00:07:04,530 --> 00:07:07,288
+Again this can all be tailored
+inside of Prince2 Agile
+
+196
+00:07:07,288 --> 00:07:10,430
+depending on the needs
+of what your project has.
+
+197
+00:07:10,430 --> 00:07:12,310
+The last management product
+I want to talk about
+
+198
+00:07:12,310 --> 00:07:13,860
+is the checkpoint report.
+
+199
+00:07:13,860 --> 00:07:16,350
+Here in the controlling a stage process,
+
+200
+00:07:16,350 --> 00:07:19,360
+normally the checkpoint
+report is a formal report
+
+201
+00:07:19,360 --> 00:07:21,760
+that is created by a team
+manager and passed up to the
+
+202
+00:07:21,760 --> 00:07:22,870
+project manager.
+
+203
+00:07:22,870 --> 00:07:25,130
+The project manager then
+takes information from that
+
+204
+00:07:25,130 --> 00:07:27,120
+includes it in his highlight
+report and sends it up
+
+205
+00:07:27,120 --> 00:07:28,590
+to the project board.
+
+206
+00:07:28,590 --> 00:07:30,700
+Just like we talked about
+with the highlight report,
+
+207
+00:07:30,700 --> 00:07:33,890
+we can tailor this into
+being something less formal.
+
+208
+00:07:33,890 --> 00:07:35,850
+It can take the form of a burn chart,
+
+209
+00:07:35,850 --> 00:07:38,940
+an information radiator,
+or even a daily stand-up.
+
+210
+00:07:38,940 --> 00:07:40,770
+Now, the one thing I
+want to caution you is,
+
+211
+00:07:40,770 --> 00:07:42,360
+if you use it as a daily stand-up
+
+212
+00:07:42,360 --> 00:07:44,140
+to replace the checkpoint report,
+
+213
+00:07:44,140 --> 00:07:46,070
+make sure you're not
+turning your daily stand-up
+
+214
+00:07:46,070 --> 00:07:47,941
+into a reporting to mechanism.
+
+215
+00:07:47,941 --> 00:07:51,150
+So what I mean by this is you
+can invite the project manager
+
+216
+00:07:51,150 --> 00:07:53,600
+to sit in to your stand-up report.
+
+217
+00:07:53,600 --> 00:07:55,700
+And the reason you want to do
+that is so they can get the
+
+218
+00:07:55,700 --> 00:07:56,890
+information they need.
+
+219
+00:07:56,890 --> 00:07:59,130
+As the team is talking
+and discussing the issues
+
+220
+00:07:59,130 --> 00:08:01,200
+and the risks and what their working on
+
+221
+00:08:01,200 --> 00:08:03,860
+the project manager is getting
+the information they need.
+
+222
+00:08:03,860 --> 00:08:06,230
+But, we don't want to
+turn this into a meeting
+
+223
+00:08:06,230 --> 00:08:08,190
+where the team manager
+is giving information
+
+224
+00:08:08,190 --> 00:08:10,090
+directly to the project manager
+
+225
+00:08:10,090 --> 00:08:13,440
+and ignoring the collaboration
+aspect of a daily stand-up.
+
+226
+00:08:13,440 --> 00:08:15,700
+If it turns into a reporting to mechanism,
+
+227
+00:08:15,700 --> 00:08:17,670
+this is going to go
+from being collaborative
+
+228
+00:08:17,670 --> 00:08:20,270
+to being very managerial
+and we don't want that.
+
+229
+00:08:20,270 --> 00:08:22,140
+Instead, we can use the daily stand-up
+
+230
+00:08:22,140 --> 00:08:24,310
+as a replacement for our checkpoint report
+
+231
+00:08:24,310 --> 00:08:25,980
+if the project manager will be there
+
+232
+00:08:25,980 --> 00:08:27,970
+in an observation capacity
+
+233
+00:08:27,970 --> 00:08:30,773
+and not in a leadership
+or management capacity.
+

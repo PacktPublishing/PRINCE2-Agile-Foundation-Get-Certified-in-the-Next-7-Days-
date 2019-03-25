@@ -1,0 +1,920 @@
+﻿1
+00:00:00,489 --> 00:00:02,475
+- The next Agile focus area is called
+
+2
+00:00:02,475 --> 00:00:04,658
+The Information Radiator
+or the Team Board.
+
+3
+00:00:04,658 --> 00:00:07,815
+This is something that is
+placed in your team's workspace
+
+4
+00:00:07,815 --> 00:00:10,569
+that allows you to visualize everything
+
+5
+00:00:10,569 --> 00:00:12,041
+that's being worked on.
+
+6
+00:00:12,041 --> 00:00:13,675
+So you can see here, we have the goal.
+
+7
+00:00:13,675 --> 00:00:15,613
+We're going to define
+that the project is going
+
+8
+00:00:15,613 --> 00:00:18,187
+to be done by the end of the year.
+
+9
+00:00:18,187 --> 00:00:19,523
+Underneath that, you can see we have the
+
+10
+00:00:19,523 --> 00:00:21,464
+Kanban chart, showing
+what is to be worked on
+
+11
+00:00:21,464 --> 00:00:25,311
+what's in progress, and what
+is ready to be pushed out.
+
+12
+00:00:25,311 --> 00:00:27,159
+We can also see our team rules.
+
+13
+00:00:27,159 --> 00:00:29,777
+What are the things that our
+team is going to buy into?
+
+14
+00:00:29,777 --> 00:00:31,605
+In this case: We should all be honest,
+
+15
+00:00:31,605 --> 00:00:33,908
+we should all be open
+and everyone has a say.
+
+16
+00:00:33,908 --> 00:00:36,978
+So, really valuing that collaboration.
+
+17
+00:00:36,978 --> 00:00:38,645
+Then we go up on the other side.
+
+18
+00:00:38,645 --> 00:00:40,674
+We have our effort versus
+time graph, which is
+
+19
+00:00:40,674 --> 00:00:42,247
+known as a burn down chart.
+
+20
+00:00:42,247 --> 00:00:44,340
+You could see the amount of
+work that needs to be done
+
+21
+00:00:44,340 --> 00:00:45,863
+and the amount of time we have left.
+
+22
+00:00:45,863 --> 00:00:48,404
+And then, in the bottom corner,
+we have issues and news.
+
+23
+00:00:48,404 --> 00:00:50,561
+And this is going to
+be a way to tell people
+
+24
+00:00:50,561 --> 00:00:52,970
+new things about the
+team, and what's happening
+
+25
+00:00:52,970 --> 00:00:55,064
+in the world around us and
+things we have to consider
+
+26
+00:00:55,064 --> 00:00:57,962
+and the issues are things
+we have problems with.
+
+27
+00:00:57,962 --> 00:01:00,076
+And those are issues
+that we're bringing up
+
+28
+00:01:00,076 --> 00:01:02,450
+to the project manager
+and the team manager
+
+29
+00:01:02,450 --> 00:01:04,609
+so they can help us deal with those issues
+
+30
+00:01:04,609 --> 00:01:07,427
+and make sure that we stay
+on time and on budget.
+
+31
+00:01:07,427 --> 00:01:10,619
+Again, this is a great way
+of visualizing information
+
+32
+00:01:10,619 --> 00:01:12,955
+and showing everybody what's going on.
+
+33
+00:01:12,955 --> 00:01:15,144
+Being open, being transparent and enabling
+
+34
+00:01:15,144 --> 00:01:18,293
+that rich communication
+as we move forward.
+
+35
+00:01:18,293 --> 00:01:21,777
+Frequent releases are another
+key concept inside of Agile.
+
+36
+00:01:21,777 --> 00:01:24,649
+With frequent releases, we're
+really focused on releasing
+
+37
+00:01:24,649 --> 00:01:28,022
+something quickly that is
+usable to the end customer.
+
+38
+00:01:28,022 --> 00:01:30,703
+This is going to be something
+like a prototype or a beta
+
+39
+00:01:30,703 --> 00:01:32,788
+or it could be our finalized product.
+
+40
+00:01:32,788 --> 00:01:35,495
+Either way, it's going to
+require a lot of planning
+
+41
+00:01:35,495 --> 00:01:38,393
+on our part, and we do this
+using product-based planning
+
+42
+00:01:38,393 --> 00:01:40,330
+where we start with the end in mind.
+
+43
+00:01:40,330 --> 00:01:42,232
+What is this product we're trying to build
+
+44
+00:01:42,232 --> 00:01:44,479
+breaking it down into its component pieces
+
+45
+00:01:44,479 --> 00:01:46,289
+and putting it together.
+
+46
+00:01:46,289 --> 00:01:48,572
+There's a lot of advantages
+to doing frequent releases.
+
+47
+00:01:48,572 --> 00:01:50,929
+The first is that you get early delivery
+
+48
+00:01:50,929 --> 00:01:52,523
+of benefits to your customer.
+
+49
+00:01:52,523 --> 00:01:54,350
+The customer gets something they can start
+
+50
+00:01:54,350 --> 00:01:55,991
+working with, and as they
+start working with it,
+
+51
+00:01:55,991 --> 00:01:57,969
+they start going "Oh,
+this isn't working the
+
+52
+00:01:57,969 --> 00:01:59,852
+"way I thought it was going to work".
+
+53
+00:01:59,852 --> 00:02:01,391
+And they give you
+feedback, that allows you
+
+54
+00:02:01,391 --> 00:02:02,871
+to iterate for the next cycle.
+
+55
+00:02:02,871 --> 00:02:05,843
+This helps reduce the risk of
+delivering the wrong product.
+
+56
+00:02:05,843 --> 00:02:08,000
+If I was going to build the entire product
+
+57
+00:02:08,000 --> 00:02:10,417
+from start to finish,
+it may take me a year.
+
+58
+00:02:10,417 --> 00:02:12,547
+But if I can give them
+something to look at,
+
+59
+00:02:12,547 --> 00:02:14,676
+maybe a wire frame diagram
+of the app we're building
+
+60
+00:02:14,676 --> 00:02:17,262
+or may be able to give them a
+couple of features to try out,
+
+61
+00:02:17,262 --> 00:02:19,857
+we could start to figure
+out are we on the right path
+
+62
+00:02:19,857 --> 00:02:21,506
+to getting the final product?
+
+63
+00:02:21,506 --> 00:02:24,000
+Or, do we need to change
+and adjust where we are?
+
+64
+00:02:24,000 --> 00:02:25,868
+This also gives us confidence
+
+65
+00:02:25,868 --> 00:02:27,485
+in how the project is progressing.
+
+66
+00:02:27,485 --> 00:02:29,092
+Because, if the customer keeps going
+
+67
+00:02:29,092 --> 00:02:30,841
+"Yes, this is good", "Yes, this is good"
+
+68
+00:02:30,841 --> 00:02:33,344
+"Yes, this is good" as we go along these
+
+69
+00:02:33,344 --> 00:02:35,696
+iterations, it really
+does help the team know
+
+70
+00:02:35,696 --> 00:02:37,446
+they're on the right path.
+
+71
+00:02:37,446 --> 00:02:40,655
+This also is going to foster
+better stakeholder engagement.
+
+72
+00:02:40,655 --> 00:02:42,465
+Because, the customer is
+something they can touch
+
+73
+00:02:42,465 --> 00:02:44,672
+it's something they can
+use and see if it's working
+
+74
+00:02:44,672 --> 00:02:46,087
+the way they wanted it to.
+
+75
+00:02:46,087 --> 00:02:48,132
+And, the final thing,
+is it makes releasing
+
+76
+00:02:48,132 --> 00:02:50,138
+products easier. It
+doesn't have to be this
+
+77
+00:02:50,138 --> 00:02:51,812
+big, huge deal where we release a product.
+
+78
+00:02:51,812 --> 00:02:54,187
+Because if we release
+something, and it's not
+
+79
+00:02:54,187 --> 00:02:57,077
+quite right, we can go
+back and iterate it again.
+
+80
+00:02:57,077 --> 00:02:59,008
+Whereas, if you use a waterfall approach,
+
+81
+00:02:59,008 --> 00:03:01,460
+it may have taken you a
+year or two years to get
+
+82
+00:03:01,460 --> 00:03:02,952
+to this final product release.
+
+83
+00:03:02,952 --> 00:03:04,854
+And then, if you went
+and hit the wrong thing,
+
+84
+00:03:04,854 --> 00:03:07,938
+that is going to be
+devastating to your team.
+
+85
+00:03:07,938 --> 00:03:09,948
+So, frequent releases really are helpful
+
+86
+00:03:09,948 --> 00:03:11,492
+in the Agile way of working.
+
+87
+00:03:11,492 --> 00:03:14,774
+The next focus area we
+have is Retrospectives.
+
+88
+00:03:14,774 --> 00:03:17,067
+And, retrospectives are a technique
+
+89
+00:03:17,067 --> 00:03:18,997
+that we use at the end of a sprint.
+
+90
+00:03:18,997 --> 00:03:21,065
+This is a technique
+when we're working in an
+
+91
+00:03:21,065 --> 00:03:24,096
+agile way where we review
+the ways the processes
+
+92
+00:03:24,096 --> 00:03:26,285
+that we use to get the product done.
+
+93
+00:03:26,285 --> 00:03:28,946
+This is something that we
+have to plan and structure.
+
+94
+00:03:28,946 --> 00:03:31,277
+And it's going to cover
+what went wrong and what
+
+95
+00:03:31,277 --> 00:03:32,660
+didn't go well.
+
+96
+00:03:32,660 --> 00:03:34,593
+Was there good communication involved?
+
+97
+00:03:34,593 --> 00:03:36,601
+Was there good collaboration?
+
+98
+00:03:36,601 --> 00:03:38,545
+What is working and what isn't?
+
+99
+00:03:38,545 --> 00:03:40,491
+We're going to improve little by little,
+
+100
+00:03:40,491 --> 00:03:43,027
+continuously, early, and often.
+
+101
+00:03:43,027 --> 00:03:44,710
+Because this is going
+to help us get better
+
+102
+00:03:44,710 --> 00:03:46,304
+in the next sprint,
+and in the next sprint,
+
+103
+00:03:46,304 --> 00:03:48,128
+and then the next sprint.
+
+104
+00:03:48,128 --> 00:03:49,821
+We also want to make sure
+that the retrospectives
+
+105
+00:03:49,821 --> 00:03:52,103
+are efficient, and
+effective, and to do this,
+
+106
+00:03:52,103 --> 00:03:53,901
+we might introduce variety.
+
+107
+00:03:53,901 --> 00:03:55,733
+Maybe, sometimes, we're going to do them
+
+108
+00:03:55,733 --> 00:03:57,685
+as a workshop. Maybe sometimes we're going
+
+109
+00:03:57,685 --> 00:03:59,880
+to do them as a lunch meeting.
+
+110
+00:03:59,880 --> 00:04:01,965
+Whatever it is, we want
+to kind of break it up
+
+111
+00:04:01,965 --> 00:04:04,023
+a little bit so it is
+not just so monotonous.
+
+112
+00:04:04,023 --> 00:04:06,256
+But, this is a great
+way to gather feedback
+
+113
+00:04:06,256 --> 00:04:10,923
+in the forms of facts or feelings
+of what you felt went well
+
+114
+00:04:10,923 --> 00:04:13,118
+Or, what actually went well.
+
+115
+00:04:13,118 --> 00:04:15,030
+Or, what you felt wasn't good.
+
+116
+00:04:15,030 --> 00:04:16,832
+Or, what really didn't go well.
+
+117
+00:04:16,832 --> 00:04:18,860
+And, by being table to
+take all this information
+
+118
+00:04:18,860 --> 00:04:20,724
+we can learn from that experience
+
+119
+00:04:20,724 --> 00:04:22,863
+and improve ourself as we move forward.
+
+120
+00:04:22,863 --> 00:04:26,567
+Retrospectives are really key
+to that continual improvement
+
+121
+00:04:26,567 --> 00:04:27,989
+as we move forward throughout
+
+122
+00:04:27,989 --> 00:04:30,190
+the processes, working in an agile way.
+
+123
+00:04:30,190 --> 00:04:31,527
+And, one of the ways we do that
+
+124
+00:04:31,527 --> 00:04:32,937
+is by workshops, I said, right?
+
+125
+00:04:32,937 --> 00:04:35,452
+Well, workshops are run as a way for us
+
+126
+00:04:35,452 --> 00:04:37,118
+to gather the information.
+
+127
+00:04:37,118 --> 00:04:40,327
+It uses live, face to
+face interaction workshop
+
+128
+00:04:40,327 --> 00:04:42,643
+as a way to gather these lessons learned.
+
+129
+00:04:42,643 --> 00:04:46,089
+A workshop is run usually
+by a neutral facilitator,
+
+130
+00:04:46,089 --> 00:04:48,308
+who can manage the workshop and make sure
+
+131
+00:04:48,308 --> 00:04:50,535
+the process is being done properly.
+
+132
+00:04:50,535 --> 00:04:52,094
+It is going to allow to get
+
+133
+00:04:52,094 --> 00:04:53,761
+these interactions and creativity.
+
+134
+00:04:53,761 --> 00:04:55,517
+We can use this for a retrospective.
+
+135
+00:04:55,517 --> 00:04:58,134
+But, we can also use this
+for the prioritization
+
+136
+00:04:58,134 --> 00:05:00,889
+in creating all the
+requirements for the product.
+
+137
+00:05:00,889 --> 00:05:04,441
+Workshops can be used at
+any point during a project.
+
+138
+00:05:04,441 --> 00:05:06,649
+And, they're really useful
+both at the beginning
+
+139
+00:05:06,649 --> 00:05:08,738
+of the project, with the
+requirements gathering,
+
+140
+00:05:08,738 --> 00:05:10,599
+but also at the end of each sprint,
+
+141
+00:05:10,599 --> 00:05:12,709
+using them for retrospectives.
+
+142
+00:05:12,709 --> 00:05:16,232
+Now, this can help us get
+quality outputs quickly,
+
+143
+00:05:16,232 --> 00:05:18,579
+if you conduct the proper preparation.
+
+144
+00:05:18,579 --> 00:05:20,412
+And, there are a couple
+key areas you want to think
+
+145
+00:05:20,412 --> 00:05:22,513
+about, when preparing for this workshop.
+
+146
+00:05:22,513 --> 00:05:24,453
+You want to make sure that you've defined
+
+147
+00:05:24,453 --> 00:05:26,314
+what the objective of the workshop is.
+
+148
+00:05:26,314 --> 00:05:28,848
+Are we doing this workshop
+to gather requirements?
+
+149
+00:05:28,848 --> 00:05:30,979
+Or, are we doing it as a retrospective?
+
+150
+00:05:30,979 --> 00:05:33,583
+We also need to figure out
+who needs to be in attendance.
+
+151
+00:05:33,583 --> 00:05:35,434
+If we're going to be
+gathering requirements,
+
+152
+00:05:35,434 --> 00:05:37,743
+that is going to be people
+like your suppliers.
+
+153
+00:05:37,743 --> 00:05:39,704
+That is going to be
+people like your customer,
+
+154
+00:05:39,704 --> 00:05:42,072
+your development team, your team manager,
+
+155
+00:05:42,072 --> 00:05:43,592
+and your project manager.
+
+156
+00:05:43,592 --> 00:05:45,290
+But, if we're going to do a retrospective,
+
+157
+00:05:45,290 --> 00:05:48,332
+we may have to bring in
+other people, or less people.
+
+158
+00:05:48,332 --> 00:05:49,922
+And, so we have to think about that.
+
+159
+00:05:49,922 --> 00:05:51,657
+Logistics. You need to think about
+
+160
+00:05:51,657 --> 00:05:53,459
+where you're going to hold this workshop.
+
+161
+00:05:53,459 --> 00:05:55,245
+Is it going to be done
+in a conference room?
+
+162
+00:05:55,245 --> 00:05:56,787
+Is it going to be done in a break room?
+
+163
+00:05:56,787 --> 00:05:58,840
+Is it going to be done
+virtually, over technology?
+
+164
+00:05:58,840 --> 00:06:00,937
+You have to think about all of that.
+
+165
+00:06:00,937 --> 00:06:02,436
+And then, finally, pre-reading.
+
+166
+00:06:02,436 --> 00:06:04,334
+When you're preparing for this workshop,
+
+167
+00:06:04,334 --> 00:06:06,707
+not only are you preparing
+to hold the workshop,
+
+168
+00:06:06,707 --> 00:06:09,442
+but the people who are coming
+should be prepared, as well.
+
+169
+00:06:09,442 --> 00:06:11,782
+So, if we're going to go through
+and we're going to develop
+
+170
+00:06:11,782 --> 00:06:13,603
+the idea for our next big product
+
+171
+00:06:13,603 --> 00:06:15,677
+as part of our requirements gathering,
+
+172
+00:06:15,677 --> 00:06:18,673
+and we're going to build a new iPhone app,
+
+173
+00:06:18,673 --> 00:06:20,339
+then we probably should
+have some pre-reading
+
+174
+00:06:20,339 --> 00:06:22,210
+so people can understand
+what's been popular
+
+175
+00:06:22,210 --> 00:06:24,082
+in the market space so far.
+
+176
+00:06:24,082 --> 00:06:26,491
+What are some of the ideas
+we're already thinking about?
+
+177
+00:06:26,491 --> 00:06:28,837
+And, they can start
+getting their minds ready
+
+178
+00:06:28,837 --> 00:06:31,254
+and in that mindset of
+what we're going to do
+
+179
+00:06:31,254 --> 00:06:32,859
+when we have this workshop.
+
+180
+00:06:32,859 --> 00:06:35,107
+Now, when we do workshops, I've found
+
+181
+00:06:35,107 --> 00:06:37,296
+that there are three
+great ways to hold these.
+
+182
+00:06:37,296 --> 00:06:39,001
+One is you want to make sure
+
+183
+00:06:39,001 --> 00:06:40,234
+you have lots of whiteboards there.
+
+184
+00:06:40,234 --> 00:06:42,416
+Because, you could write
+up ideas really quickly,
+
+185
+00:06:42,416 --> 00:06:43,866
+you can erase them if they're bad,
+
+186
+00:06:43,866 --> 00:06:45,885
+and you can keep moving on.
+
+187
+00:06:45,885 --> 00:06:48,311
+Workshops should also
+be group-working focus.
+
+188
+00:06:48,311 --> 00:06:49,800
+Everyone should be involved.
+
+189
+00:06:49,800 --> 00:06:51,890
+It shouldn't be one person
+running the whole show
+
+190
+00:06:51,890 --> 00:06:53,499
+and answering all of the questions.
+
+191
+00:06:53,499 --> 00:06:55,132
+You want to get everybody involved in it,
+
+192
+00:06:55,132 --> 00:06:57,219
+because the best ideas come
+from that collaboration
+
+193
+00:06:57,219 --> 00:06:59,528
+when we're working in an agile way.
+
+194
+00:06:59,528 --> 00:07:01,465
+And the other thing I
+find works really well
+
+195
+00:07:01,465 --> 00:07:03,493
+is sticky notes, especially when you are
+
+196
+00:07:03,493 --> 00:07:04,931
+doing your requirements gathering.
+
+197
+00:07:04,931 --> 00:07:06,332
+Because, you can write it
+down really quickly on a note
+
+198
+00:07:06,332 --> 00:07:08,259
+and stick it up on that whiteboard
+
+199
+00:07:08,259 --> 00:07:09,936
+and move them around very quickly.
+
+200
+00:07:09,936 --> 00:07:11,797
+And then, at the end, snap a picture of it
+
+201
+00:07:11,797 --> 00:07:13,599
+and you've got your work board
+
+202
+00:07:13,599 --> 00:07:14,871
+that you can start working from.
+
+203
+00:07:14,871 --> 00:07:16,490
+So this is just some of
+the ideas that you have,
+
+204
+00:07:16,490 --> 00:07:18,339
+when you start working
+through these workshops.
+
+205
+00:07:18,339 --> 00:07:19,862
+And, the more you practice them,
+
+206
+00:07:19,862 --> 00:07:21,241
+the better you're going to get.
+

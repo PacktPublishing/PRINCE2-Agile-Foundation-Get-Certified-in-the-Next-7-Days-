@@ -1,0 +1,934 @@
+﻿1
+00:00:00,470 --> 00:00:02,067
+- What is Agile?
+
+2
+00:00:02,067 --> 00:00:03,930
+Well, if you're taking this course,
+
+3
+00:00:03,930 --> 00:00:06,500
+I hope you at least have
+an idea of what Agile is.
+
+4
+00:00:06,500 --> 00:00:08,080
+But if not, that's okay.
+
+5
+00:00:08,080 --> 00:00:10,710
+We're going to teach
+you inside this lesson.
+
+6
+00:00:10,710 --> 00:00:13,660
+When we talk about Agile,
+Agile was developed to address
+
+7
+00:00:13,660 --> 00:00:16,643
+new demands being placed on
+the delivery of software.
+
+8
+00:00:16,643 --> 00:00:19,463
+Under the traditional model,
+we would start a project
+
+9
+00:00:19,463 --> 00:00:22,786
+and it might take six months
+or a year or two years
+
+10
+00:00:22,786 --> 00:00:25,010
+to deliver the end result.
+
+11
+00:00:25,010 --> 00:00:27,750
+But with Agile, the goal is
+to get things out quicker,
+
+12
+00:00:27,750 --> 00:00:30,960
+cheaper, and faster, and
+in most Agile developments,
+
+13
+00:00:30,960 --> 00:00:34,418
+something new is being released
+every two to four weeks.
+
+14
+00:00:34,418 --> 00:00:37,300
+Agile can be viewed in
+many different ways,
+
+15
+00:00:37,300 --> 00:00:39,790
+and in Prince2 Agile,
+it's not just talking
+
+16
+00:00:39,790 --> 00:00:41,170
+about software development.
+
+17
+00:00:41,170 --> 00:00:43,600
+We apply this to all projects.
+
+18
+00:00:43,600 --> 00:00:45,870
+And so we'll talk about
+when it's right to use Agile
+
+19
+00:00:45,870 --> 00:00:47,660
+verse when it's not right to use Agile
+
+20
+00:00:47,660 --> 00:00:49,640
+as we move through this course.
+
+21
+00:00:49,640 --> 00:00:51,910
+There are several well-known frameworks
+
+22
+00:00:51,910 --> 00:00:53,070
+that are out on the market
+
+23
+00:00:53,070 --> 00:00:55,470
+that are known as Agile ways of working.
+
+24
+00:00:55,470 --> 00:00:58,567
+Things like Kanban or Agile or Scrum.
+
+25
+00:00:58,567 --> 00:01:01,696
+And we'll talk about a lot
+of these as we move forward.
+
+26
+00:01:01,696 --> 00:01:05,578
+Agile is characterized basically
+as a family of behaviors,
+
+27
+00:01:05,578 --> 00:01:07,650
+concepts, and techniques.
+
+28
+00:01:07,650 --> 00:01:10,130
+There is no one way to do Agile.
+
+29
+00:01:10,130 --> 00:01:12,370
+But there are lots of
+different pieces and techniques
+
+30
+00:01:12,370 --> 00:01:15,320
+that can be put together
+to work in an Agile way.
+
+31
+00:01:15,320 --> 00:01:17,610
+And that's what Prince2 Agile tries to do
+
+32
+00:01:17,610 --> 00:01:20,040
+is they try to incorporate
+the best of different ways
+
+33
+00:01:20,040 --> 00:01:22,769
+of working into a
+framework that we can use
+
+34
+00:01:22,769 --> 00:01:27,178
+to deliver projects faster,
+cheaper, and better than before.
+
+35
+00:01:27,178 --> 00:01:30,720
+Now, when we talk about the
+old way of doing software,
+
+36
+00:01:30,720 --> 00:01:32,270
+what did it really look like?
+
+37
+00:01:32,270 --> 00:01:34,803
+Well, it used what's called
+a waterfall development.
+
+38
+00:01:34,803 --> 00:01:38,001
+This was a very linear
+process where we had an idea,
+
+39
+00:01:38,001 --> 00:01:40,510
+and then we had Phase One to Phase Two
+
+40
+00:01:40,510 --> 00:01:42,910
+to Phase Three to Phase
+Four to Phase Five,
+
+41
+00:01:42,910 --> 00:01:45,440
+and we actually then delivered something.
+
+42
+00:01:45,440 --> 00:01:46,870
+And so you could see how this
+
+43
+00:01:46,870 --> 00:01:49,470
+moved down the ladder over time,
+
+44
+00:01:49,470 --> 00:01:51,870
+and this may Have taken
+three months or six months
+
+45
+00:01:51,870 --> 00:01:54,330
+or 12 months from the time we had an idea
+
+46
+00:01:54,330 --> 00:01:56,900
+to the time something
+got out in operations.
+
+47
+00:01:56,900 --> 00:01:59,440
+This is the traditional
+project management method.
+
+48
+00:01:59,440 --> 00:02:02,820
+And this is what is shown
+basically back in the processes
+
+49
+00:02:02,820 --> 00:02:05,059
+I showed you in the seven process lecture
+
+50
+00:02:05,059 --> 00:02:07,610
+under the original Prince2 Framework.
+
+51
+00:02:07,610 --> 00:02:09,550
+Now, when we start moving into Agile,
+
+52
+00:02:09,550 --> 00:02:11,030
+we started using things that are
+
+53
+00:02:11,030 --> 00:02:12,600
+iterative in their development.
+
+54
+00:02:12,600 --> 00:02:14,090
+We did this spiral.
+
+55
+00:02:14,090 --> 00:02:16,750
+And so we kind of keep
+improving a little bit at a time
+
+56
+00:02:16,750 --> 00:02:18,450
+until we get to where we want to go.
+
+57
+00:02:18,450 --> 00:02:21,590
+And so you'll notice that now
+instead of having one product
+
+58
+00:02:21,590 --> 00:02:24,710
+that took us that entire
+time, let's say one year,
+
+59
+00:02:24,710 --> 00:02:26,620
+to get from concept to delivery.
+
+60
+00:02:26,620 --> 00:02:30,150
+In that same time we're now
+able to get four products out.
+
+61
+00:02:30,150 --> 00:02:32,840
+Now, are they the same
+level of depth of a product?
+
+62
+00:02:32,840 --> 00:02:34,100
+Probably not.
+
+63
+00:02:34,100 --> 00:02:37,890
+But, we're getting more out,
+better, faster, and cheaper.
+
+64
+00:02:37,890 --> 00:02:39,180
+And notice that the first time
+
+65
+00:02:39,180 --> 00:02:40,370
+we got something in operations
+
+66
+00:02:40,370 --> 00:02:43,750
+was only about 30 to 40% of
+the way along this timeline.
+
+67
+00:02:43,750 --> 00:02:45,580
+And so by doing this spiral,
+
+68
+00:02:45,580 --> 00:02:48,299
+we can really get things
+done quicker, faster,
+
+69
+00:02:48,299 --> 00:02:51,000
+and get things into the hand of our user.
+
+70
+00:02:51,000 --> 00:02:52,300
+That's the whole idea of Agile.
+
+71
+00:02:52,300 --> 00:02:54,260
+If we want to get
+something out there quickly
+
+72
+00:02:54,260 --> 00:02:56,960
+so we can get feedback on it, better it,
+
+73
+00:02:56,960 --> 00:02:59,110
+improve upon it, and
+then put out Version Two,
+
+74
+00:02:59,110 --> 00:03:00,780
+Version Three, and Version Four.
+
+75
+00:03:00,780 --> 00:03:04,557
+And by doing that, we get a
+lot better product in the end.
+
+76
+00:03:04,557 --> 00:03:07,320
+Now, this whole thing
+about Agile was created
+
+77
+00:03:07,320 --> 00:03:09,951
+based on a document called
+the Agile Manifesto.
+
+78
+00:03:09,951 --> 00:03:12,716
+This is the closest
+single definition of Agile
+
+79
+00:03:12,716 --> 00:03:14,100
+you're going to be able to find.
+
+80
+00:03:14,100 --> 00:03:15,980
+And it was created as this alternative
+
+81
+00:03:15,980 --> 00:03:18,618
+to that slower waterfall
+development process.
+
+82
+00:03:18,618 --> 00:03:20,970
+So if you pull up the Agile Manifesto,
+
+83
+00:03:20,970 --> 00:03:23,297
+you'll see that it starts out this way.
+
+84
+00:03:23,297 --> 00:03:25,987
+"We are uncovering better
+ways of developing software
+
+85
+00:03:25,987 --> 00:03:28,617
+"by doing it and helping others do it.
+
+86
+00:03:28,617 --> 00:03:31,107
+"Through this work, we have come to value
+
+87
+00:03:31,107 --> 00:03:32,258
+"these four things:
+
+88
+00:03:32,258 --> 00:03:36,967
+"individuals and interactions
+over processes and tools.
+
+89
+00:03:36,967 --> 00:03:40,567
+"Working software over
+comprehensive documentation.
+
+90
+00:03:40,567 --> 00:03:44,077
+"Customer collaboration
+over contract negotiation.
+
+91
+00:03:44,077 --> 00:03:47,328
+"And responding to change
+over following a plan.
+
+92
+00:03:47,328 --> 00:03:50,661
+"That is, while there is value
+on the things on the right,
+
+93
+00:03:50,661 --> 00:03:53,498
+"we value the things on the left more."
+
+94
+00:03:53,498 --> 00:03:55,670
+So, what this really breaks down
+
+95
+00:03:55,670 --> 00:03:58,920
+is the fact that Agile
+is a team-based approach.
+
+96
+00:03:58,920 --> 00:04:01,910
+They focus on these individuals
+and this interaction
+
+97
+00:04:01,910 --> 00:04:03,700
+that happens to bridge communications
+
+98
+00:04:03,700 --> 00:04:05,900
+instead of doing things based on processes
+
+99
+00:04:05,900 --> 00:04:07,930
+and tools and the old ways.
+
+100
+00:04:07,930 --> 00:04:11,020
+They focus on getting working
+software out there quicker
+
+101
+00:04:11,020 --> 00:04:13,270
+and faster as opposed to having a product
+
+102
+00:04:13,270 --> 00:04:15,970
+that may be perfect and well-documented,
+
+103
+00:04:15,970 --> 00:04:18,440
+but it took three years
+to get it to market.
+
+104
+00:04:18,440 --> 00:04:20,627
+They focus on this customer collaboration
+
+105
+00:04:20,627 --> 00:04:23,140
+where it's actually a
+process where the customer
+
+106
+00:04:23,140 --> 00:04:25,300
+and the supplier are working together
+
+107
+00:04:25,300 --> 00:04:27,040
+to get this product to market,
+
+108
+00:04:27,040 --> 00:04:29,920
+as opposed to the traditional
+contract negotiations
+
+109
+00:04:29,920 --> 00:04:32,570
+where everything is written
+up formally, legally,
+
+110
+00:04:32,570 --> 00:04:34,380
+and with a scope of work.
+
+111
+00:04:34,380 --> 00:04:36,550
+They work on responding to change
+
+112
+00:04:36,550 --> 00:04:38,590
+over this following of a plan
+
+113
+00:04:38,590 --> 00:04:40,940
+because things change in the development.
+
+114
+00:04:40,940 --> 00:04:42,610
+If you're building a
+website and somebody says,
+
+115
+00:04:42,610 --> 00:04:44,280
+you know what, I don't
+want it to blue, I want it
+
+116
+00:04:44,280 --> 00:04:46,820
+to be purple, can you go
+through and change that quickly?
+
+117
+00:04:46,820 --> 00:04:49,440
+Or do we have to go back to
+a new contract negotiation?
+
+118
+00:04:49,440 --> 00:04:50,850
+In the old methods, we would have
+
+119
+00:04:50,850 --> 00:04:52,790
+to go back to a contract negotiation.
+
+120
+00:04:52,790 --> 00:04:54,260
+But in Agile we don't.
+
+121
+00:04:54,260 --> 00:04:56,832
+We're able to work
+quicker, faster, and better
+
+122
+00:04:56,832 --> 00:04:59,420
+by using these processes
+and these techniques.
+
+123
+00:04:59,420 --> 00:05:01,470
+And that is what Agile is focused on.
+
+124
+00:05:01,470 --> 00:05:03,630
+So if you're familiar
+in the software world
+
+125
+00:05:03,630 --> 00:05:05,830
+and you've heard of
+Agile development before,
+
+126
+00:05:05,830 --> 00:05:07,510
+you'll notice that there's generally
+
+127
+00:05:07,510 --> 00:05:09,950
+this basic perception of what Agile is.
+
+128
+00:05:09,950 --> 00:05:11,910
+And it comes down to three main things.
+
+129
+00:05:11,910 --> 00:05:13,920
+They think about it as
+a time-based approach,
+
+130
+00:05:13,920 --> 00:05:16,440
+they think about it as a
+collection of techniques,
+
+131
+00:05:16,440 --> 00:05:19,010
+and they think about it
+in the terms of Scrum.
+
+132
+00:05:19,010 --> 00:05:21,330
+Now, when I talk about
+a time-boxed approach,
+
+133
+00:05:21,330 --> 00:05:23,870
+this is where Agile likes to take things
+
+134
+00:05:23,870 --> 00:05:27,260
+and break it down instead
+of into stages, into time.
+
+135
+00:05:27,260 --> 00:05:29,466
+And everything is a fixed unit of time.
+
+136
+00:05:29,466 --> 00:05:32,500
+And so, your time might
+be every two weeks,
+
+137
+00:05:32,500 --> 00:05:33,680
+we're going to release something.
+
+138
+00:05:33,680 --> 00:05:35,920
+Or every four weeks we're
+going to release something.
+
+139
+00:05:35,920 --> 00:05:38,590
+That is a time-based approach
+or a time-boxed approach.
+
+140
+00:05:38,590 --> 00:05:40,450
+Now, the second thing is this
+
+141
+00:05:40,450 --> 00:05:42,320
+collection of Agile techniques.
+
+142
+00:05:42,320 --> 00:05:44,990
+And int he software world, a
+lot of times we'll take things
+
+143
+00:05:44,990 --> 00:05:47,880
+out of different pieces of
+Agile from different techniques
+
+144
+00:05:47,880 --> 00:05:49,340
+and try to combine them together
+
+145
+00:05:49,340 --> 00:05:51,180
+to get to a finished product.
+
+146
+00:05:51,180 --> 00:05:53,140
+And then finally we have Scrum.
+
+147
+00:05:53,140 --> 00:05:55,870
+Scrum has become almost
+synonymous with Agile.
+
+148
+00:05:55,870 --> 00:05:58,410
+But, there are lots of
+other frameworks out there
+
+149
+00:05:58,410 --> 00:06:00,610
+that are Agile that aren't Scrum.
+
+150
+00:06:00,610 --> 00:06:03,340
+And so as we try to
+expand our view from just
+
+151
+00:06:03,340 --> 00:06:06,640
+this basic view of Agile
+into a more wholistic view,
+
+152
+00:06:06,640 --> 00:06:09,030
+we look at how Prince2 use Agile.
+
+153
+00:06:09,030 --> 00:06:11,000
+And in Prince2, we look at Agile
+
+154
+00:06:11,000 --> 00:06:12,790
+beyond this basic perception.
+
+155
+00:06:12,790 --> 00:06:14,800
+We look at it more comprehensively.
+
+156
+00:06:14,800 --> 00:06:17,290
+We want to think about
+it more as the vision,
+
+157
+00:06:17,290 --> 00:06:20,060
+the roadmap, and the releases
+we want to get out there.
+
+158
+00:06:20,060 --> 00:06:21,990
+That's kind of the overarching plan.
+
+159
+00:06:21,990 --> 00:06:24,261
+We think about it in non-IT situations.
+
+160
+00:06:24,261 --> 00:06:26,902
+We can use Agile to do
+all sorts of things,
+
+161
+00:06:26,902 --> 00:06:29,816
+from marketing campaigns to websites
+
+162
+00:06:29,816 --> 00:06:32,200
+to building a fixed product.
+
+163
+00:06:32,200 --> 00:06:34,650
+And we think about it in
+terms of project work,
+
+164
+00:06:34,650 --> 00:06:36,730
+not as business as usual,
+
+165
+00:06:36,730 --> 00:06:39,350
+which is a lot of what Agile is used for.
+
+166
+00:06:39,350 --> 00:06:40,880
+And the final thing we think about,
+
+167
+00:06:40,880 --> 00:06:42,900
+is it being flow-based work,
+
+168
+00:06:42,900 --> 00:06:45,620
+where we can take more or get less
+
+169
+00:06:45,620 --> 00:06:48,660
+based on how fast we can
+process through requirements.
+
+170
+00:06:48,660 --> 00:06:50,640
+With a basic perception of Agile,
+
+171
+00:06:50,640 --> 00:06:53,530
+we have a product backlog,
+it's all the requirements
+
+172
+00:06:53,530 --> 00:06:55,640
+that we have from our customers.
+
+173
+00:06:55,640 --> 00:06:57,940
+We'll pick out what we're
+going to use in our time box,
+
+174
+00:06:57,940 --> 00:06:59,700
+called a sprint, and say we'll take
+
+175
+00:06:59,700 --> 00:07:01,220
+five or six different requirements,
+
+176
+00:07:01,220 --> 00:07:03,690
+and we're going to work on
+them this two-week period.
+
+177
+00:07:03,690 --> 00:07:06,360
+We'll get all those worked, and
+we'll ship that product out.
+
+178
+00:07:06,360 --> 00:07:07,630
+And then we'll start another sprint.
+
+179
+00:07:07,630 --> 00:07:09,040
+We'll pull out more backlog.
+
+180
+00:07:09,040 --> 00:07:11,430
+We'll work on those, and
+we'll ship those products out.
+
+181
+00:07:11,430 --> 00:07:13,930
+That's the way a basic Agile will work
+
+182
+00:07:13,930 --> 00:07:15,610
+in the software world.
+
+183
+00:07:15,610 --> 00:07:17,980
+Now, with Prince2 Agile,
+we're going to take those
+
+184
+00:07:17,980 --> 00:07:21,170
+Agile sprints and combine them
+with our Prince2 processes.
+
+185
+00:07:21,170 --> 00:07:23,540
+And so you can see here
+that we have our typical
+
+186
+00:07:23,540 --> 00:07:26,630
+Agile process that only
+talks about sprints.
+
+187
+00:07:26,630 --> 00:07:28,720
+But here we're going to
+build in this governance
+
+188
+00:07:28,720 --> 00:07:31,170
+and control mechanism that we can use it
+
+189
+00:07:31,170 --> 00:07:33,450
+with other projects that
+aren't just software.
+
+190
+00:07:33,450 --> 00:07:36,210
+And so you'll see in the
+starting upper project phase
+
+191
+00:07:36,210 --> 00:07:39,020
+and the initiating a project
+phase, we are going to have
+
+192
+00:07:39,020 --> 00:07:41,297
+the vision and the
+product backlog created.
+
+193
+00:07:41,297 --> 00:07:43,730
+From that, we're going to
+select what's going to go
+
+194
+00:07:43,730 --> 00:07:47,227
+into our controlling
+stage, which is our sprint.
+
+195
+00:07:47,227 --> 00:07:49,650
+And here we're going to
+get our sprint backlog.
+
+196
+00:07:49,650 --> 00:07:51,470
+We're going to put those into our time box
+
+197
+00:07:51,470 --> 00:07:54,350
+of two to four weeks, we're
+going to work on those,
+
+198
+00:07:54,350 --> 00:07:56,340
+we're going to get the
+product backlog done,
+
+199
+00:07:56,340 --> 00:07:59,010
+we're going to get the release
+backlog done, and then we're
+
+200
+00:07:59,010 --> 00:08:02,170
+going to be able to get
+approval to ship that product.
+
+201
+00:08:02,170 --> 00:08:04,530
+Now, this may not look very different yet,
+
+202
+00:08:04,530 --> 00:08:05,870
+but as we go through the course
+
+203
+00:08:05,870 --> 00:08:08,170
+and we talk about each
+of these things in depth,
+
+204
+00:08:08,170 --> 00:08:10,890
+it really is going to tie
+together and make a lot sense.
+
+205
+00:08:10,890 --> 00:08:14,270
+The idea here is that we can
+apply these Agile concepts
+
+206
+00:08:14,270 --> 00:08:15,950
+to anything we want to build.
+
+207
+00:08:15,950 --> 00:08:17,753
+It doesn't have to just be software.
+

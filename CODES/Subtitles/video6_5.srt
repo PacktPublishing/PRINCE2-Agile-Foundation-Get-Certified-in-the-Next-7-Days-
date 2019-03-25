@@ -1,0 +1,418 @@
+﻿1
+00:00:00,500 --> 00:00:03,130
+- As we move from
+controlling a stage process
+
+2
+00:00:03,130 --> 00:00:05,320
+down into the managing product delivery,
+
+3
+00:00:05,320 --> 00:00:07,850
+we're going to take the focus
+away from the project manager
+
+4
+00:00:07,850 --> 00:00:10,690
+and put it down on the
+team and the team manager.
+
+5
+00:00:10,690 --> 00:00:13,320
+This is one of the areas where
+most of the Agile techniques
+
+6
+00:00:13,320 --> 00:00:15,650
+and practices are going
+to be used directly
+
+7
+00:00:15,650 --> 00:00:17,810
+by the delivery team
+to improve the quality
+
+8
+00:00:17,810 --> 00:00:19,650
+and engagement of the process.
+
+9
+00:00:19,650 --> 00:00:21,720
+We're going to use management
+frameworks like Scrum
+
+10
+00:00:21,720 --> 00:00:24,360
+and delivery process
+frameworks like Kanban.
+
+11
+00:00:24,360 --> 00:00:27,520
+Either way, as we put
+these processes into use,
+
+12
+00:00:27,520 --> 00:00:29,410
+we're going to start
+delivering a better project
+
+13
+00:00:29,410 --> 00:00:31,600
+in a better, more agile way.
+
+14
+00:00:31,600 --> 00:00:34,850
+Now, inside the Managing
+Product Delivery process,
+
+15
+00:00:34,850 --> 00:00:38,170
+we are going to be focused very
+heavily on those work packages.
+
+16
+00:00:38,170 --> 00:00:40,770
+Those work packages are going
+to be created collaboratively
+
+17
+00:00:40,770 --> 00:00:43,010
+with the project manager
+and the team manager,
+
+18
+00:00:43,010 --> 00:00:44,930
+and they're going to serve as a vital link
+
+19
+00:00:44,930 --> 00:00:47,970
+and a vital interface
+between those two managers.
+
+20
+00:00:47,970 --> 00:00:49,610
+This is going to provide the team manager
+
+21
+00:00:49,610 --> 00:00:52,640
+and the team underneath
+them with defined tolerances
+
+22
+00:00:52,640 --> 00:00:54,440
+for the work they're
+going to be working on.
+
+23
+00:00:54,440 --> 00:00:55,920
+This is going to help them define
+
+24
+00:00:55,920 --> 00:00:58,480
+what the product descriptions
+are at the correct level,
+
+25
+00:00:58,480 --> 00:01:00,000
+to ensure that they're not these epics,
+
+26
+00:01:00,000 --> 00:01:01,600
+but they're down at the user story
+
+27
+00:01:01,600 --> 00:01:03,800
+and detailed level that they need.
+
+28
+00:01:03,800 --> 00:01:06,070
+This also is going to make
+sure that the project manager
+
+29
+00:01:06,070 --> 00:01:08,810
+and the team manager both
+agree to and understand
+
+30
+00:01:08,810 --> 00:01:11,700
+the guidance that's being
+provided for areas like quality,
+
+31
+00:01:11,700 --> 00:01:15,580
+releases and risk, so what
+else is really important here
+
+32
+00:01:15,580 --> 00:01:17,800
+at the managing product delivery level?
+
+33
+00:01:17,800 --> 00:01:19,790
+Well, in addition to those work packages,
+
+34
+00:01:19,790 --> 00:01:21,730
+we also want to make sure we understand
+
+35
+00:01:21,730 --> 00:01:24,250
+what reporting arrangements
+are being used.
+
+36
+00:01:24,250 --> 00:01:25,340
+Are we going to be responsible
+
+37
+00:01:25,340 --> 00:01:27,700
+for providing a checkpoint report up,
+
+38
+00:01:27,700 --> 00:01:29,490
+or are we going to have
+the project manager
+
+39
+00:01:29,490 --> 00:01:31,340
+sitting in our daily standups?
+
+40
+00:01:31,340 --> 00:01:33,370
+Either is okay, it just
+depends on the level
+
+41
+00:01:33,370 --> 00:01:35,900
+of formality and transparency
+that you want to have
+
+42
+00:01:35,900 --> 00:01:37,810
+up with the project manager.
+
+43
+00:01:37,810 --> 00:01:40,630
+Wider project context
+should really be understood
+
+44
+00:01:40,630 --> 00:01:42,250
+down at the team level as well.
+
+45
+00:01:42,250 --> 00:01:44,160
+This is important because in Agile,
+
+46
+00:01:44,160 --> 00:01:46,560
+we always want to be working
+in a very collaborative
+
+47
+00:01:46,560 --> 00:01:47,960
+and transparent way.
+
+48
+00:01:47,960 --> 00:01:49,780
+If there's multiple different teams
+
+49
+00:01:49,780 --> 00:01:51,170
+that are working on this project,
+
+50
+00:01:51,170 --> 00:01:53,560
+we should also know what the
+other teams are working on.
+
+51
+00:01:53,560 --> 00:01:55,430
+That gives us that wider context
+
+52
+00:01:55,430 --> 00:01:57,400
+of what's going on inside the project
+
+53
+00:01:57,400 --> 00:01:59,900
+and helps us to be more efficient.
+
+54
+00:01:59,900 --> 00:02:03,330
+Now, once the team understands
+the wider project context,
+
+55
+00:02:03,330 --> 00:02:04,900
+this helps them in understanding
+
+56
+00:02:04,900 --> 00:02:07,350
+how to prioritize things for delivery.
+
+57
+00:02:07,350 --> 00:02:09,710
+Now, as we do that, all
+of this prioritization
+
+58
+00:02:09,710 --> 00:02:12,640
+should have been done back
+in project initiation,
+
+59
+00:02:12,640 --> 00:02:14,820
+so we know what the project board expects,
+
+60
+00:02:14,820 --> 00:02:16,880
+as the high priorities,
+the medium priorities,
+
+61
+00:02:16,880 --> 00:02:18,180
+and the low priorities.
+
+62
+00:02:18,180 --> 00:02:19,530
+And based on that, we're going to be able
+
+63
+00:02:19,530 --> 00:02:21,820
+to select the appropriate order of work.
+
+64
+00:02:21,820 --> 00:02:23,720
+Any time we have changes, we have to think
+
+65
+00:02:23,720 --> 00:02:26,730
+about are these big
+changes or little changes?
+
+66
+00:02:26,730 --> 00:02:28,800
+If they're changes at the detail level,
+
+67
+00:02:28,800 --> 00:02:30,510
+these are more dynamic and can be handled
+
+68
+00:02:30,510 --> 00:02:31,860
+down at the team level.
+
+69
+00:02:31,860 --> 00:02:34,060
+If they're going to be a
+big change to the project,
+
+70
+00:02:34,060 --> 00:02:37,010
+like we're going to go from a
+four-seat car to a two-seat car,
+
+71
+00:02:37,010 --> 00:02:38,210
+that's something we're going to have to go
+
+72
+00:02:38,210 --> 00:02:39,760
+and make a change to the baseline,
+
+73
+00:02:39,760 --> 00:02:42,580
+using a formal change management process.
+
+74
+00:02:42,580 --> 00:02:44,720
+Prioritization is needed for all of this,
+
+75
+00:02:44,720 --> 00:02:46,370
+because it's going to help us determine
+
+76
+00:02:46,370 --> 00:02:49,250
+what things can be changed,
+what things must be worked first
+
+77
+00:02:49,250 --> 00:02:51,420
+and what things would be worked last.
+
+78
+00:02:51,420 --> 00:02:53,360
+Also, when we look a prioritization,
+
+79
+00:02:53,360 --> 00:02:55,360
+we're going to look at
+what has a higher priority,
+
+80
+00:02:55,360 --> 00:02:57,610
+quality criteria or functional
+
+81
+00:02:57,610 --> 00:02:59,310
+or non-functional requirements.
+
+82
+00:02:59,310 --> 00:03:01,690
+As we start prioritizing
+things in quality,
+
+83
+00:03:01,690 --> 00:03:03,500
+and the acceptance criteria to know,
+
+84
+00:03:03,500 --> 00:03:05,910
+this is a level of
+quality that must be met,
+
+85
+00:03:05,910 --> 00:03:08,480
+and this is a number one priority,
+we will work towards that
+
+86
+00:03:08,480 --> 00:03:10,850
+and descope out functional requirements.
+
+87
+00:03:10,850 --> 00:03:13,590
+Or, you may be told that
+quality is not as important
+
+88
+00:03:13,590 --> 00:03:15,320
+and function is more important,
+
+89
+00:03:15,320 --> 00:03:17,180
+and so we're going to
+put more functions in
+
+90
+00:03:17,180 --> 00:03:18,830
+and lower down our quality.
+
+91
+00:03:18,830 --> 00:03:21,270
+This again is that quality
+versus scope balance
+
+92
+00:03:21,270 --> 00:03:23,820
+that we're going to have to
+make based on the prioritization
+
+93
+00:03:23,820 --> 00:03:26,543
+that we get from the project
+initiation documents.
+

@@ -1,0 +1,1137 @@
+﻿1
+00:00:00,120 --> 00:00:03,200
+- So, how do we use Scrum in our projects?
+
+2
+00:00:03,200 --> 00:00:05,090
+Well, when we start using Scrum,
+
+3
+00:00:05,090 --> 00:00:08,410
+we're trying to do it to
+create some sort of product
+
+4
+00:00:08,410 --> 00:00:10,050
+that can be sent out when we're done.
+
+5
+00:00:10,050 --> 00:00:10,883
+Right?
+
+6
+00:00:10,883 --> 00:00:13,540
+And that comes down to
+three different areas.
+
+7
+00:00:13,540 --> 00:00:16,340
+We have a product
+backlog, a sprint backlog,
+
+8
+00:00:16,340 --> 00:00:18,550
+and then a final shippable product.
+
+9
+00:00:18,550 --> 00:00:21,080
+All of these are known as artifacts.
+
+10
+00:00:21,080 --> 00:00:24,180
+Now the product backlog is
+something that's going to list all
+
+11
+00:00:24,180 --> 00:00:27,350
+of the features, all of the
+requirements, the enhancements,
+
+12
+00:00:27,350 --> 00:00:30,550
+and the fixes that we
+propose for future releases.
+
+13
+00:00:30,550 --> 00:00:33,400
+This is done by using
+epics and user stories,
+
+14
+00:00:33,400 --> 00:00:34,700
+and we'll talk about both of those more
+
+15
+00:00:34,700 --> 00:00:36,580
+as we go through the course.
+
+16
+00:00:36,580 --> 00:00:37,990
+Continually, over time,
+
+17
+00:00:37,990 --> 00:00:40,890
+we're going to keep
+refining these backlog ideas
+
+18
+00:00:40,890 --> 00:00:43,350
+and we're going to add details
+to them, estimates to them,
+
+19
+00:00:43,350 --> 00:00:45,280
+and order and prioritization to them
+
+20
+00:00:45,280 --> 00:00:47,430
+until they are quote ready.
+
+21
+00:00:47,430 --> 00:00:48,760
+When something is ready,
+
+22
+00:00:48,760 --> 00:00:51,150
+it's put into what's
+called the ready status.
+
+23
+00:00:51,150 --> 00:00:54,150
+This means it's a product
+that can be actually moved
+
+24
+00:00:54,150 --> 00:00:56,740
+into the development
+team for them to work on
+
+25
+00:00:56,740 --> 00:00:59,270
+until it's done and ready to be shipped.
+
+26
+00:00:59,270 --> 00:01:01,860
+And so, once we get this
+requirement firmed up,
+
+27
+00:01:01,860 --> 00:01:04,520
+that's when we can call it a ready status.
+
+28
+00:01:04,520 --> 00:01:06,200
+Now, once we get it ready,
+
+29
+00:01:06,200 --> 00:01:09,590
+it can move on into what's
+called the sprint backlog.
+
+30
+00:01:09,590 --> 00:01:11,410
+And this is where we take a set of items
+
+31
+00:01:11,410 --> 00:01:14,500
+from the product backlog and say
+they're going to be worked on
+
+32
+00:01:14,500 --> 00:01:17,220
+during this time box and this sprint.
+
+33
+00:01:17,220 --> 00:01:18,460
+The items here are the ones
+
+34
+00:01:18,460 --> 00:01:21,380
+that are going to create the
+highest business value for us,
+
+35
+00:01:21,380 --> 00:01:23,530
+and they're pulled by the team to work on.
+
+36
+00:01:23,530 --> 00:01:24,820
+So the development team, actually,
+
+37
+00:01:24,820 --> 00:01:26,837
+is going to go into the backlog and go,
+
+38
+00:01:26,837 --> 00:01:29,017
+"What five or six things can we work on
+
+39
+00:01:29,017 --> 00:01:30,857
+"in this next two weeks that will give
+
+40
+00:01:30,857 --> 00:01:33,320
+"us the best value for the business?"
+
+41
+00:01:33,320 --> 00:01:35,020
+And the way they do
+this is by going through
+
+42
+00:01:35,020 --> 00:01:38,120
+and figuring out which ones
+are ready for them to work on
+
+43
+00:01:38,120 --> 00:01:40,490
+and which ones have the highest priority.
+
+44
+00:01:40,490 --> 00:01:43,270
+Now, in addition to pulling
+these product backlog ones
+
+45
+00:01:43,270 --> 00:01:45,520
+in to work on, they also are required
+
+46
+00:01:45,520 --> 00:01:49,330
+to take at least one high
+priority process improvement item
+
+47
+00:01:49,330 --> 00:01:51,100
+and include that into the sprint as well.
+
+48
+00:01:51,100 --> 00:01:53,210
+Because part of our sprints
+is trying to make sure
+
+49
+00:01:53,210 --> 00:01:55,490
+that we're always improving
+and getting better.
+
+50
+00:01:55,490 --> 00:01:57,650
+So we're going to create things to finish
+
+51
+00:01:57,650 --> 00:02:00,810
+into the finish product to
+get a done shippable product,
+
+52
+00:02:00,810 --> 00:02:03,650
+but we also want to fix
+our processes themself
+
+53
+00:02:03,650 --> 00:02:06,460
+to get us better, faster,
+and more efficient.
+
+54
+00:02:06,460 --> 00:02:08,120
+And that brings us to the last piece.
+
+55
+00:02:08,120 --> 00:02:10,370
+So, once we've taken it
+from the product backlog
+
+56
+00:02:10,370 --> 00:02:13,370
+to the sprint backlog, we now finish it
+
+57
+00:02:13,370 --> 00:02:16,410
+and we put it all together into
+what's called an increment.
+
+58
+00:02:16,410 --> 00:02:18,730
+An increment is the culmination of all
+
+59
+00:02:18,730 --> 00:02:20,470
+of the product backlog items
+
+60
+00:02:20,470 --> 00:02:22,960
+that were completed during this sprint.
+
+61
+00:02:22,960 --> 00:02:26,010
+These items are all ready
+and in an usable condition
+
+62
+00:02:26,010 --> 00:02:27,660
+to be shipped, released,
+
+63
+00:02:27,660 --> 00:02:30,580
+and considered done and off the table.
+
+64
+00:02:30,580 --> 00:02:34,150
+Once we do that, that is something
+that we release to market
+
+65
+00:02:34,150 --> 00:02:37,230
+or release as a prototype
+to get more feedback on
+
+66
+00:02:37,230 --> 00:02:39,190
+as we move forward through the process.
+
+67
+00:02:39,190 --> 00:02:41,250
+And so, that's the three
+artifacts that we have.
+
+68
+00:02:41,250 --> 00:02:45,740
+That product backlog, the spring
+backlog, and the increment.
+
+69
+00:02:45,740 --> 00:02:47,130
+Now, as we move forward,
+
+70
+00:02:47,130 --> 00:02:49,050
+we're going to start talking
+about the five events
+
+71
+00:02:49,050 --> 00:02:50,310
+inside of Scrum.
+
+72
+00:02:50,310 --> 00:02:54,250
+This is our sprint, our sprint
+planning, our daily scrum,
+
+73
+00:02:54,250 --> 00:02:57,650
+our sprint review, and
+our sprint retrospective.
+
+74
+00:02:57,650 --> 00:02:59,210
+Now, what are these?
+
+75
+00:02:59,210 --> 00:03:01,520
+Well, the sprint is
+what we're going to use,
+
+76
+00:03:01,520 --> 00:03:05,030
+which is a time-based
+event of one month or less.
+
+77
+00:03:05,030 --> 00:03:08,620
+Generally, you'll see this
+as two weeks or four weeks.
+
+78
+00:03:08,620 --> 00:03:11,980
+In a sprint, we're going to
+take stuff from the backlog,
+
+79
+00:03:11,980 --> 00:03:13,670
+work on it through the development team,
+
+80
+00:03:13,670 --> 00:03:17,590
+and create a done usable,
+releasable increment.
+
+81
+00:03:17,590 --> 00:03:18,423
+This will allow us
+
+82
+00:03:18,423 --> 00:03:20,910
+to maintain a consistent
+duration throughout the project
+
+83
+00:03:20,910 --> 00:03:23,810
+because we're always going
+to use the same time box,
+
+84
+00:03:23,810 --> 00:03:25,490
+either two weeks or four weeks
+
+85
+00:03:25,490 --> 00:03:27,440
+or whatever your company is going to use.
+
+86
+00:03:27,440 --> 00:03:29,460
+That's the idea here with a sprint.
+
+87
+00:03:29,460 --> 00:03:31,740
+Now, as we move forward, we're
+going to spring planning.
+
+88
+00:03:31,740 --> 00:03:33,730
+How do we figure out what
+we're going to work on,
+
+89
+00:03:33,730 --> 00:03:35,400
+on this sprint?
+
+90
+00:03:35,400 --> 00:03:37,680
+Well, we're going to do that
+through sprint planning.
+
+91
+00:03:37,680 --> 00:03:40,210
+And this is a plan that
+is created collaboratively
+
+92
+00:03:40,210 --> 00:03:42,510
+with the entire scrum team.
+
+93
+00:03:42,510 --> 00:03:44,350
+That includes a scrum master,
+
+94
+00:03:44,350 --> 00:03:45,970
+that's going to include the product owner
+
+95
+00:03:45,970 --> 00:03:47,560
+as well as the development team.
+
+96
+00:03:47,560 --> 00:03:50,400
+They're all going to sit down
+in something like a workshop,
+
+97
+00:03:50,400 --> 00:03:51,233
+they'll do it,
+
+98
+00:03:51,233 --> 00:03:53,290
+and it's going to take less
+than eight hours per month
+
+99
+00:03:53,290 --> 00:03:55,630
+for them to sit down at
+this time-boxed event
+
+100
+00:03:55,630 --> 00:03:59,340
+and decide what are we going to
+work on during this increment,
+
+101
+00:03:59,340 --> 00:04:00,990
+during this sprint.
+
+102
+00:04:00,990 --> 00:04:02,640
+What kind of work are we going to do,
+
+103
+00:04:02,640 --> 00:04:05,450
+and how will the work need to
+be performed to be achieved?
+
+104
+00:04:05,450 --> 00:04:07,220
+And this is why we have
+the product owner there
+
+105
+00:04:07,220 --> 00:04:08,617
+because the product owner is going to say,
+
+106
+00:04:08,617 --> 00:04:11,640
+"This is really important,
+this gives us high value,"
+
+107
+00:04:11,640 --> 00:04:13,687
+and then you have the
+development team there who says,
+
+108
+00:04:13,687 --> 00:04:15,557
+"That's great, but in this two weeks
+
+109
+00:04:15,557 --> 00:04:17,937
+"I can only get done x amount of work,
+
+110
+00:04:17,937 --> 00:04:20,227
+"so I can't do all five
+high priority things.
+
+111
+00:04:20,227 --> 00:04:21,977
+"I'll take numbers one and two,
+
+112
+00:04:21,977 --> 00:04:24,080
+"and I'll work on the other
+ones in the next sprint."
+
+113
+00:04:24,080 --> 00:04:26,640
+And you can start planning
+out your sprints that way.
+
+114
+00:04:26,640 --> 00:04:28,190
+The next thing we're
+going to talk about here
+
+115
+00:04:28,190 --> 00:04:29,530
+is our daily scrum.
+
+116
+00:04:29,530 --> 00:04:32,750
+And this is a time-boxed
+event that takes 15 minutes
+
+117
+00:04:32,750 --> 00:04:36,000
+or less and it only occurs
+with the development team.
+
+118
+00:04:36,000 --> 00:04:37,980
+The development team comes in the morning,
+
+119
+00:04:37,980 --> 00:04:39,580
+they do this daily stand-up,
+
+120
+00:04:39,580 --> 00:04:42,240
+and this meeting is going
+to be done to talk about
+
+121
+00:04:42,240 --> 00:04:44,660
+what did we do in the last 24 hours,
+
+122
+00:04:44,660 --> 00:04:46,590
+and what are we going to work on today?
+
+123
+00:04:46,590 --> 00:04:49,450
+This will help us to
+identify any issues, risks,
+
+124
+00:04:49,450 --> 00:04:53,020
+or challenges, and help us
+finish our increment on time,
+
+125
+00:04:53,020 --> 00:04:54,020
+on budget.
+
+126
+00:04:54,020 --> 00:04:55,260
+That's the idea here.
+
+127
+00:04:55,260 --> 00:04:57,900
+So, this daily scrum is
+really this leveling meeting
+
+128
+00:04:57,900 --> 00:04:59,540
+that allows everybody
+on the development team
+
+129
+00:04:59,540 --> 00:05:02,330
+to come together and
+figure out what did we do
+
+130
+00:05:02,330 --> 00:05:04,370
+and what are we going to do today.
+
+131
+00:05:04,370 --> 00:05:05,950
+Next, we have our sprint review.
+
+132
+00:05:05,950 --> 00:05:08,530
+And this occurs at the end of your sprint.
+
+133
+00:05:08,530 --> 00:05:10,300
+This is a chance for the team to stop
+
+134
+00:05:10,300 --> 00:05:12,760
+and inspect the increment
+that they just worked on
+
+135
+00:05:12,760 --> 00:05:15,550
+and adapt the product
+backlog as appropriate.
+
+136
+00:05:15,550 --> 00:05:17,020
+So, if you go through the increment
+
+137
+00:05:17,020 --> 00:05:18,560
+and you test all the functions out
+
+138
+00:05:18,560 --> 00:05:21,070
+and you're working on five
+pieces of software code
+
+139
+00:05:21,070 --> 00:05:23,200
+and one of them wasn't working right,
+
+140
+00:05:23,200 --> 00:05:25,120
+well, you still have a time-boxed event
+
+141
+00:05:25,120 --> 00:05:28,100
+and so that one piece of code
+might have to get put back
+
+142
+00:05:28,100 --> 00:05:31,250
+into the product backlog to
+be worked in the next sprint.
+
+143
+00:05:31,250 --> 00:05:32,680
+This is an informal meeting
+
+144
+00:05:32,680 --> 00:05:34,920
+and it's not designed as a status meeting.
+
+145
+00:05:34,920 --> 00:05:38,120
+It's for people to go through
+and inspect the products.
+
+146
+00:05:38,120 --> 00:05:39,920
+This meeting should be no longer
+
+147
+00:05:39,920 --> 00:05:42,520
+than four hours per month of sprint.
+
+148
+00:05:42,520 --> 00:05:44,090
+So, if you're doing a one month sprint,
+
+149
+00:05:44,090 --> 00:05:45,530
+it can be up to four hours.
+
+150
+00:05:45,530 --> 00:05:46,810
+If you're doing the two weeks sprint,
+
+151
+00:05:46,810 --> 00:05:49,170
+it should be no more than two hours.
+
+152
+00:05:49,170 --> 00:05:50,240
+The next one we have is
+
+153
+00:05:50,240 --> 00:05:52,660
+what we call our sprint retrospective.
+
+154
+00:05:52,660 --> 00:05:55,250
+And this is an opportunity
+for the scrum team,
+
+155
+00:05:55,250 --> 00:05:57,880
+both the product owner as
+well as the development team
+
+156
+00:05:57,880 --> 00:05:59,840
+and the scrum master to come in
+
+157
+00:05:59,840 --> 00:06:02,160
+and inspect itself on the processes
+
+158
+00:06:02,160 --> 00:06:04,960
+and create plans for
+improvements for the next sprint.
+
+159
+00:06:04,960 --> 00:06:06,387
+So, we might go back
+and look at this and go,
+
+160
+00:06:06,387 --> 00:06:08,897
+"You know what, when we
+were working on this piece
+
+161
+00:06:08,897 --> 00:06:11,637
+"of the sprint, it was
+taking us three times longer
+
+162
+00:06:11,637 --> 00:06:12,717
+"than we thought it was going to be
+
+163
+00:06:12,717 --> 00:06:15,907
+"because we were missing this
+type of person on the team.
+
+164
+00:06:15,907 --> 00:06:17,257
+"So, let's go ahead and get that person
+
+165
+00:06:17,257 --> 00:06:19,990
+"in the next sprint so
+that it can go faster."
+
+166
+00:06:19,990 --> 00:06:22,270
+This occurs after each sprint review
+
+167
+00:06:22,270 --> 00:06:23,810
+and before you start going into
+
+168
+00:06:23,810 --> 00:06:26,540
+your sprint planning for your next stage.
+
+169
+00:06:26,540 --> 00:06:29,520
+At most, this should be a
+three hour meeting per month.
+
+170
+00:06:29,520 --> 00:06:31,630
+Because, again, our goal
+here is not to have people
+
+171
+00:06:31,630 --> 00:06:34,390
+in hour-long meetings over and over again,
+
+172
+00:06:34,390 --> 00:06:35,810
+we want to get it done once
+
+173
+00:06:35,810 --> 00:06:38,250
+so we can get back to work
+and create more product.
+
+174
+00:06:38,250 --> 00:06:40,650
+So, as we went through
+these five Scrum events,
+
+175
+00:06:40,650 --> 00:06:42,520
+the key here that I
+want you to remember is
+
+176
+00:06:42,520 --> 00:06:44,150
+that these events are prescribed
+
+177
+00:06:44,150 --> 00:06:47,130
+to create regularity
+throughout the process.
+
+178
+00:06:47,130 --> 00:06:49,730
+Each and every event
+has a maximum duration.
+
+179
+00:06:49,730 --> 00:06:52,530
+You saw that I said
+this one is three hours,
+
+180
+00:06:52,530 --> 00:06:54,400
+or that one is four hours.
+
+181
+00:06:54,400 --> 00:06:56,940
+The reason is we don't want
+to kill people with meetings,
+
+182
+00:06:56,940 --> 00:06:58,880
+we want people to be productive.
+
+183
+00:06:58,880 --> 00:07:01,010
+This sprint is at the
+heart of this concept.
+
+184
+00:07:01,010 --> 00:07:04,120
+We have that fixed two
+week or four week sprint
+
+185
+00:07:04,120 --> 00:07:06,660
+and everything else is based
+on the beginning of the sprint,
+
+186
+00:07:06,660 --> 00:07:09,080
+such as sprint planning,
+or the end of the sprint,
+
+187
+00:07:09,080 --> 00:07:12,140
+such as the sprint review
+and the sprint retrospective.
+
+188
+00:07:12,140 --> 00:07:15,480
+This helps force transparency
+throughout the process
+
+189
+00:07:15,480 --> 00:07:17,880
+and gives us opportunities
+to inspect what we built
+
+190
+00:07:17,880 --> 00:07:20,480
+and adapt our processes so
+that we can become better
+
+191
+00:07:20,480 --> 00:07:24,310
+with time as we keep moving
+forward throughout this process.
+
+192
+00:07:24,310 --> 00:07:26,650
+So, how do we put all of this together?
+
+193
+00:07:26,650 --> 00:07:29,640
+Well, in Scrum, it's
+actually fairly simple.
+
+194
+00:07:29,640 --> 00:07:32,720
+You'll see here on the screen,
+we have our product owner.
+
+195
+00:07:32,720 --> 00:07:35,140
+They're going to go through
+and create all of the epics
+
+196
+00:07:35,140 --> 00:07:37,840
+and user stories, what we
+might know as requirements
+
+197
+00:07:37,840 --> 00:07:39,320
+in a standard process,
+
+198
+00:07:39,320 --> 00:07:42,220
+and put them into the product backlog.
+
+199
+00:07:42,220 --> 00:07:43,970
+In this product backlog,
+
+200
+00:07:43,970 --> 00:07:46,260
+we will have it all
+sitting there, ready to go.
+
+201
+00:07:46,260 --> 00:07:49,050
+These are all of the pieces
+they need for the versions
+
+202
+00:07:49,050 --> 00:07:51,570
+of the products that they
+want to be developed.
+
+203
+00:07:51,570 --> 00:07:52,980
+These are all the different features
+
+204
+00:07:52,980 --> 00:07:54,880
+that a customer might need.
+
+205
+00:07:54,880 --> 00:07:57,920
+The development team and the
+scrum master will then work
+
+206
+00:07:57,920 --> 00:08:01,010
+at the sprint planning
+meeting with the product owner
+
+207
+00:08:01,010 --> 00:08:04,740
+to pull out what is going to
+come from that product backlog
+
+208
+00:08:04,740 --> 00:08:08,830
+and be put into this sprint,
+which will last up to 30 days.
+
+209
+00:08:08,830 --> 00:08:12,050
+This becomes known as our sprint backlog.
+
+210
+00:08:12,050 --> 00:08:14,660
+From here, the development
+team starts working.
+
+211
+00:08:14,660 --> 00:08:17,380
+And they have up to 30 days,
+whether it's a two week sprint
+
+212
+00:08:17,380 --> 00:08:19,490
+or a four week sprint, to go through
+
+213
+00:08:19,490 --> 00:08:22,410
+and create all the product
+that's going to be created here.
+
+214
+00:08:22,410 --> 00:08:24,820
+This will be known as the increment.
+
+215
+00:08:24,820 --> 00:08:27,370
+Each day during this
+cycle, you're going to see
+
+216
+00:08:27,370 --> 00:08:29,430
+that the development team goes out
+
+217
+00:08:29,430 --> 00:08:31,350
+and has their daily scrum meeting.
+
+218
+00:08:31,350 --> 00:08:34,750
+Remember, this is no more
+than 15 minutes a day.
+
+219
+00:08:34,750 --> 00:08:36,067
+During this meeting, they're going to say,
+
+220
+00:08:36,067 --> 00:08:39,917
+"Yesterday, I built this,
+today I'm going to build that.
+
+221
+00:08:39,917 --> 00:08:41,357
+"And here with the issues I had,
+
+222
+00:08:41,357 --> 00:08:43,430
+"here's the risks as I see them."
+
+223
+00:08:43,430 --> 00:08:45,130
+The scrum master is there making sure
+
+224
+00:08:45,130 --> 00:08:47,150
+that process goes smoothly.
+
+225
+00:08:47,150 --> 00:08:50,520
+And we keep working through
+that for the entire sprint.
+
+226
+00:08:50,520 --> 00:08:51,800
+At the end of the sprint,
+
+227
+00:08:51,800 --> 00:08:53,740
+we're going to go into our sprint review,
+
+228
+00:08:53,740 --> 00:08:55,500
+where we're going to look
+at all of the products
+
+229
+00:08:55,500 --> 00:08:59,100
+that were created that are
+now known as the increment.
+
+230
+00:08:59,100 --> 00:09:00,910
+We look through all of those products.
+
+231
+00:09:00,910 --> 00:09:02,460
+We verify their quality.
+
+232
+00:09:02,460 --> 00:09:04,400
+We make sure that
+they're good for release.
+
+233
+00:09:04,400 --> 00:09:06,170
+And they are now marked as done,
+
+234
+00:09:06,170 --> 00:09:08,250
+and they get pushed
+out into the increment,
+
+235
+00:09:08,250 --> 00:09:10,943
+out to the product owner,
+to their final customer.
+
+236
+00:09:11,780 --> 00:09:13,690
+Right after we finish that sprint review,
+
+237
+00:09:13,690 --> 00:09:15,960
+we're going to do a sprint retrospective.
+
+238
+00:09:15,960 --> 00:09:19,180
+And that sprint retrospective
+is very much focused
+
+239
+00:09:19,180 --> 00:09:21,230
+on the processes that were involved.
+
+240
+00:09:21,230 --> 00:09:22,620
+Where the sprint review was focused
+
+241
+00:09:22,620 --> 00:09:24,147
+on the quality of the increment,
+
+242
+00:09:24,147 --> 00:09:28,150
+the sprint retrospective is
+focused on how the sprint went,
+
+243
+00:09:28,150 --> 00:09:29,940
+how was the quality of the stand-ups,
+
+244
+00:09:29,940 --> 00:09:32,070
+how was the quality of the daily meetings,
+
+245
+00:09:32,070 --> 00:09:34,890
+how was the quality of how
+well the team worked together.
+
+246
+00:09:34,890 --> 00:09:36,150
+What things were they missing,
+
+247
+00:09:36,150 --> 00:09:38,270
+what things did they need more of.
+
+248
+00:09:38,270 --> 00:09:39,360
+That is what we're focused on
+
+249
+00:09:39,360 --> 00:09:40,960
+with that sprint retrospective.
+
+250
+00:09:40,960 --> 00:09:43,040
+And remember, this
+meeting should be no more
+
+251
+00:09:43,040 --> 00:09:46,220
+than a couple of hours once per sprint.
+
+252
+00:09:46,220 --> 00:09:47,730
+So that's how we put it all together,
+
+253
+00:09:47,730 --> 00:09:49,883
+and that's how we move forward with Scrum.
+

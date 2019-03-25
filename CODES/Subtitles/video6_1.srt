@@ -1,0 +1,652 @@
+﻿1
+00:00:00,300 --> 00:00:01,340
+- In this section,
+
+2
+00:00:01,340 --> 00:00:02,690
+we're going to do a quick review
+
+3
+00:00:02,690 --> 00:00:04,860
+of the seven processes from PRINCE2
+
+4
+00:00:04,860 --> 00:00:08,040
+and how they're applied inside
+of an Agile environment.
+
+5
+00:00:08,040 --> 00:00:10,000
+As we go through the
+next couple of lessons,
+
+6
+00:00:10,000 --> 00:00:11,990
+we'll dig into each of these processes
+
+7
+00:00:11,990 --> 00:00:13,290
+a little bit more in depth.
+
+8
+00:00:13,290 --> 00:00:15,920
+First let's look at the
+seven processes that we use
+
+9
+00:00:15,920 --> 00:00:18,577
+and how they're laid out
+across the different stages.
+
+10
+00:00:18,577 --> 00:00:21,230
+The first one is starting up a project.
+
+11
+00:00:21,230 --> 00:00:23,323
+This is where we take all
+of the ideas that we have
+
+12
+00:00:23,323 --> 00:00:25,140
+and come up with the one idea
+
+13
+00:00:25,140 --> 00:00:27,250
+that we think is going to be our project.
+
+14
+00:00:27,250 --> 00:00:30,420
+This gets presented up to
+program management and corporate,
+
+15
+00:00:30,420 --> 00:00:31,740
+and when they approve it,
+
+16
+00:00:31,740 --> 00:00:33,560
+it's going to initiate the project
+
+17
+00:00:33,560 --> 00:00:36,720
+and move us into the
+project initiation stage.
+
+18
+00:00:36,720 --> 00:00:40,610
+Here we're going to be using the
+initiating a project process.
+
+19
+00:00:40,610 --> 00:00:41,790
+Inside that process,
+
+20
+00:00:41,790 --> 00:00:44,120
+we're going to further
+develop the business case,
+
+21
+00:00:44,120 --> 00:00:45,680
+and we're then going to also develop
+
+22
+00:00:45,680 --> 00:00:47,620
+our project initiation document,
+
+23
+00:00:47,620 --> 00:00:49,240
+which provides our risk management,
+
+24
+00:00:49,240 --> 00:00:50,339
+communication management,
+
+25
+00:00:50,339 --> 00:00:52,310
+and other structures
+that we're going to need
+
+26
+00:00:52,310 --> 00:00:54,080
+throughout the life cycle of this project.
+
+27
+00:00:54,080 --> 00:00:56,480
+During this initiating a project process,
+
+28
+00:00:56,480 --> 00:00:58,550
+we're also going to develop the stage plan
+
+29
+00:00:58,550 --> 00:01:00,840
+for the subsequent that we're moving to,
+
+30
+00:01:00,840 --> 00:01:03,142
+as well as the overarching project plan.
+
+31
+00:01:03,142 --> 00:01:05,870
+This will then go back
+up to directing a project
+
+32
+00:01:05,870 --> 00:01:08,160
+in that process where the program board
+
+33
+00:01:08,160 --> 00:01:10,870
+can make decisions if
+they want to move forward
+
+34
+00:01:10,870 --> 00:01:13,790
+and if we have a continued
+justifiable business case
+
+35
+00:01:13,790 --> 00:01:15,770
+to keep moving the
+project towards the right
+
+36
+00:01:15,770 --> 00:01:17,358
+and towards the finish line.
+
+37
+00:01:17,358 --> 00:01:19,980
+At this point, if we get
+to the end of a stage,
+
+38
+00:01:19,980 --> 00:01:23,250
+we're going to go into our
+managing a stage boundary process,
+
+39
+00:01:23,250 --> 00:01:24,300
+and in this process,
+
+40
+00:01:24,300 --> 00:01:26,690
+we're going to look
+over the next stage plan
+
+41
+00:01:26,690 --> 00:01:28,800
+to make sure it can be
+approved and worked on,
+
+42
+00:01:28,800 --> 00:01:30,830
+as well as look over
+the current stage plan
+
+43
+00:01:30,830 --> 00:01:33,100
+and ensure that everything
+that was supposed to be done
+
+44
+00:01:33,100 --> 00:01:36,310
+has been completed before
+we move to the next stage.
+
+45
+00:01:36,310 --> 00:01:38,680
+Assuming that stage
+boundary has been approved,
+
+46
+00:01:38,680 --> 00:01:40,800
+we'll move into the subsequent stages,
+
+47
+00:01:40,800 --> 00:01:42,310
+and in each of these stages,
+
+48
+00:01:42,310 --> 00:01:44,120
+you're going to see
+that the project manager
+
+49
+00:01:44,120 --> 00:01:46,360
+is focused on controlling a stage.
+
+50
+00:01:46,360 --> 00:01:48,520
+This is where they do the day to day work
+
+51
+00:01:48,520 --> 00:01:51,230
+that needs to be done for
+the project management.
+
+52
+00:01:51,230 --> 00:01:53,040
+Underneath them, at the same time,
+
+53
+00:01:53,040 --> 00:01:55,270
+you're going to see
+managing product delivery.
+
+54
+00:01:55,270 --> 00:01:57,330
+This is focused on the team managers
+
+55
+00:01:57,330 --> 00:01:59,640
+working with their teams
+to create those products
+
+56
+00:01:59,640 --> 00:02:02,260
+that need to be delivered
+to finish the stage.
+
+57
+00:02:02,260 --> 00:02:04,980
+As that information flows back
+up to the project manager,
+
+58
+00:02:04,980 --> 00:02:05,850
+they will then enter
+
+59
+00:02:05,850 --> 00:02:08,620
+into the managing a stage
+boundary process again,
+
+60
+00:02:08,620 --> 00:02:10,490
+going back to the directing a project,
+
+61
+00:02:10,490 --> 00:02:13,580
+and seeing if we can get approval
+to move to the next stage.
+
+62
+00:02:13,580 --> 00:02:16,140
+We'll continue doing this in
+all of our subsequent stages
+
+63
+00:02:16,140 --> 00:02:17,940
+until we get to the last stage.
+
+64
+00:02:17,940 --> 00:02:18,940
+In the last stage,
+
+65
+00:02:18,940 --> 00:02:21,690
+we'll have this closing a project process
+
+66
+00:02:21,690 --> 00:02:23,320
+where we ensure that the project has met
+
+67
+00:02:23,320 --> 00:02:24,570
+all of its deliverables
+
+68
+00:02:24,570 --> 00:02:26,570
+and that there's nothing more to do.
+
+69
+00:02:26,570 --> 00:02:27,510
+If that's true,
+
+70
+00:02:27,510 --> 00:02:29,450
+the directing a project process
+
+71
+00:02:29,450 --> 00:02:32,650
+will then feed into the
+closing a project process
+
+72
+00:02:32,650 --> 00:02:35,630
+and give them approval to
+close out the project fully,
+
+73
+00:02:35,630 --> 00:02:37,930
+releasing the resources and people
+
+74
+00:02:37,930 --> 00:02:39,950
+back to their own organizations
+
+75
+00:02:39,950 --> 00:02:41,960
+and getting ready for the next project.
+
+76
+00:02:41,960 --> 00:02:43,540
+So all of that that we just covered
+
+77
+00:02:43,540 --> 00:02:46,560
+is how it works in a
+traditional PRINCE2 methodology.
+
+78
+00:02:46,560 --> 00:02:48,130
+But how does it work
+when we start bringing in
+
+79
+00:02:48,130 --> 00:02:50,410
+Agile concepts, techniques, and behaviors?
+
+80
+00:02:50,410 --> 00:02:52,240
+Well, Agile is going to
+need to be incorporated
+
+81
+00:02:52,240 --> 00:02:54,030
+into each of those seven processes,
+
+82
+00:02:54,030 --> 00:02:56,260
+but the amount of variation
+that's going to happen
+
+83
+00:02:56,260 --> 00:02:59,425
+to that process is going to
+depend on the process itself
+
+84
+00:02:59,425 --> 00:03:01,550
+and the agile techniques
+we're going to implement.
+
+85
+00:03:01,550 --> 00:03:04,165
+For example, if we look
+at the controlling a stage
+
+86
+00:03:04,165 --> 00:03:07,070
+or the managing product
+delivery processes,
+
+87
+00:03:07,070 --> 00:03:09,284
+both of those will be heavily changed
+
+88
+00:03:09,284 --> 00:03:11,360
+based on our Agile framework.
+
+89
+00:03:11,360 --> 00:03:12,694
+For example, if I have a stage,
+
+90
+00:03:12,694 --> 00:03:15,940
+this is going to be a certain
+amount of time or deliverables
+
+91
+00:03:15,940 --> 00:03:17,500
+that are going to be existing in there.
+
+92
+00:03:17,500 --> 00:03:19,010
+Underneath that one stage, though,
+
+93
+00:03:19,010 --> 00:03:20,647
+we may have several releases,
+
+94
+00:03:20,647 --> 00:03:24,000
+and each of those releases
+may have several sprints.
+
+95
+00:03:24,000 --> 00:03:25,760
+So as you can see here on the screen,
+
+96
+00:03:25,760 --> 00:03:27,250
+we have three sprints,
+
+97
+00:03:27,250 --> 00:03:29,910
+and let's assume each of
+those sprints is time fixed
+
+98
+00:03:29,910 --> 00:03:31,073
+to two weeks each.
+
+99
+00:03:31,073 --> 00:03:34,150
+Those three sprints make up one release.
+
+100
+00:03:34,150 --> 00:03:36,560
+That release now is a
+month and a half long,
+
+101
+00:03:36,560 --> 00:03:38,040
+and we have four of those.
+
+102
+00:03:38,040 --> 00:03:40,740
+So if we put those four releases
+at a month and a half each,
+
+103
+00:03:40,740 --> 00:03:43,770
+together we get a
+six-month management stage.
+
+104
+00:03:43,770 --> 00:03:45,760
+And so you can start
+seeing how these things
+
+105
+00:03:45,760 --> 00:03:47,800
+are going to tie together from sprints
+
+106
+00:03:47,800 --> 00:03:50,046
+into releases into management stages.
+
+107
+00:03:50,046 --> 00:03:52,320
+Now, that's great to
+understand what it looks like
+
+108
+00:03:52,320 --> 00:03:54,460
+inside just one controlling stage,
+
+109
+00:03:54,460 --> 00:03:57,011
+but what does it look like
+across the entire project?
+
+110
+00:03:57,011 --> 00:03:59,780
+Well, here's where you're going
+to start seeing it be done
+
+111
+00:03:59,780 --> 00:04:01,210
+in two different ways.
+
+112
+00:04:01,210 --> 00:04:02,951
+There's the typical Agile way of doing it,
+
+113
+00:04:02,951 --> 00:04:05,610
+which is to start up and
+initiate the project,
+
+114
+00:04:05,610 --> 00:04:07,490
+and in that we're going to get our vision
+
+115
+00:04:07,490 --> 00:04:08,920
+and our product backlog,
+
+116
+00:04:08,920 --> 00:04:10,620
+and then from that we're going to develop
+
+117
+00:04:10,620 --> 00:04:12,420
+what's going to be put into each stage
+
+118
+00:04:12,420 --> 00:04:14,862
+by pulling in things to a sprint backlog.
+
+119
+00:04:14,862 --> 00:04:17,570
+That sprint backlog
+then goes into a sprint,
+
+120
+00:04:17,570 --> 00:04:18,600
+which gets worked on,
+
+121
+00:04:18,600 --> 00:04:20,550
+and eventually we get a shippable product
+
+122
+00:04:20,550 --> 00:04:21,660
+that gets moved out.
+
+123
+00:04:21,660 --> 00:04:24,280
+Now if we look at this where
+we use a larger process
+
+124
+00:04:24,280 --> 00:04:26,540
+and we start doing it
+with releases and sprints
+
+125
+00:04:26,540 --> 00:04:28,000
+and not just sprints,
+
+126
+00:04:28,000 --> 00:04:30,051
+we're going to have our
+vision and product backlog
+
+127
+00:04:30,051 --> 00:04:32,280
+done in the starting up a project.
+
+128
+00:04:32,280 --> 00:04:33,640
+In our initiating a project,
+
+129
+00:04:33,640 --> 00:04:35,590
+we'll create our release backlog.
+
+130
+00:04:35,590 --> 00:04:37,480
+Then we'll pull in what
+we're going to work on
+
+131
+00:04:37,480 --> 00:04:39,650
+for that particular
+sprint, that next stage,
+
+132
+00:04:39,650 --> 00:04:42,600
+and that'll be done in a
+controlling a stage process,
+
+133
+00:04:42,600 --> 00:04:44,060
+and that will then move into the sprint,
+
+134
+00:04:44,060 --> 00:04:45,210
+where the work is done,
+
+135
+00:04:45,210 --> 00:04:47,160
+and then that goes out into our product
+
+136
+00:04:47,160 --> 00:04:48,970
+that is going to be shipped and fulfilled.
+
+137
+00:04:48,970 --> 00:04:50,520
+And you can see how
+this all works together
+
+138
+00:04:50,520 --> 00:04:51,770
+and ties together.
+
+139
+00:04:51,770 --> 00:04:54,240
+Notice much of the Agile way of working
+
+140
+00:04:54,240 --> 00:04:56,890
+is going to be handled
+down at the delivery layer.
+
+141
+00:04:56,890 --> 00:04:58,370
+It's going to be working on the team
+
+142
+00:04:58,370 --> 00:05:00,050
+at the project manager and below.
+
+143
+00:05:00,050 --> 00:05:02,568
+It's not going to really affect
+the project board as much
+
+144
+00:05:02,568 --> 00:05:05,400
+because they're still going to
+have that overarching control
+
+145
+00:05:05,400 --> 00:05:08,170
+and governance for each
+of the seven processes.
+
+146
+00:05:08,170 --> 00:05:09,430
+And we'll talk about that more
+
+147
+00:05:09,430 --> 00:05:10,930
+as we go through this section.
+

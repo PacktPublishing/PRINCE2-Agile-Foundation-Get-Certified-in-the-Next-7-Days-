@@ -1,0 +1,627 @@
+﻿1
+00:00:00,310 --> 00:00:02,870
+- So as we combine PRINCE2 with Agile
+
+2
+00:00:02,870 --> 00:00:05,510
+to come up with PRINCE2 Agile frameworks,
+
+3
+00:00:05,510 --> 00:00:06,940
+we have to start thinking about
+
+4
+00:00:06,940 --> 00:00:09,020
+what does this really come down to.
+
+5
+00:00:09,020 --> 00:00:11,250
+And if you pull up the Agile guide
+
+6
+00:00:11,250 --> 00:00:13,070
+inside your PRINCE2 Agile book,
+
+7
+00:00:13,070 --> 00:00:15,200
+it's going to give you
+eight guidance points,
+
+8
+00:00:15,200 --> 00:00:17,160
+and we're going to cover those here.
+
+9
+00:00:17,160 --> 00:00:19,890
+The first one is that
+PRINCE2 is already enabled
+
+10
+00:00:19,890 --> 00:00:21,150
+for use with Agile.
+
+11
+00:00:21,150 --> 00:00:23,340
+And we know this is true
+because we can see things
+
+12
+00:00:23,340 --> 00:00:25,830
+like tailoring to suit
+the project environment
+
+13
+00:00:25,830 --> 00:00:27,300
+back with our principles.
+
+14
+00:00:27,300 --> 00:00:29,430
+We also see things like organization
+
+15
+00:00:29,430 --> 00:00:31,410
+and define rules and responsibility,
+
+16
+00:00:31,410 --> 00:00:34,000
+which does take place
+within an Agile team.
+
+17
+00:00:34,000 --> 00:00:36,280
+We see things like
+learning from experience
+
+18
+00:00:36,280 --> 00:00:37,480
+which is really important
+
+19
+00:00:37,480 --> 00:00:39,830
+in the Agile iterative way of working.
+
+20
+00:00:39,830 --> 00:00:43,070
+The second guidance point
+we have is that PRINCE2
+
+21
+00:00:43,070 --> 00:00:45,140
+is suitable for any style of project
+
+22
+00:00:45,140 --> 00:00:48,260
+and it's not a traditional
+project management approach.
+
+23
+00:00:48,260 --> 00:00:50,200
+Now what they mean by this is that
+
+24
+00:00:50,200 --> 00:00:52,270
+in some traditional project
+management approaches,
+
+25
+00:00:52,270 --> 00:00:55,740
+they are very strict in the
+way things have to be done.
+
+26
+00:00:55,740 --> 00:00:58,940
+They focus on how things are
+done in project management
+
+27
+00:00:58,940 --> 00:01:00,370
+but PRINCE2, on the other hand,
+
+28
+00:01:00,370 --> 00:01:03,610
+focuses on what needs to be
+done with project management.
+
+29
+00:01:03,610 --> 00:01:05,840
+So what PRINCE2 says,
+you have to have a way
+
+30
+00:01:05,840 --> 00:01:08,330
+to gather requirements, they
+don't tell you what form
+
+31
+00:01:08,330 --> 00:01:09,330
+that has to take.
+
+32
+00:01:09,330 --> 00:01:11,770
+And so this works really
+well in an Agile environment
+
+33
+00:01:11,770 --> 00:01:14,730
+because we can replace those
+requirements with things like
+
+34
+00:01:14,730 --> 00:01:17,770
+epics and user stories
+which then are naturally
+
+35
+00:01:17,770 --> 00:01:19,950
+an Agile way of working.
+
+36
+00:01:19,950 --> 00:01:21,840
+The third guidance point we have is that
+
+37
+00:01:21,840 --> 00:01:25,200
+PRINCE2 Agile is ready
+for use with any project,
+
+38
+00:01:25,200 --> 00:01:28,070
+not just IT projects,
+and this is important
+
+39
+00:01:28,070 --> 00:01:30,320
+because if you look at some
+of the other frameworks,
+
+40
+00:01:30,320 --> 00:01:33,330
+such as Kanban, it's very
+focused on manufacturing.
+
+41
+00:01:33,330 --> 00:01:36,510
+But if you look on Scrum or
+you look at Lean Startup,
+
+42
+00:01:36,510 --> 00:01:38,660
+those are very focused on IT projects
+
+43
+00:01:38,660 --> 00:01:41,490
+as well as numerous other
+Agile frameworks out there.
+
+44
+00:01:41,490 --> 00:01:44,020
+Because IT is one of the heavy adopters
+
+45
+00:01:44,020 --> 00:01:45,400
+of the Agile framework.
+
+46
+00:01:45,400 --> 00:01:47,530
+But we don't have to use this just for IT,
+
+47
+00:01:47,530 --> 00:01:50,070
+we can use this with any project.
+
+48
+00:01:50,070 --> 00:01:53,090
+Our fourth guidance point
+is that IT only frameworks
+
+49
+00:01:53,090 --> 00:01:56,860
+and techniques are not our
+focus inside of PRINCE2 Agile.
+
+50
+00:01:56,860 --> 00:01:58,800
+Instead, we're looking
+at how we can use this
+
+51
+00:01:58,800 --> 00:02:01,420
+across all projects, like we just said,
+
+52
+00:02:01,420 --> 00:02:03,480
+in guidance point number three.
+
+53
+00:02:03,480 --> 00:02:05,060
+Let's move on to the fifth guidance point.
+
+54
+00:02:05,060 --> 00:02:08,240
+There is much more to
+Agile than just Scrum.
+
+55
+00:02:08,240 --> 00:02:11,570
+In fact they like to say
+that Agile is not Scrum.
+
+56
+00:02:11,570 --> 00:02:13,337
+Whilst Scrum is an Agile framework,
+
+57
+00:02:13,337 --> 00:02:15,650
+Agile itself does not equate to Scrum,
+
+58
+00:02:15,650 --> 00:02:17,800
+even though, in most people's minds,
+
+59
+00:02:17,800 --> 00:02:19,040
+they think of Scrum first
+
+60
+00:02:19,040 --> 00:02:20,800
+when you start talking about Agile.
+
+61
+00:02:20,800 --> 00:02:22,030
+As we mentioned before,
+
+62
+00:02:22,030 --> 00:02:24,040
+there's 10 or 12 different frameworks
+
+63
+00:02:24,040 --> 00:02:25,470
+that were mentioned in the textbook.
+
+64
+00:02:25,470 --> 00:02:27,250
+And we covered three of them in depth.
+
+65
+00:02:27,250 --> 00:02:30,180
+There is more to Agile than just Scrum.
+
+66
+00:02:30,180 --> 00:02:31,710
+When we go into guidance point number six,
+
+67
+00:02:31,710 --> 00:02:33,283
+we're going to talk about two
+
+68
+00:02:33,283 --> 00:02:34,300
+of our most commonly used frameworks,
+
+69
+00:02:34,300 --> 00:02:36,420
+which are Scrum and Kanban.
+
+70
+00:02:36,420 --> 00:02:39,170
+Both of those are very common and used
+
+71
+00:02:39,170 --> 00:02:41,790
+in a approach for Agile,
+but they are not suitable
+
+72
+00:02:41,790 --> 00:02:45,570
+by themself for managing a
+product across its life cycle.
+
+73
+00:02:45,570 --> 00:02:48,290
+And that's why we take the
+techniques from Scrum and Kanban
+
+74
+00:02:48,290 --> 00:02:51,730
+and we put them into our
+PRINCE2 Agile projects
+
+75
+00:02:51,730 --> 00:02:53,500
+because those techniques are great
+
+76
+00:02:53,500 --> 00:02:54,550
+but they don't give you the ability
+
+77
+00:02:54,550 --> 00:02:57,033
+to fully control it across its life cycle.
+
+78
+00:02:57,900 --> 00:03:01,690
+Now, number seven, is that
+Agile is a family of behaviors,
+
+79
+00:03:01,690 --> 00:03:03,890
+concepts, frameworks and techniques.
+
+80
+00:03:03,890 --> 00:03:06,490
+And we talked about this
+a lot in the last lesson.
+
+81
+00:03:06,490 --> 00:03:07,620
+We have these behaviors
+
+82
+00:03:07,620 --> 00:03:10,720
+which are our core guiding
+principles and values,
+
+83
+00:03:10,720 --> 00:03:13,080
+we have the concepts, which
+are the ways of working,
+
+84
+00:03:13,080 --> 00:03:15,480
+we have the frameworks which
+are setup to help us working
+
+85
+00:03:15,480 --> 00:03:18,365
+in an Agile environment, and
+techniques like burn charts
+
+86
+00:03:18,365 --> 00:03:22,350
+and sprints and timeboxing
+and things like that.
+
+87
+00:03:22,350 --> 00:03:24,150
+Our final guidance point is that
+
+88
+00:03:24,150 --> 00:03:25,870
+when you're using Agile on a project,
+
+89
+00:03:25,870 --> 00:03:29,470
+you have to question how
+much Agile should be used.
+
+90
+00:03:29,470 --> 00:03:31,060
+Really it comes down to not whether or not
+
+91
+00:03:31,060 --> 00:03:33,910
+I should use Agile, it's
+how much of this project
+
+92
+00:03:33,910 --> 00:03:35,880
+will be done in an Agile manner.
+
+93
+00:03:35,880 --> 00:03:38,860
+So, if I'm using an example
+of building a house,
+
+94
+00:03:38,860 --> 00:03:40,750
+this is something that it's
+much more of a traditional
+
+95
+00:03:40,750 --> 00:03:42,470
+project management scope.
+
+96
+00:03:42,470 --> 00:03:45,010
+But we can use Agile
+even in doing something
+
+97
+00:03:45,010 --> 00:03:46,410
+like building a house.
+
+98
+00:03:46,410 --> 00:03:48,390
+We my leave it up to our
+electricians tp figure out
+
+99
+00:03:48,390 --> 00:03:49,930
+how they're going to wire the house
+
+100
+00:03:49,930 --> 00:03:53,060
+specifically as the wires
+go through the walls.
+
+101
+00:03:53,060 --> 00:03:54,260
+But we want to tell them
+
+102
+00:03:54,260 --> 00:03:56,430
+where we want the outlets to be placed.
+
+103
+00:03:56,430 --> 00:03:58,860
+And so we can start saying how
+much control is given to them
+
+104
+00:03:58,860 --> 00:04:01,420
+and how much is retained by the customer,
+
+105
+00:04:01,420 --> 00:04:04,030
+and this is part of this
+Agile way of working.
+
+106
+00:04:04,030 --> 00:04:07,250
+So, again, number eight, we want
+to figure out how much Agile
+
+107
+00:04:07,250 --> 00:04:09,010
+should be used in a project.
+
+108
+00:04:09,010 --> 00:04:11,020
+Now, the real benefit
+here, when we start talking
+
+109
+00:04:11,020 --> 00:04:13,013
+about PRINCE2 Agile is that using Agile
+
+110
+00:04:13,013 --> 00:04:15,150
+doesn't mean that we're removing
+
+111
+00:04:15,150 --> 00:04:17,090
+our control or our guidance.
+
+112
+00:04:17,090 --> 00:04:19,170
+The control and governance that we have,
+
+113
+00:04:19,170 --> 00:04:22,760
+is going to allow Agile to be
+used in complex environments.
+
+114
+00:04:22,760 --> 00:04:25,620
+So, no matter how complex
+the thing is, for example,
+
+115
+00:04:25,620 --> 00:04:28,750
+here on the screen you will
+see an F-22 fighter jet.
+
+116
+00:04:28,750 --> 00:04:33,090
+This is a hugely complex
+machine but it doesn't give up
+
+117
+00:04:33,090 --> 00:04:35,670
+its control and governance,
+the pilot still has the ability
+
+118
+00:04:35,670 --> 00:04:38,810
+to control and make
+corrections as it goes,
+
+119
+00:04:38,810 --> 00:04:41,450
+but the plane has the
+ability to self-correct it
+
+120
+00:04:41,450 --> 00:04:42,650
+as it moves through the air.
+
+121
+00:04:42,650 --> 00:04:44,100
+And so, this is one of those things
+
+122
+00:04:44,100 --> 00:04:45,600
+where we have this give and take.
+
+123
+00:04:45,600 --> 00:04:47,690
+When we start dealing with Agile projects,
+
+124
+00:04:47,690 --> 00:04:50,130
+we really have to think about
+what control is going to be
+
+125
+00:04:50,130 --> 00:04:52,766
+held up high and what
+tolerances we're going to give
+
+126
+00:04:52,766 --> 00:04:56,020
+so that the team, who's
+delivering the final product,
+
+127
+00:04:56,020 --> 00:04:58,750
+has the wiggle room and the manouvre space
+
+128
+00:04:58,750 --> 00:05:01,210
+to really be able to
+work through the issues
+
+129
+00:05:01,210 --> 00:05:03,270
+they come across inside the project.
+
+130
+00:05:03,270 --> 00:05:05,250
+Because if you don't give
+them enough tolerance
+
+131
+00:05:05,250 --> 00:05:08,100
+and enough ability for them
+with the left and right bounds,
+
+132
+00:05:08,100 --> 00:05:09,760
+to solve the problems themselves,
+
+133
+00:05:09,760 --> 00:05:11,960
+then you're not working in an Agile way.
+
+134
+00:05:11,960 --> 00:05:15,330
+But, giving them those tolerances,
+means you have maintained
+
+135
+00:05:15,330 --> 00:05:17,820
+your control and
+governance over the project
+
+136
+00:05:17,820 --> 00:05:20,890
+and so we're not giving
+it up when we work Agile,
+
+137
+00:05:20,890 --> 00:05:23,160
+we're just making sure
+we have defined it well
+
+138
+00:05:23,160 --> 00:05:24,850
+and so we can empower our teams
+
+139
+00:05:24,850 --> 00:05:26,420
+to do the right things for us,
+
+140
+00:05:26,420 --> 00:05:28,313
+as we move through these projects.
+

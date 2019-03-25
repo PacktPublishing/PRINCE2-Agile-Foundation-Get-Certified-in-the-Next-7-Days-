@@ -1,0 +1,1225 @@
+﻿1
+00:00:00,520 --> 00:00:02,200
+- When PRINCE2 was being developed,
+
+2
+00:00:02,200 --> 00:00:05,030
+they went back and looked at
+a lot of different projects
+
+3
+00:00:05,030 --> 00:00:07,640
+and they started asking
+two main questions.
+
+4
+00:00:07,640 --> 00:00:10,020
+First, why did this other project succeed?
+
+5
+00:00:10,020 --> 00:00:12,990
+And second, why did this project fail?
+
+6
+00:00:12,990 --> 00:00:15,280
+As they went back and looked
+at all of these projects
+
+7
+00:00:15,280 --> 00:00:17,430
+they started finding
+commonality about them.
+
+8
+00:00:17,430 --> 00:00:19,320
+And when they looked at
+all those commonalities
+
+9
+00:00:19,320 --> 00:00:21,850
+they started developing
+these best practices.
+
+10
+00:00:21,850 --> 00:00:23,170
+And they started seeing
+
+11
+00:00:23,170 --> 00:00:25,200
+that if you had these certain things,
+
+12
+00:00:25,200 --> 00:00:27,140
+projects were more
+likely to be successful.
+
+13
+00:00:27,140 --> 00:00:28,730
+And if you were missing
+some of those things
+
+14
+00:00:28,730 --> 00:00:30,320
+you were more likely to fail.
+
+15
+00:00:30,320 --> 00:00:32,990
+Those things are known
+as the seven principles.
+
+16
+00:00:32,990 --> 00:00:35,850
+These are the seven key
+principles to having a project
+
+17
+00:00:35,850 --> 00:00:37,941
+that is more likely to succeed.
+
+18
+00:00:37,941 --> 00:00:40,510
+In PRINCE2 everything else is built on top
+
+19
+00:00:40,510 --> 00:00:42,140
+of these seven principles.
+
+20
+00:00:42,140 --> 00:00:44,350
+What are these seven
+principles, you might wonder.
+
+21
+00:00:44,350 --> 00:00:47,230
+Well, they are the Continued
+business justification,
+
+22
+00:00:47,230 --> 00:00:48,610
+learn from experience,
+
+23
+00:00:48,610 --> 00:00:50,650
+defined roles and responsibilities,
+
+24
+00:00:50,650 --> 00:00:53,360
+manage by stages, manage by exception,
+
+25
+00:00:53,360 --> 00:00:54,670
+focus on products,
+
+26
+00:00:54,670 --> 00:00:57,020
+and tailor to suit the
+project environment.
+
+27
+00:00:57,020 --> 00:00:58,380
+Now, we're going to
+talk about each of these
+
+28
+00:00:58,380 --> 00:01:00,218
+in this lecture so you can understand
+
+29
+00:01:00,218 --> 00:01:02,860
+what their purpose is
+and why they're important
+
+30
+00:01:02,860 --> 00:01:04,170
+to our project.
+
+31
+00:01:04,170 --> 00:01:06,820
+The first is continued
+business justification.
+
+32
+00:01:06,820 --> 00:01:09,760
+Continued business justification
+is all about insuring
+
+33
+00:01:09,760 --> 00:01:13,970
+that your project remains
+desirable, viable and achievable.
+
+34
+00:01:13,970 --> 00:01:16,380
+We do this continually
+checking that project,
+
+35
+00:01:16,380 --> 00:01:18,300
+and if there is ever a time that there is
+
+36
+00:01:18,300 --> 00:01:20,330
+not a continued business justification,
+
+37
+00:01:20,330 --> 00:01:22,310
+we should stop working on this project.
+
+38
+00:01:22,310 --> 00:01:24,560
+We shouldn't invest
+more resources into it.
+
+39
+00:01:24,560 --> 00:01:26,860
+As we look at the continued
+business justification,
+
+40
+00:01:26,860 --> 00:01:28,950
+we're trying to balance
+between our advantages
+
+41
+00:01:28,950 --> 00:01:30,110
+that are going to be gained
+
+42
+00:01:30,110 --> 00:01:32,370
+and the impact of implementation.
+
+43
+00:01:32,370 --> 00:01:33,650
+When we look at advantages,
+
+44
+00:01:33,650 --> 00:01:37,240
+that's things like reduced
+cost and time and risk.
+
+45
+00:01:37,240 --> 00:01:38,860
+It might be to give us more benefits.
+
+46
+00:01:38,860 --> 00:01:41,631
+It may be to improve our
+quality or our scope.
+
+47
+00:01:41,631 --> 00:01:45,050
+On the other side, we have
+the impact of implementation.
+
+48
+00:01:45,050 --> 00:01:47,570
+This is things like the cost
+and duration of the option
+
+49
+00:01:47,570 --> 00:01:50,030
+that we're choosing to
+use, the risk of the option
+
+50
+00:01:50,030 --> 00:01:51,210
+that we're choosing to use,
+
+51
+00:01:51,210 --> 00:01:53,335
+and all of those negative
+things that might happen.
+
+52
+00:01:53,335 --> 00:01:56,130
+As we balance this, if
+there's more of a positive
+
+53
+00:01:56,130 --> 00:01:57,720
+than a negative, then we have
+
+54
+00:01:57,720 --> 00:01:59,840
+a continued business
+justification and we should
+
+55
+00:01:59,840 --> 00:02:02,030
+keep moving forward with our project.
+
+56
+00:02:02,030 --> 00:02:04,920
+This second principle is
+learn from experience.
+
+57
+00:02:04,920 --> 00:02:07,300
+Learn from experience
+recognizes the fact that
+
+58
+00:02:07,300 --> 00:02:09,440
+we're always going to have
+mistakes and accidents
+
+59
+00:02:09,440 --> 00:02:11,190
+that happen during a project.
+
+60
+00:02:11,190 --> 00:02:13,390
+But the key concept here
+is that we want to learn
+
+61
+00:02:13,390 --> 00:02:15,590
+from those so we don't repeat them.
+
+62
+00:02:15,590 --> 00:02:16,760
+How do we do that?
+
+63
+00:02:16,760 --> 00:02:18,010
+Well, during a project
+
+64
+00:02:18,010 --> 00:02:20,330
+we should be collecting lessons learned.
+
+65
+00:02:20,330 --> 00:02:22,180
+For example, if we ordered something
+
+66
+00:02:22,180 --> 00:02:23,440
+from an overseas supplier
+
+67
+00:02:23,440 --> 00:02:24,820
+and there was a delay at customs
+
+68
+00:02:24,820 --> 00:02:27,220
+and that caused our
+project schedule to slip,
+
+69
+00:02:27,220 --> 00:02:29,760
+that's something we have to
+be aware of next time we order
+
+70
+00:02:29,760 --> 00:02:31,150
+from an overseas supplier.
+
+71
+00:02:31,150 --> 00:02:33,060
+And so these are things
+we would write down
+
+72
+00:02:33,060 --> 00:02:35,700
+and pass amongst the other project teams.
+
+73
+00:02:35,700 --> 00:02:38,000
+As we collect all these
+reports, these lessons learned
+
+74
+00:02:38,000 --> 00:02:39,330
+from the previous projects,
+
+75
+00:02:39,330 --> 00:02:41,740
+that helps us figure
+out what we need to put
+
+76
+00:02:41,740 --> 00:02:44,160
+mitigations in place for
+those negative things
+
+77
+00:02:44,160 --> 00:02:45,980
+so that we can solve them this time
+
+78
+00:02:45,980 --> 00:02:47,850
+and avoid those problems.
+
+79
+00:02:47,850 --> 00:02:50,240
+Also, you can learn positive things.
+
+80
+00:02:50,240 --> 00:02:52,720
+For example, if I wanted
+to build a new website,
+
+81
+00:02:52,720 --> 00:02:53,980
+I might want to go back to somebody
+
+82
+00:02:53,980 --> 00:02:55,840
+who has successfully
+run that type of project
+
+83
+00:02:55,840 --> 00:02:57,660
+in the past and ask them questions
+
+84
+00:02:57,660 --> 00:02:59,970
+about what they did and what worked well.
+
+85
+00:02:59,970 --> 00:03:01,670
+Was outsourcing effective for them?
+
+86
+00:03:01,670 --> 00:03:03,120
+Or did they need to in-source?
+
+87
+00:03:03,120 --> 00:03:05,780
+Was doing the design first
+or the coding first better?
+
+88
+00:03:05,780 --> 00:03:06,920
+Whatever those things are,
+
+89
+00:03:06,920 --> 00:03:08,810
+we can gather that information and learn
+
+90
+00:03:08,810 --> 00:03:10,310
+from other people's experience
+
+91
+00:03:10,310 --> 00:03:11,803
+and we can put that into place inside
+
+92
+00:03:11,803 --> 00:03:14,080
+our own project to do things better,
+
+93
+00:03:14,080 --> 00:03:16,440
+faster, cheaper and more efficiently.
+
+94
+00:03:16,440 --> 00:03:19,860
+The next one we have is defined
+roles and responsibilities.
+
+95
+00:03:19,860 --> 00:03:21,970
+Everyone in the project
+should know exactly what
+
+96
+00:03:21,970 --> 00:03:24,480
+role they're going to be
+fulfilling inside the project
+
+97
+00:03:24,480 --> 00:03:26,790
+and their associated responsibilities.
+
+98
+00:03:26,790 --> 00:03:29,430
+If you are the team
+manager, that has a certain
+
+99
+00:03:29,430 --> 00:03:31,850
+set of responsibilities.
+If you're the executive
+
+100
+00:03:31,850 --> 00:03:34,570
+or the supplier, those have
+certain responsibilities.
+
+101
+00:03:34,570 --> 00:03:36,610
+And you should understand what they are.
+
+102
+00:03:36,610 --> 00:03:37,920
+By doing this we're going to provide
+
+103
+00:03:37,920 --> 00:03:39,880
+terms of reference and role descriptions
+
+104
+00:03:39,880 --> 00:03:42,200
+for each and every team
+member so they know
+
+105
+00:03:42,200 --> 00:03:43,460
+what their job is.
+
+106
+00:03:43,460 --> 00:03:45,070
+And this is going to make sure that each
+
+107
+00:03:45,070 --> 00:03:47,540
+team member has a correct
+level of authority
+
+108
+00:03:47,540 --> 00:03:49,130
+to perform their role, too.
+
+109
+00:03:49,130 --> 00:03:50,730
+Because if I make you the executive
+
+110
+00:03:50,730 --> 00:03:53,260
+but you're not empowered to
+make budgeting decisions,
+
+111
+00:03:53,260 --> 00:03:55,725
+then you're not going to
+be effective in that role.
+
+112
+00:03:55,725 --> 00:03:58,120
+Every single person who
+works on this project,
+
+113
+00:03:58,120 --> 00:03:59,760
+we need to make sure they have ample time
+
+114
+00:03:59,760 --> 00:04:01,310
+to dedicate to the project
+
+115
+00:04:01,310 --> 00:04:02,900
+because one of the problems that I've had
+
+116
+00:04:02,900 --> 00:04:04,610
+in previous places I've worked
+
+117
+00:04:04,610 --> 00:04:07,230
+is that they're going to
+assign somebody all of the work
+
+118
+00:04:07,230 --> 00:04:09,260
+and that person can't do all of the work
+
+119
+00:04:09,260 --> 00:04:11,540
+because there's only
+so many hours in a day.
+
+120
+00:04:11,540 --> 00:04:13,350
+And so if you're working
+on three other projects
+
+121
+00:04:13,350 --> 00:04:14,183
+and I come up to you and say,
+
+122
+00:04:14,183 --> 00:04:15,820
+Hey can you help me with this one?
+
+123
+00:04:15,820 --> 00:04:17,990
+Your answer may be, no, I can't
+
+124
+00:04:17,990 --> 00:04:19,620
+because I don't have the time.
+
+125
+00:04:19,620 --> 00:04:20,830
+And that's okay.
+
+126
+00:04:20,830 --> 00:04:22,960
+As the project manager, I
+want to make sure the people
+
+127
+00:04:22,960 --> 00:04:25,420
+I'm assigning have the time and capability
+
+128
+00:04:25,420 --> 00:04:28,170
+to put into my project so
+that we can be successful.
+
+129
+00:04:28,170 --> 00:04:29,859
+Because if they don't
+and they just say yes,
+
+130
+00:04:29,859 --> 00:04:32,690
+then I'm being set up for failure.
+
+131
+00:04:32,690 --> 00:04:35,640
+The next one we have
+is managing by stages.
+
+132
+00:04:35,640 --> 00:04:37,567
+To manage by stages means
+that we're going to break down
+
+133
+00:04:37,567 --> 00:04:41,620
+this really large concept
+into smaller parts.
+
+134
+00:04:41,620 --> 00:04:43,830
+So for example, if I
+wanted to build a car,
+
+135
+00:04:43,830 --> 00:04:46,060
+that's a fairly complex operation.
+
+136
+00:04:46,060 --> 00:04:48,350
+We've got a lot of things, from the idea,
+
+137
+00:04:48,350 --> 00:04:51,100
+the designing, the
+engineering, the manufacturing,
+
+138
+00:04:51,100 --> 00:04:53,080
+putting all the pieces together, painting
+
+139
+00:04:53,080 --> 00:04:55,800
+the car and delivering
+it, that have to be done.
+
+140
+00:04:55,800 --> 00:04:57,700
+We would then break that up into numerous
+
+141
+00:04:57,700 --> 00:05:00,720
+other stages that are smaller
+pieces of that project.
+
+142
+00:05:00,720 --> 00:05:02,940
+And we can work through those and agree
+
+143
+00:05:02,940 --> 00:05:05,480
+to the details at each stage of what
+
+144
+00:05:05,480 --> 00:05:07,090
+we're expecting to get out of it.
+
+145
+00:05:07,090 --> 00:05:09,150
+By doing this, it will
+help us estimate better
+
+146
+00:05:09,150 --> 00:05:11,060
+what the costs are for that stage
+
+147
+00:05:11,060 --> 00:05:13,250
+and what the time is for that stage.
+
+148
+00:05:13,250 --> 00:05:15,930
+Because if I asked you to
+develop me a brand new car,
+
+149
+00:05:15,930 --> 00:05:17,110
+how long would it take you?
+
+150
+00:05:17,110 --> 00:05:18,520
+How much would it cost?
+
+151
+00:05:18,520 --> 00:05:20,040
+You probably don't know those answers
+
+152
+00:05:20,040 --> 00:05:22,170
+because it's such a
+long and complex thing.
+
+153
+00:05:22,170 --> 00:05:24,280
+But if I said, how much
+would it cost for you
+
+154
+00:05:24,280 --> 00:05:26,760
+to paint the car and how
+long would that take?
+
+155
+00:05:26,760 --> 00:05:28,720
+You could probably figure
+that out pretty quickly.
+
+156
+00:05:28,720 --> 00:05:31,020
+And so by breaking this
+down into smaller chunks,
+
+157
+00:05:31,020 --> 00:05:33,700
+it allows us to get more
+accurate detail with the things
+
+158
+00:05:33,700 --> 00:05:35,810
+that are closest to us
+as opposed to the things
+
+159
+00:05:35,810 --> 00:05:38,130
+that are further out in our timeline.
+
+160
+00:05:38,130 --> 00:05:40,370
+The next one we have
+is manage by exception
+
+161
+00:05:40,370 --> 00:05:42,350
+and this is one of my favorite principles.
+
+162
+00:05:42,350 --> 00:05:44,015
+Because it makes sure
+that only significant
+
+163
+00:05:44,015 --> 00:05:46,920
+deviations from a budget or approved plan
+
+164
+00:05:46,920 --> 00:05:49,230
+are brought up to the
+attention of management.
+
+165
+00:05:49,230 --> 00:05:51,371
+If I'm the project manager,
+I don't need to know
+
+166
+00:05:51,371 --> 00:05:53,530
+every single detail that's going on
+
+167
+00:05:53,530 --> 00:05:54,790
+inside the project.
+
+168
+00:05:54,790 --> 00:05:56,854
+I need to know what
+things are going outside
+
+169
+00:05:56,854 --> 00:05:58,660
+the boundaries that I've set up.
+
+170
+00:05:58,660 --> 00:06:00,840
+And so my team managers should be working
+
+171
+00:06:00,840 --> 00:06:03,520
+on their team packages
+with the detail they need.
+
+172
+00:06:03,520 --> 00:06:06,410
+They're closer to the problem
+and they understand it better.
+
+173
+00:06:06,410 --> 00:06:09,060
+By managing by exception,
+we can get a lot more
+
+174
+00:06:09,060 --> 00:06:11,420
+work done because I'm
+empowering the people
+
+175
+00:06:11,420 --> 00:06:14,180
+below me in this management organization
+
+176
+00:06:14,180 --> 00:06:16,020
+to make those decisions.
+
+177
+00:06:16,020 --> 00:06:18,000
+So, a good example of this is looking
+
+178
+00:06:18,000 --> 00:06:19,570
+at it from the opposite lens.
+
+179
+00:06:19,570 --> 00:06:20,590
+What does it look like when you
+
+180
+00:06:20,590 --> 00:06:22,240
+don't manage by exception?
+
+181
+00:06:22,240 --> 00:06:25,290
+Well, we sometimes refer
+to this as micromanagement.
+
+182
+00:06:25,290 --> 00:06:26,730
+I don't know about you, but I've worked
+
+183
+00:06:26,730 --> 00:06:28,750
+for some micromanagers before.
+
+184
+00:06:28,750 --> 00:06:30,890
+I've had people where I
+couldn't order pencils
+
+185
+00:06:30,890 --> 00:06:33,210
+for the office without going up to some
+
+186
+00:06:33,210 --> 00:06:35,410
+very high level manager
+and getting their approval
+
+187
+00:06:35,410 --> 00:06:37,090
+for a $3 purchase.
+
+188
+00:06:37,090 --> 00:06:38,250
+That's just silly.
+
+189
+00:06:38,250 --> 00:06:40,090
+You want to make sure you give your people
+
+190
+00:06:40,090 --> 00:06:41,650
+good left and right limits
+
+191
+00:06:41,650 --> 00:06:43,280
+and let them operate between them.
+
+192
+00:06:43,280 --> 00:06:45,996
+And that's the whole concept
+of management by exception.
+
+193
+00:06:45,996 --> 00:06:48,620
+Next, we have focus on products.
+
+194
+00:06:48,620 --> 00:06:52,290
+PRINCE2 is very focused on
+delivering the end product.
+
+195
+00:06:52,290 --> 00:06:54,060
+And there's other products along the way
+
+196
+00:06:54,060 --> 00:06:55,250
+that will be delivered.
+
+197
+00:06:55,250 --> 00:06:57,230
+The idea of focus on
+products is to successfully
+
+198
+00:06:57,230 --> 00:06:58,467
+deliver products leading
+
+199
+00:06:58,467 --> 00:07:01,500
+to the project's benefits being realized.
+
+200
+00:07:01,500 --> 00:07:03,570
+If I have to build the car, and I don't
+
+201
+00:07:03,570 --> 00:07:05,646
+get the whole car built,
+then my end customer
+
+202
+00:07:05,646 --> 00:07:08,390
+can't have a way to
+drive to and from work,
+
+203
+00:07:08,390 --> 00:07:10,460
+because that's the benefit
+they want to realize.
+
+204
+00:07:10,460 --> 00:07:11,980
+It's the same thing in technology.
+
+205
+00:07:11,980 --> 00:07:13,510
+If I'm going to build a website,
+
+206
+00:07:13,510 --> 00:07:15,100
+and I don't build the entire website
+
+207
+00:07:15,100 --> 00:07:15,980
+from end to end
+
+208
+00:07:15,980 --> 00:07:18,210
+there's nothing there
+for the customer to use.
+
+209
+00:07:18,210 --> 00:07:20,240
+And so we have this focus on delivering
+
+210
+00:07:20,240 --> 00:07:21,810
+the output at the end.
+
+211
+00:07:21,810 --> 00:07:23,280
+Now, when we start talking about Agile,
+
+212
+00:07:23,280 --> 00:07:24,519
+we're going to break
+that down even smaller
+
+213
+00:07:24,519 --> 00:07:26,810
+to deliver smaller pieces that give us
+
+214
+00:07:26,810 --> 00:07:28,780
+usable ability, but when we look at
+
+215
+00:07:28,780 --> 00:07:31,130
+focus on products as a macro scale,
+
+216
+00:07:31,130 --> 00:07:33,490
+we are looking at getting some successful
+
+217
+00:07:33,490 --> 00:07:35,550
+delivered products into the hands of
+
+218
+00:07:35,550 --> 00:07:38,710
+those who are using it to
+realize those benefits.
+
+219
+00:07:38,710 --> 00:07:40,730
+Our last principle is
+probably one of the most
+
+220
+00:07:40,730 --> 00:07:42,690
+important ones inside of PRINCE2.
+
+221
+00:07:42,690 --> 00:07:45,359
+And it's tailoring to suit
+the project environment.
+
+222
+00:07:45,359 --> 00:07:48,590
+PRINCE2 is a highly
+adaptable framework that can
+
+223
+00:07:48,590 --> 00:07:50,720
+be specifically tailored to meet the needs
+
+224
+00:07:50,720 --> 00:07:52,270
+of each and every product.
+
+225
+00:07:52,270 --> 00:07:54,070
+And those tailorings are going to happen
+
+226
+00:07:54,070 --> 00:07:55,810
+based on different factors.
+
+227
+00:07:55,810 --> 00:07:58,260
+For example, not all projects operate
+
+228
+00:07:58,260 --> 00:08:00,280
+in the same cultural environment.
+
+229
+00:08:00,280 --> 00:08:02,070
+If I have a team who's making a website
+
+230
+00:08:02,070 --> 00:08:03,590
+here in the United States and a team
+
+231
+00:08:03,590 --> 00:08:06,260
+who's making one in India,
+those are two different
+
+232
+00:08:06,260 --> 00:08:08,044
+cultural things and we're
+going to have to change
+
+233
+00:08:08,044 --> 00:08:10,230
+some of the ways that we run this project
+
+234
+00:08:10,230 --> 00:08:12,180
+based on those cultural differences.
+
+235
+00:08:12,180 --> 00:08:13,550
+We also have geography.
+
+236
+00:08:13,550 --> 00:08:15,730
+We may look at something
+that is built in America
+
+237
+00:08:15,730 --> 00:08:17,370
+versus something that is built in China
+
+238
+00:08:17,370 --> 00:08:18,500
+and you're going to have different costs
+
+239
+00:08:18,500 --> 00:08:20,730
+associated with that,
+different manufacturing,
+
+240
+00:08:20,730 --> 00:08:22,800
+and different labor considerations.
+
+241
+00:08:22,800 --> 00:08:24,210
+Complexity is another one.
+
+242
+00:08:24,210 --> 00:08:25,770
+If you start looking at complexity,
+
+243
+00:08:25,770 --> 00:08:29,080
+these projects can be
+very complex or very easy.
+
+244
+00:08:29,080 --> 00:08:30,640
+And depending on that,
+we're going to put more
+
+245
+00:08:30,640 --> 00:08:32,780
+governance and controls in place.
+
+246
+00:08:32,780 --> 00:08:35,310
+If I'm building a car,
+that is a very expensive
+
+247
+00:08:35,310 --> 00:08:37,700
+proposition and a very complex one,
+
+248
+00:08:37,700 --> 00:08:39,750
+so I'm going to have to make
+lots of different stages
+
+249
+00:08:39,750 --> 00:08:41,453
+and lots of governance and control.
+
+250
+00:08:41,453 --> 00:08:44,100
+If instead I'm looking
+at building something
+
+251
+00:08:44,100 --> 00:08:47,000
+like a piece of software that's
+just going to do one function,
+
+252
+00:08:47,000 --> 00:08:49,290
+that might be a very simple aspect
+
+253
+00:08:49,290 --> 00:08:51,510
+and so it might not need all of the rigor
+
+254
+00:08:51,510 --> 00:08:53,420
+and governance controls that PRINCE2
+
+255
+00:08:53,420 --> 00:08:54,840
+would normally afford to it
+
+256
+00:08:54,840 --> 00:08:57,160
+and so we'll scale that back down.
+
+257
+00:08:57,160 --> 00:08:59,600
+The other thing we look
+at is the scale itself.
+
+258
+00:08:59,600 --> 00:09:02,010
+How big or how small is the project?
+
+259
+00:09:02,010 --> 00:09:03,860
+If it's something that's
+a million dollar project,
+
+260
+00:09:03,860 --> 00:09:05,500
+we're going to have a
+lot more controls on it
+
+261
+00:09:05,500 --> 00:09:07,740
+than something that's a $10 project.
+
+262
+00:09:07,740 --> 00:09:09,040
+And finally, risk.
+
+263
+00:09:09,040 --> 00:09:10,950
+How risky is the thing you're doing?
+
+264
+00:09:10,950 --> 00:09:13,170
+A good example of this
+is when I built my house.
+
+265
+00:09:13,170 --> 00:09:15,610
+I built it with a builder
+who happens to build
+
+266
+00:09:15,610 --> 00:09:17,190
+a lot of this same style house
+
+267
+00:09:17,190 --> 00:09:19,250
+and so it was a very low risk evolution
+
+268
+00:09:19,250 --> 00:09:22,070
+because they've already built
+20 or 30 of those before.
+
+269
+00:09:22,070 --> 00:09:24,060
+Now if I went and got a custom house made
+
+270
+00:09:24,060 --> 00:09:26,240
+and we had to choose every single piece
+
+271
+00:09:26,240 --> 00:09:27,410
+and we were using a builder who had never
+
+272
+00:09:27,410 --> 00:09:29,810
+built a house before, that's highly risky
+
+273
+00:09:29,810 --> 00:09:31,750
+and so we would have
+more stages and we would
+
+274
+00:09:31,750 --> 00:09:33,380
+scope the project appropriately
+
+275
+00:09:33,380 --> 00:09:35,170
+with more governance and more control
+
+276
+00:09:35,170 --> 00:09:36,780
+to be able to address those risks
+
+277
+00:09:36,780 --> 00:09:38,230
+as we go through the project.
+

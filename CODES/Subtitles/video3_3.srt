@@ -1,0 +1,505 @@
+﻿1
+00:00:00,190 --> 00:00:01,830
+- What is Scrum?
+
+2
+00:00:01,830 --> 00:00:04,510
+Well, Scrum is an Agile
+Framework that's used
+
+3
+00:00:04,510 --> 00:00:08,200
+for developing and
+sustaining complex products.
+
+4
+00:00:08,200 --> 00:00:11,310
+Scrum is a collection of
+different roles, events,
+
+5
+00:00:11,310 --> 00:00:14,520
+artifacts, and rules for us
+to be able to make products
+
+6
+00:00:14,520 --> 00:00:16,660
+faster and more efficiently.
+
+7
+00:00:16,660 --> 00:00:19,100
+It was first created back in 1995
+
+8
+00:00:19,100 --> 00:00:20,770
+by Schwaber and Sutherland,
+
+9
+00:00:20,770 --> 00:00:23,820
+and it was a method that's
+used to assess the efficiency
+
+10
+00:00:23,820 --> 00:00:27,060
+of your current practices in
+order for you to improve them
+
+11
+00:00:27,060 --> 00:00:29,840
+so you can get things done
+better, cheaper, faster,
+
+12
+00:00:29,840 --> 00:00:31,230
+and with less risk,
+
+13
+00:00:31,230 --> 00:00:33,320
+and that is what we're
+going to heavily base
+
+14
+00:00:33,320 --> 00:00:36,840
+our PRINCE2 Agile on
+is the Scrum Framework.
+
+15
+00:00:36,840 --> 00:00:40,390
+Now, Scrum Theory was
+founded in empirical process
+
+16
+00:00:40,390 --> 00:00:41,400
+control theory.
+
+17
+00:00:41,400 --> 00:00:43,560
+They wanted to see what was being done
+
+18
+00:00:43,560 --> 00:00:46,580
+and make their decisions
+based on evidence.
+
+19
+00:00:46,580 --> 00:00:49,600
+There are three core
+areas of Scrum Theory;
+
+20
+00:00:49,600 --> 00:00:53,370
+transparency, inspection, and adaptation.
+
+21
+00:00:53,370 --> 00:00:55,860
+Transparency is focused
+on showing that there are
+
+22
+00:00:55,860 --> 00:00:59,460
+significant aspects of the
+process that must be visible
+
+23
+00:00:59,460 --> 00:01:02,230
+to all of those who are
+responsible for the outcome,
+
+24
+00:01:02,230 --> 00:01:05,650
+so the old ways of some
+manager in an ivory tower
+
+25
+00:01:05,650 --> 00:01:07,480
+having all of the information,
+
+26
+00:01:07,480 --> 00:01:09,290
+and those of us down at lower levels,
+
+27
+00:01:09,290 --> 00:01:11,080
+not knowing the bigger picture,
+
+28
+00:01:11,080 --> 00:01:13,290
+that is gone inside of Scrum.
+
+29
+00:01:13,290 --> 00:01:16,700
+Scrum thinks that everyone
+from the bottom to the top
+
+30
+00:01:16,700 --> 00:01:19,350
+should have transparency
+into the significant aspects
+
+31
+00:01:19,350 --> 00:01:20,330
+of the process,
+
+32
+00:01:20,330 --> 00:01:22,480
+because it allows us to
+make better decisions
+
+33
+00:01:22,480 --> 00:01:24,500
+and work better as a team.
+
+34
+00:01:24,500 --> 00:01:26,450
+The second core area is inspection,
+
+35
+00:01:26,450 --> 00:01:29,560
+and this is focused on
+users frequently inspecting
+
+36
+00:01:29,560 --> 00:01:32,920
+the artifacts and the progress
+towards your sprint goal,
+
+37
+00:01:32,920 --> 00:01:35,250
+because again, focusing on transparency,
+
+38
+00:01:35,250 --> 00:01:36,910
+if we all know where we are,
+
+39
+00:01:36,910 --> 00:01:38,930
+and we check the progress as we're going,
+
+40
+00:01:38,930 --> 00:01:40,530
+we'll all be able to get there better,
+
+41
+00:01:40,530 --> 00:01:42,110
+faster, and cheaper.
+
+42
+00:01:42,110 --> 00:01:44,200
+And the third is adaptation.
+
+43
+00:01:44,200 --> 00:01:47,050
+Adaptation is where we focus
+on taking our processes
+
+44
+00:01:47,050 --> 00:01:50,100
+and our materials and
+adjusting them as needed.
+
+45
+00:01:50,100 --> 00:01:51,630
+Nothing is sacred here,
+
+46
+00:01:51,630 --> 00:01:53,460
+everything can be modified.
+
+47
+00:01:53,460 --> 00:01:56,230
+Just like we talked about
+back in PRINCE2 principles,
+
+48
+00:01:56,230 --> 00:01:58,040
+where we say we want to
+tailor to the environment
+
+49
+00:01:58,040 --> 00:01:59,550
+of tailor to the project,
+
+50
+00:01:59,550 --> 00:02:01,810
+adaptation really does believe that,
+
+51
+00:02:01,810 --> 00:02:03,500
+and that is one of the heavy concepts
+
+52
+00:02:03,500 --> 00:02:05,093
+here inside of Scrum Theory.
+
+53
+00:02:05,940 --> 00:02:08,200
+Now, when we look at our Scrum team,
+
+54
+00:02:08,200 --> 00:02:10,380
+we have to realize that
+this team of people
+
+55
+00:02:10,380 --> 00:02:11,860
+that are going to work on the project,
+
+56
+00:02:11,860 --> 00:02:13,900
+they should be self-organizing,
+
+57
+00:02:13,900 --> 00:02:17,900
+cross-functional, flexible,
+creative, and productive.
+
+58
+00:02:17,900 --> 00:02:19,320
+By self-organizing,
+
+59
+00:02:19,320 --> 00:02:23,040
+the team doesn't have to have
+this hard amount of pressure
+
+60
+00:02:23,040 --> 00:02:25,120
+from management to get things done.
+
+61
+00:02:25,120 --> 00:02:27,760
+They're going to come
+together and form together
+
+62
+00:02:27,760 --> 00:02:30,270
+to get the product done
+that needs to be done.
+
+63
+00:02:30,270 --> 00:02:31,540
+They're cross-functional,
+
+64
+00:02:31,540 --> 00:02:34,140
+meaning that everything you
+need to build the final product
+
+65
+00:02:34,140 --> 00:02:36,450
+should exist already within the team.
+
+66
+00:02:36,450 --> 00:02:37,900
+So if I'm making a website,
+
+67
+00:02:37,900 --> 00:02:39,680
+that means I need somebody
+who can write copy
+
+68
+00:02:39,680 --> 00:02:40,513
+for the website,
+
+69
+00:02:40,513 --> 00:02:42,500
+I need somebody who can build
+graphics for the website,
+
+70
+00:02:42,500 --> 00:02:44,460
+and I need somebody who
+can code for the website.
+
+71
+00:02:44,460 --> 00:02:46,670
+If I have those three people in my team,
+
+72
+00:02:46,670 --> 00:02:48,640
+and we all self-organize together,
+
+73
+00:02:48,640 --> 00:02:50,590
+we're now cross-functional
+because we each have
+
+74
+00:02:50,590 --> 00:02:52,060
+different areas of expertise.
+
+75
+00:02:52,060 --> 00:02:54,630
+That allows us to be more
+flexible, more creative,
+
+76
+00:02:54,630 --> 00:02:56,920
+and more productive as we move forward,
+
+77
+00:02:56,920 --> 00:02:58,460
+and that's the whole benefit of Scrum
+
+78
+00:02:58,460 --> 00:03:00,790
+is putting the right
+people on the right teams
+
+79
+00:03:00,790 --> 00:03:03,410
+so that you can get the
+right product at the end.
+
+80
+00:03:03,410 --> 00:03:05,080
+As we start looking at the Scrum team,
+
+81
+00:03:05,080 --> 00:03:06,713
+there are different roles
+that we're going to have
+
+82
+00:03:06,713 --> 00:03:08,260
+that have to be assumed.
+
+83
+00:03:08,260 --> 00:03:10,100
+We have the role of product owner,
+
+84
+00:03:10,100 --> 00:03:12,700
+development team, and Scrum master.
+
+85
+00:03:12,700 --> 00:03:14,780
+Now, the Scrum team is actually bigger
+
+86
+00:03:14,780 --> 00:03:16,410
+than just the development team,
+
+87
+00:03:16,410 --> 00:03:17,760
+so in the example of the website,
+
+88
+00:03:17,760 --> 00:03:20,210
+I said I need a graphic
+designer and a coder
+
+89
+00:03:20,210 --> 00:03:21,400
+and a copy editor,
+
+90
+00:03:21,400 --> 00:03:23,280
+well that's the development team.
+
+91
+00:03:23,280 --> 00:03:25,110
+They are going to consist
+of the professionals
+
+92
+00:03:25,110 --> 00:03:28,310
+who do the work and deliver
+a reasonable increment
+
+93
+00:03:28,310 --> 00:03:30,330
+of done for each sprint.
+
+94
+00:03:30,330 --> 00:03:33,190
+They're going to give us some
+product that can be released.
+
+95
+00:03:33,190 --> 00:03:35,120
+But, outside of the development team,
+
+96
+00:03:35,120 --> 00:03:37,030
+we have some other roles as well.
+
+97
+00:03:37,030 --> 00:03:38,440
+We have a product owner.
+
+98
+00:03:38,440 --> 00:03:40,730
+They're the ones who are
+responsible for maximizing
+
+99
+00:03:40,730 --> 00:03:43,270
+the value of the product
+resulting from the work
+
+100
+00:03:43,270 --> 00:03:45,420
+that the development team is building.
+
+101
+00:03:45,420 --> 00:03:47,840
+They're going to be the ones
+who manage the product backlog
+
+102
+00:03:47,840 --> 00:03:49,830
+and create a lot of the requirements,
+
+103
+00:03:49,830 --> 00:03:52,500
+and so, if you want to
+take this product owner,
+
+104
+00:03:52,500 --> 00:03:55,320
+you could think about
+them as the customer,
+
+105
+00:03:55,320 --> 00:03:58,090
+they're the ones who are asking
+for something to be built,
+
+106
+00:03:58,090 --> 00:04:01,290
+and then we have this third
+thing called a Scrum master,
+
+107
+00:04:01,290 --> 00:04:03,890
+and the Scrum master is a
+person who's responsible
+
+108
+00:04:03,890 --> 00:04:06,670
+for the process of Scrum and making sure
+
+109
+00:04:06,670 --> 00:04:09,370
+that everyone kind of buys into the idea
+
+110
+00:04:09,370 --> 00:04:10,870
+that we're going to work as a team,
+
+111
+00:04:10,870 --> 00:04:12,480
+that we're going to
+work cross-functionally,
+
+112
+00:04:12,480 --> 00:04:14,450
+and that we're going to work
+in this highly adaptable
+
+113
+00:04:14,450 --> 00:04:15,953
+and fast changing environment.
+

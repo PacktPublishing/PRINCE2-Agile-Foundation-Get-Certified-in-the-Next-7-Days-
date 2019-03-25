@@ -1,0 +1,1545 @@
+﻿1
+00:00:00,350 --> 00:00:02,570
+- In any PRINCE2 project, there are
+
+2
+00:00:02,570 --> 00:00:04,880
+three main stakeholders that we have
+
+3
+00:00:04,880 --> 00:00:07,080
+competing interests with
+that have to be balanced.
+
+4
+00:00:07,080 --> 00:00:09,320
+The first is the business.
+
+5
+00:00:09,320 --> 00:00:10,800
+The second is the user.
+
+6
+00:00:10,800 --> 00:00:12,780
+And the third is the supplier.
+
+7
+00:00:12,780 --> 00:00:15,020
+In a traditional PRINCE2 organization,
+
+8
+00:00:15,020 --> 00:00:17,120
+this is represented on the project board
+
+9
+00:00:17,120 --> 00:00:19,679
+by the executive, who's
+focused on the business needs,
+
+10
+00:00:19,679 --> 00:00:22,560
+the senior user, focused
+on the user's needs,
+
+11
+00:00:22,560 --> 00:00:23,780
+and the senior supplier,
+
+12
+00:00:23,780 --> 00:00:25,960
+who's focused on the supplier's needs.
+
+13
+00:00:25,960 --> 00:00:27,570
+As all three of these are being balanced
+
+14
+00:00:27,570 --> 00:00:30,610
+inside the project to get
+us a product at the end
+
+15
+00:00:30,610 --> 00:00:32,200
+that meets the delivery requirements
+
+16
+00:00:32,200 --> 00:00:34,740
+so the users can get benefit from it.
+
+17
+00:00:34,740 --> 00:00:36,390
+Now, as we start looking at this
+
+18
+00:00:36,390 --> 00:00:38,350
+inside the organization theme,
+
+19
+00:00:38,350 --> 00:00:42,250
+we have to determine how best
+to set up our organization.
+
+20
+00:00:42,250 --> 00:00:45,330
+A traditional PRINCE2
+organization is set up like this.
+
+21
+00:00:45,330 --> 00:00:47,690
+We have a project board
+with the executive,
+
+22
+00:00:47,690 --> 00:00:49,970
+senior user, and senior supplier.
+
+23
+00:00:49,970 --> 00:00:52,140
+Underneath them, we
+have a project manager.
+
+24
+00:00:52,140 --> 00:00:53,620
+And underneath the project manager,
+
+25
+00:00:53,620 --> 00:00:55,350
+we have the team manager.
+
+26
+00:00:55,350 --> 00:00:57,640
+And then underneath them
+is the team members.
+
+27
+00:00:57,640 --> 00:01:00,640
+Who are actually working on
+the delivery of the product.
+
+28
+00:01:00,640 --> 00:01:03,520
+Now as we look to take this PRINCE2 method
+
+29
+00:01:03,520 --> 00:01:06,330
+and start forming it
+into an Agile construct,
+
+30
+00:01:06,330 --> 00:01:08,210
+we have to look at what
+needs to be tailored
+
+31
+00:01:08,210 --> 00:01:10,330
+inside the organization theme.
+
+32
+00:01:10,330 --> 00:01:13,150
+The good news is, there
+is no major changes
+
+33
+00:01:13,150 --> 00:01:15,250
+that really have to be made to the way
+
+34
+00:01:15,250 --> 00:01:17,390
+that PRINCE2 is organized
+in order for it to work
+
+35
+00:01:17,390 --> 00:01:18,720
+in an Agile construct.
+
+36
+00:01:18,720 --> 00:01:21,830
+But we do have to add
+a couple of key roles.
+
+37
+00:01:21,830 --> 00:01:23,370
+This is things like looking at the way
+
+38
+00:01:23,370 --> 00:01:25,030
+the team manager's role is set up,
+
+39
+00:01:25,030 --> 00:01:27,170
+and figuring out, are they
+going to be integrated
+
+40
+00:01:27,170 --> 00:01:29,150
+into the delivery team,
+or are they going to stay
+
+41
+00:01:29,150 --> 00:01:30,640
+outside of the delivery team
+
+42
+00:01:30,640 --> 00:01:32,650
+and be more of a managerial function?
+
+43
+00:01:32,650 --> 00:01:34,515
+We also need to look at
+some common Agile roles,
+
+44
+00:01:34,515 --> 00:01:37,240
+like the product donor
+and the scrum master.
+
+45
+00:01:37,240 --> 00:01:38,480
+When we look at the product donor,
+
+46
+00:01:38,480 --> 00:01:40,170
+who's going to fulfill that role?
+
+47
+00:01:40,170 --> 00:01:42,110
+Is it going to be the senior user?
+
+48
+00:01:42,110 --> 00:01:44,550
+And that's usually the most
+common way of doing it.
+
+49
+00:01:44,550 --> 00:01:45,970
+If not, you're going to have to figure out
+
+50
+00:01:45,970 --> 00:01:47,910
+who's going to be that
+person who's going to act
+
+51
+00:01:47,910 --> 00:01:50,360
+as the product owner
+from an Agile perspective
+
+52
+00:01:50,360 --> 00:01:53,690
+based on the amount of time
+and responsibility they have.
+
+53
+00:01:53,690 --> 00:01:55,740
+Next, we have to look at the scrum master.
+
+54
+00:01:55,740 --> 00:01:57,060
+This is something we need to bring in
+
+55
+00:01:57,060 --> 00:01:58,860
+if we're going to be using Agile construct
+
+56
+00:01:58,860 --> 00:02:01,420
+to make sure that somebody
+is there making sure
+
+57
+00:02:01,420 --> 00:02:03,790
+the processes are working properly.
+
+58
+00:02:03,790 --> 00:02:05,880
+This person is going to
+have a direct liaison
+
+59
+00:02:05,880 --> 00:02:08,550
+with the project manager
+or, in some cases,
+
+60
+00:02:08,550 --> 00:02:10,330
+it may be the project manager.
+
+61
+00:02:10,330 --> 00:02:12,301
+It just depends on how you
+want to set up your project
+
+62
+00:02:12,301 --> 00:02:14,100
+for your organization.
+
+63
+00:02:14,100 --> 00:02:15,477
+Now, as we look into the project
+
+64
+00:02:15,477 --> 00:02:17,180
+and we look at the way the organization
+
+65
+00:02:17,180 --> 00:02:19,430
+is being set up, we have
+to think about the way
+
+66
+00:02:19,430 --> 00:02:21,170
+the team is going to be designed.
+
+67
+00:02:21,170 --> 00:02:22,983
+Now, how are we going to design this team?
+
+68
+00:02:22,983 --> 00:02:25,280
+Well, if we're using an Agile construct,
+
+69
+00:02:25,280 --> 00:02:27,624
+we should be using self-organizing teams.
+
+70
+00:02:27,624 --> 00:02:30,320
+That delivery team should
+be made up of the people
+
+71
+00:02:30,320 --> 00:02:32,590
+who have the right skills and capability
+
+72
+00:02:32,590 --> 00:02:35,720
+and mesh together well to
+provide the right product.
+
+73
+00:02:35,720 --> 00:02:37,821
+As we start focusing on
+self-organizing teams
+
+74
+00:02:37,821 --> 00:02:40,350
+and allowing them to manage by exception,
+
+75
+00:02:40,350 --> 00:02:42,600
+we also have to think about
+the traditional PRINCE2 roles,
+
+76
+00:02:42,600 --> 00:02:45,700
+things like project
+managers and team managers,
+
+77
+00:02:45,700 --> 00:02:47,300
+and how do they fit in.
+
+78
+00:02:47,300 --> 00:02:48,840
+Well, if we're going to move from PRINCE2
+
+79
+00:02:48,840 --> 00:02:51,270
+to PRINCE2 Agile, those two roles
+
+80
+00:02:51,270 --> 00:02:52,980
+actually have less prominence.
+
+81
+00:02:52,980 --> 00:02:55,750
+There's less focus on the
+managers and more focus
+
+82
+00:02:55,750 --> 00:02:57,283
+on the delivery itself.
+
+83
+00:02:57,283 --> 00:03:00,290
+Also, in a traditional
+PRINCE2 environment,
+
+84
+00:03:00,290 --> 00:03:02,280
+we may have some roles out there
+like requirements engineers
+
+85
+00:03:02,280 --> 00:03:05,380
+or business analysts, who help to develop
+
+86
+00:03:05,380 --> 00:03:08,200
+the really in-depth
+requirements for our project.
+
+87
+00:03:08,200 --> 00:03:10,340
+When we start dealing with Agile, though,
+
+88
+00:03:10,340 --> 00:03:11,490
+we don't really need those people,
+
+89
+00:03:11,490 --> 00:03:13,230
+because we hae our user stories,
+
+90
+00:03:13,230 --> 00:03:15,821
+and we have our users
+getting a lot more integrated
+
+91
+00:03:15,821 --> 00:03:18,504
+into our delivery and being
+represented on the team.
+
+92
+00:03:18,504 --> 00:03:21,350
+And so a lot of that will
+actually be diminished
+
+93
+00:03:21,350 --> 00:03:23,190
+and have less prominence as well.
+
+94
+00:03:23,190 --> 00:03:24,810
+Doesn't mean they go away completely,
+
+95
+00:03:24,810 --> 00:03:26,810
+but it does mean we're going
+to spend a lot less time
+
+96
+00:03:26,810 --> 00:03:28,403
+on those particular functions.
+
+97
+00:03:28,403 --> 00:03:31,280
+Now as we start looking at this Agile view
+
+98
+00:03:31,280 --> 00:03:32,600
+of the way things are working,
+
+99
+00:03:32,600 --> 00:03:35,140
+we have to think about
+what the relationships are
+
+100
+00:03:35,140 --> 00:03:36,380
+with different people.
+
+101
+00:03:36,380 --> 00:03:38,350
+So if we look, for instance, at the PM,
+
+102
+00:03:38,350 --> 00:03:41,520
+the project manager, and
+the TM, the team manager,
+
+103
+00:03:41,520 --> 00:03:43,490
+how are they going to
+relate to each other?
+
+104
+00:03:43,490 --> 00:03:45,500
+In a traditional PRINCE2 method,
+
+105
+00:03:45,500 --> 00:03:49,030
+usually the team manager
+works for the project manager.
+
+106
+00:03:49,030 --> 00:03:51,690
+But, inside an Agile
+methodology, there's more
+
+107
+00:03:51,690 --> 00:03:54,338
+of this servant leadership
+attitude from the project manager
+
+108
+00:03:54,338 --> 00:03:56,060
+to the team manager.
+
+109
+00:03:56,060 --> 00:03:57,870
+While the team manger
+still technically works
+
+110
+00:03:57,870 --> 00:03:59,890
+for the project manager,
+the project manager
+
+111
+00:03:59,890 --> 00:04:02,810
+is really there to help
+serve and do the things
+
+112
+00:04:02,810 --> 00:04:06,100
+that are needed for the team
+manger to be successful.
+
+113
+00:04:06,100 --> 00:04:08,100
+Now, when we start looking
+at the team manager themself,
+
+114
+00:04:08,100 --> 00:04:09,680
+we have a question of should they be
+
+115
+00:04:09,680 --> 00:04:12,220
+a part of the delivery
+team, or should they just be
+
+116
+00:04:12,220 --> 00:04:13,920
+managing the delivery team.
+
+117
+00:04:13,920 --> 00:04:15,260
+And that's going to be different depending
+
+118
+00:04:15,260 --> 00:04:17,660
+on how you want to do
+it inside your project.
+
+119
+00:04:17,660 --> 00:04:20,440
+We'll talk a little bit more
+about that in just a second.
+
+120
+00:04:20,440 --> 00:04:22,700
+We also have to look at
+that senior user role.
+
+121
+00:04:22,700 --> 00:04:25,760
+Are they going to act as the
+product owner and the manager,
+
+122
+00:04:25,760 --> 00:04:29,080
+or are we going to get somebody
+else to fulfill that function?
+
+123
+00:04:29,080 --> 00:04:30,283
+And then, whatever these changes are
+
+124
+00:04:30,283 --> 00:04:33,060
+that we decide on, because
+we're using PRINCE2,
+
+125
+00:04:33,060 --> 00:04:35,020
+we do need to define those inside
+
+126
+00:04:35,020 --> 00:04:37,200
+our project initiation documentation,
+
+127
+00:04:37,200 --> 00:04:39,620
+because that's where the
+organization is laid out.
+
+128
+00:04:39,620 --> 00:04:41,500
+Any changes or tailoring that's being made
+
+129
+00:04:41,500 --> 00:04:43,180
+should be put into your PID,
+
+130
+00:04:43,180 --> 00:04:45,240
+your project initiation documentation.
+
+131
+00:04:45,240 --> 00:04:47,300
+Now, when we look at things
+from an Agile perspective,
+
+132
+00:04:47,300 --> 00:04:49,098
+what adjustments are we
+making to the Agile process
+
+133
+00:04:49,098 --> 00:04:52,200
+to make it work well inside PRINCE2?
+
+134
+00:04:52,200 --> 00:04:53,270
+Well, one of them is that
+
+135
+00:04:53,270 --> 00:04:55,800
+we only use a single product owner.
+
+136
+00:04:55,800 --> 00:04:58,060
+Now, again, this can be your senior user,
+
+137
+00:04:58,060 --> 00:04:59,870
+or it could be delegated elsewhere,
+
+138
+00:04:59,870 --> 00:05:01,730
+but there should only be one product owner
+
+139
+00:05:01,730 --> 00:05:03,390
+inside of PRINCE2 Agile.
+
+140
+00:05:03,390 --> 00:05:05,270
+In a traditional Agile
+environment, though,
+
+141
+00:05:05,270 --> 00:05:07,340
+you can have multiple product owners.
+
+142
+00:05:07,340 --> 00:05:08,750
+And that's okay, it just depends
+
+143
+00:05:08,750 --> 00:05:10,220
+on how you want to set it up.
+
+144
+00:05:10,220 --> 00:05:11,690
+Again, though, it is recommended
+
+145
+00:05:11,690 --> 00:05:14,280
+to have single product owner
+inside of PRINCE 2 Agile,
+
+146
+00:05:14,280 --> 00:05:15,900
+because it allows more of that control
+
+147
+00:05:15,900 --> 00:05:17,680
+and governance to occur.
+
+148
+00:05:17,680 --> 00:05:19,470
+PRINCE2 Agile also
+recommends that you have
+
+149
+00:05:19,470 --> 00:05:22,380
+further roles added to
+help that product owner,
+
+150
+00:05:22,380 --> 00:05:24,620
+people that are known as
+subject matter experts,
+
+151
+00:05:24,620 --> 00:05:27,390
+or user representatives,
+and by embedding those type
+
+152
+00:05:27,390 --> 00:05:29,380
+of people inside the delivery team,
+
+153
+00:05:29,380 --> 00:05:31,120
+it allows that product owner function
+
+154
+00:05:31,120 --> 00:05:33,082
+to remain up at the senior user level.
+
+155
+00:05:33,082 --> 00:05:35,420
+Also, any of these changes you do,
+
+156
+00:05:35,420 --> 00:05:37,870
+and any of these modifications
+you do inside Agile,
+
+157
+00:05:37,870 --> 00:05:40,430
+you should define them inside
+your working agreements,
+
+158
+00:05:40,430 --> 00:05:42,020
+because a lot of times, the
+teams that are delivering
+
+159
+00:05:42,020 --> 00:05:44,240
+your product don't work inside
+
+160
+00:05:44,240 --> 00:05:46,500
+your traditional organization or business.
+
+161
+00:05:46,500 --> 00:05:48,640
+They might be outsourced or contracted,
+
+162
+00:05:48,640 --> 00:05:50,600
+and so you want to make
+sure all of this is defined
+
+163
+00:05:50,600 --> 00:05:52,150
+in the proper working agreements
+
+164
+00:05:52,150 --> 00:05:54,830
+so everybody knows what is expected.
+
+165
+00:05:54,830 --> 00:05:57,120
+Now, as far as the delivery team goes,
+
+166
+00:05:57,120 --> 00:05:59,470
+the delivery team has
+a lot of people in it,
+
+167
+00:05:59,470 --> 00:06:00,990
+and we want to make
+sure we keep that number
+
+168
+00:06:00,990 --> 00:06:03,219
+to a reasonable size, usually no more than
+
+169
+00:06:03,219 --> 00:06:05,380
+five to seven people.
+
+170
+00:06:05,380 --> 00:06:07,040
+We want to make sure
+we have representation
+
+171
+00:06:07,040 --> 00:06:09,030
+from several different places, though.
+
+172
+00:06:09,030 --> 00:06:11,018
+For example, we need
+somebody to lead the team,
+
+173
+00:06:11,018 --> 00:06:13,240
+usually your team manger.
+
+174
+00:06:13,240 --> 00:06:14,920
+We need somebody from the customer side,
+
+175
+00:06:14,920 --> 00:06:16,150
+or their representative.
+
+176
+00:06:16,150 --> 00:06:17,650
+That could be a subject matter expert
+
+177
+00:06:17,650 --> 00:06:19,310
+or a user representative.
+
+178
+00:06:19,310 --> 00:06:21,420
+We need a team to actually
+create the products,
+
+179
+00:06:21,420 --> 00:06:23,496
+and the people who are going to
+do the coding and the design.
+
+180
+00:06:23,496 --> 00:06:25,220
+We also need somebody to ensure
+
+181
+00:06:25,220 --> 00:06:27,460
+that the quality of the
+product meets what we need,
+
+182
+00:06:27,460 --> 00:06:29,340
+that quality control function.
+
+183
+00:06:29,340 --> 00:06:30,890
+We need somebody who can coach the team
+
+184
+00:06:30,890 --> 00:06:33,578
+on how to use Agile, somebody
+like our scrum master.
+
+185
+00:06:33,578 --> 00:06:37,560
+And we also need multi-skilled,
+generalizing specialists.
+
+186
+00:06:37,560 --> 00:06:38,810
+That means that we don't want somebody
+
+187
+00:06:38,810 --> 00:06:40,750
+who can only do one thing.
+
+188
+00:06:40,750 --> 00:06:42,980
+We need people who can do multiple things.
+
+189
+00:06:42,980 --> 00:06:44,560
+If I'm going to build
+an app, for instance,
+
+190
+00:06:44,560 --> 00:06:46,770
+I need to have some people
+who can do graphic work,
+
+191
+00:06:46,770 --> 00:06:48,720
+and I need people who can do coding work.
+
+192
+00:06:48,720 --> 00:06:51,720
+But if I have somebody who
+can only do a very specialized
+
+193
+00:06:51,720 --> 00:06:53,690
+type of coding, that's not
+going to be good enough
+
+194
+00:06:53,690 --> 00:06:55,350
+for us to be able to be agile enough
+
+195
+00:06:55,350 --> 00:06:56,780
+to meet the different requirements
+
+196
+00:06:56,780 --> 00:06:58,000
+that may be placed on our team.
+
+197
+00:06:58,000 --> 00:06:59,960
+And so we want to have
+people who are kind of
+
+198
+00:06:59,960 --> 00:07:02,320
+the jack of all trades but master of none.
+
+199
+00:07:02,320 --> 00:07:03,860
+That kind of philosophy where they can do
+
+200
+00:07:03,860 --> 00:07:04,950
+a little bit of everything,
+
+201
+00:07:04,950 --> 00:07:07,490
+and then pull in specialists as needed.
+
+202
+00:07:07,490 --> 00:07:10,150
+So I know I just threw a
+whole bunch of terms at you.
+
+203
+00:07:10,150 --> 00:07:12,900
+Let's look at how this
+looks in a graphical format
+
+204
+00:07:12,900 --> 00:07:14,858
+as we move from a PRINCE2 format
+
+205
+00:07:14,858 --> 00:07:17,460
+over into a PRINCE2 Agile format.
+
+206
+00:07:17,460 --> 00:07:18,860
+You'll notice on the left, we have our
+
+207
+00:07:18,860 --> 00:07:20,660
+traditional PRINCE2 methodology.
+
+208
+00:07:20,660 --> 00:07:22,940
+This has our project
+board with our executive,
+
+209
+00:07:22,940 --> 00:07:24,830
+senior user, and senior supplier,
+
+210
+00:07:24,830 --> 00:07:27,810
+and it's hierarchically down
+through the project manager,
+
+211
+00:07:27,810 --> 00:07:28,720
+through the team manager,
+
+212
+00:07:28,720 --> 00:07:30,356
+and then down to the team members.
+
+213
+00:07:30,356 --> 00:07:33,430
+Now if we move on to the
+right in this Agile linkage,
+
+214
+00:07:33,430 --> 00:07:35,340
+we're going to look at
+how we do this here.
+
+215
+00:07:35,340 --> 00:07:37,340
+We still have a project board at the top,
+
+216
+00:07:37,340 --> 00:07:39,610
+which is our senior user,
+our senior supplier,
+
+217
+00:07:39,610 --> 00:07:40,730
+and our executive.
+
+218
+00:07:40,730 --> 00:07:43,330
+We still have our project
+manager and our team manager,
+
+219
+00:07:43,330 --> 00:07:45,070
+and they may be one and the same person,
+
+220
+00:07:45,070 --> 00:07:46,760
+as you see with that line there.
+
+221
+00:07:46,760 --> 00:07:48,879
+But they're also going
+to be working directly
+
+222
+00:07:48,879 --> 00:07:50,798
+with the delivery team,
+and that delivery team
+
+223
+00:07:50,798 --> 00:07:54,010
+is going to be your supplier
+subject matter expert,
+
+224
+00:07:54,010 --> 00:07:56,050
+your customer subject matter expert,
+
+225
+00:07:56,050 --> 00:07:57,830
+your quality assurance people,
+
+226
+00:07:57,830 --> 00:08:00,960
+your SMEs, your scrum
+masters, all of those people
+
+227
+00:08:00,960 --> 00:08:02,780
+are part of this delivery team
+
+228
+00:08:02,780 --> 00:08:05,110
+that helps the organization move properly.
+
+229
+00:08:05,110 --> 00:08:07,279
+Because they're in the
+team, that team becomes
+
+230
+00:08:07,279 --> 00:08:09,720
+very flat as an organization,
+
+231
+00:08:09,720 --> 00:08:11,900
+and they all work together collaboratively
+
+232
+00:08:11,900 --> 00:08:13,280
+to get what we need done,
+
+233
+00:08:13,280 --> 00:08:15,860
+as opposed to the more
+hierarchal nature on the left
+
+234
+00:08:15,860 --> 00:08:17,700
+when we start dealing
+with PRINCE2 hierarchies
+
+235
+00:08:17,700 --> 00:08:19,860
+in our normal organizations.
+
+236
+00:08:19,860 --> 00:08:22,630
+So as we continue moving
+through our organization theme,
+
+237
+00:08:22,630 --> 00:08:24,230
+let me give you some guidance
+
+238
+00:08:24,230 --> 00:08:26,436
+of how we know when we
+need to modify things
+
+239
+00:08:26,436 --> 00:08:28,320
+for this Agile method.
+
+240
+00:08:28,320 --> 00:08:30,555
+First, we need to add those PRINCE2 roles
+
+241
+00:08:30,555 --> 00:08:33,120
+to the Agile delivery
+roles, and that seems to be
+
+242
+00:08:33,120 --> 00:08:34,458
+fairly straight-forward, where we can say
+
+243
+00:08:34,458 --> 00:08:37,110
+the team manger is also
+the project manager,
+
+244
+00:08:37,110 --> 00:08:39,740
+or the project manager
+is also the scrum master.
+
+245
+00:08:39,740 --> 00:08:41,180
+We might have the senior user being
+
+246
+00:08:41,180 --> 00:08:42,400
+the product owner, right?
+
+247
+00:08:42,400 --> 00:08:44,350
+Those things line up fairly easily.
+
+248
+00:08:44,350 --> 00:08:46,060
+How easy this is is going to depend
+
+249
+00:08:46,060 --> 00:08:48,140
+on the nature of your
+work and your project.
+
+250
+00:08:48,140 --> 00:08:50,120
+Smaller projects are easier to align
+
+251
+00:08:50,120 --> 00:08:52,440
+than bigger projects, but
+we do need to make sure
+
+252
+00:08:52,440 --> 00:08:54,056
+that we align these roles,
+so that we're covering both
+
+253
+00:08:54,056 --> 00:08:58,030
+the PRINCE2 side of things
+and the Agile way of working.
+
+254
+00:08:58,030 --> 00:08:59,359
+If we're looking at routine work,
+
+255
+00:08:59,359 --> 00:09:02,250
+these are going to be very
+small-scale routine projects,
+
+256
+00:09:02,250 --> 00:09:04,060
+the number of teams you
+need is probably one,
+
+257
+00:09:04,060 --> 00:09:06,090
+and this is not applicable
+to a PRINCE2 environment,
+
+258
+00:09:06,090 --> 00:09:08,376
+because it's handled as business as usual.
+
+259
+00:09:08,376 --> 00:09:10,830
+If we look at something that's
+a difficult type of work,
+
+260
+00:09:10,830 --> 00:09:13,797
+but is a small-scale, we still
+might only need one team,
+
+261
+00:09:13,797 --> 00:09:15,490
+and this will be pretty straight-forward.
+
+262
+00:09:15,490 --> 00:09:17,310
+The project manager and
+the team manger roles
+
+263
+00:09:17,310 --> 00:09:19,570
+can be combined into one,
+and they might even be part
+
+264
+00:09:19,570 --> 00:09:21,070
+of that delivery team.
+
+265
+00:09:21,070 --> 00:09:23,070
+On the other hand, if we have a large
+
+266
+00:09:23,070 --> 00:09:24,740
+or difficult problem
+that we're dealing with
+
+267
+00:09:24,740 --> 00:09:26,913
+inside the project, we may
+need many different teams
+
+268
+00:09:26,913 --> 00:09:29,150
+to help us work on it.
+
+269
+00:09:29,150 --> 00:09:31,152
+And if we do that, this is
+going to require more care,
+
+270
+00:09:31,152 --> 00:09:34,210
+more governance, and more control.
+
+271
+00:09:34,210 --> 00:09:35,953
+This is when we're going to
+make sure the Agile roles
+
+272
+00:09:35,953 --> 00:09:38,676
+are properly aligned
+to those PRINCE2 roles,
+
+273
+00:09:38,676 --> 00:09:41,850
+even across multiple
+teams, and the alignment
+
+274
+00:09:41,850 --> 00:09:43,434
+may not be as obvious as it would be
+
+275
+00:09:43,434 --> 00:09:46,079
+in a smaller, less difficult project.
+
+276
+00:09:46,079 --> 00:09:48,400
+Now, the last thing we're going to cover
+
+277
+00:09:48,400 --> 00:09:51,180
+inside the organization theme
+is how we're going to deal
+
+278
+00:09:51,180 --> 00:09:53,290
+with the project manager relationship
+
+279
+00:09:53,290 --> 00:09:54,538
+with the delivery team.
+
+280
+00:09:54,538 --> 00:09:56,700
+Is the project manager
+going to work directly
+
+281
+00:09:56,700 --> 00:09:57,980
+with the delivery team?
+
+282
+00:09:57,980 --> 00:09:59,730
+Are they going to work
+with a team manager?
+
+283
+00:09:59,730 --> 00:10:01,580
+And if so, is that team manager
+
+284
+00:10:01,580 --> 00:10:03,030
+a part of the delivery team,
+
+285
+00:10:03,030 --> 00:10:04,580
+or are they going to be management
+above the delivery team?
+
+286
+00:10:04,580 --> 00:10:07,500
+There's really three
+ways of looking at it,
+
+287
+00:10:07,500 --> 00:10:08,830
+and there is no right answer,
+
+288
+00:10:08,830 --> 00:10:11,730
+because it all depends on
+your particular project.
+
+289
+00:10:11,730 --> 00:10:13,030
+Now, the first way we can do it,
+
+290
+00:10:13,030 --> 00:10:14,900
+is we can leave the delivery team roles
+
+291
+00:10:14,900 --> 00:10:17,570
+as they are in Agile, and
+they're just going to work
+
+292
+00:10:17,570 --> 00:10:19,800
+directly with the project manager,
+
+293
+00:10:19,800 --> 00:10:23,740
+and it's going to be a very ad
+hoc, very informal relationship.
+
+294
+00:10:23,740 --> 00:10:26,620
+The second way, is we can
+leave the delivery teams alone,
+
+295
+00:10:26,620 --> 00:10:28,540
+but we can identify one person on the team
+
+296
+00:10:28,540 --> 00:10:31,260
+who's going to be the point of
+contact for the project manager.
+
+297
+00:10:31,260 --> 00:10:33,180
+They're going to be the one
+who's passing information
+
+298
+00:10:33,180 --> 00:10:34,620
+to and from the project manager,
+
+299
+00:10:34,620 --> 00:10:37,640
+and acting somewhat as a team manager.
+
+300
+00:10:37,640 --> 00:10:40,230
+The third is to actually
+create a team manager role
+
+301
+00:10:40,230 --> 00:10:42,670
+in the delivery team,
+and this person will then
+
+302
+00:10:42,670 --> 00:10:45,630
+manage and oversee the
+entire delivery team.
+
+303
+00:10:45,630 --> 00:10:48,210
+Now, the challenge with
+this versus option two,
+
+304
+00:10:48,210 --> 00:10:51,200
+is that this person now
+may be seen as the boss,
+
+305
+00:10:51,200 --> 00:10:52,770
+and be a little less collaborative
+
+306
+00:10:52,770 --> 00:10:54,117
+inside that delivery team.
+
+307
+00:10:54,117 --> 00:10:56,400
+Now when we look at this organizationally,
+
+308
+00:10:56,400 --> 00:10:58,310
+there is really two ways that we can place
+
+309
+00:10:58,310 --> 00:10:59,390
+that team manager.
+
+310
+00:10:59,390 --> 00:11:01,110
+As I said, one is they can kind of work
+
+311
+00:11:01,110 --> 00:11:02,960
+above the team as a manager,
+
+312
+00:11:02,960 --> 00:11:04,950
+and the other is that
+they can work in the team
+
+313
+00:11:04,950 --> 00:11:06,311
+as part of team delivery.
+
+314
+00:11:06,311 --> 00:11:08,230
+If they're working above the team,
+
+315
+00:11:08,230 --> 00:11:11,050
+this looks more like a
+traditional PRINCE2 team.
+
+316
+00:11:11,050 --> 00:11:13,135
+And it is not as Agile in nature.
+
+317
+00:11:13,135 --> 00:11:15,520
+Instead, it's better to
+get that team manager
+
+318
+00:11:15,520 --> 00:11:17,170
+to be somebody within the team,
+
+319
+00:11:17,170 --> 00:11:19,280
+who works on the development as well,
+
+320
+00:11:19,280 --> 00:11:21,200
+because this is going to
+allow you to be more Agile
+
+321
+00:11:21,200 --> 00:11:22,490
+in the way you work.
+
+322
+00:11:22,490 --> 00:11:24,150
+So as we look at that, let's assume
+
+323
+00:11:24,150 --> 00:11:26,870
+that we're going to place our
+team manager within the team.
+
+324
+00:11:26,870 --> 00:11:28,550
+Now, if they're working within the team,
+
+325
+00:11:28,550 --> 00:11:30,210
+we now have to look at the relationship
+
+326
+00:11:30,210 --> 00:11:32,970
+between the team manager
+and the project manager.
+
+327
+00:11:32,970 --> 00:11:35,980
+The first way is if you're
+using a single team structure.
+
+328
+00:11:35,980 --> 00:11:37,375
+When you're using a single team structure,
+
+329
+00:11:37,375 --> 00:11:40,530
+you're going to have a team
+manager who's part of your team
+
+330
+00:11:40,530 --> 00:11:42,234
+reporting directly to a project manager,
+
+331
+00:11:42,234 --> 00:11:44,873
+and that person is going to
+report to the project board.
+
+332
+00:11:44,873 --> 00:11:47,060
+Now, that project manager and team manager
+
+333
+00:11:47,060 --> 00:11:49,100
+may also be the same
+person if you're dealing
+
+334
+00:11:49,100 --> 00:11:50,691
+with a small-scale project.
+
+335
+00:11:50,691 --> 00:11:54,240
+Now, if our project is
+more complex and difficult,
+
+336
+00:11:54,240 --> 00:11:56,810
+and we have more teams,
+say this example here,
+
+337
+00:11:56,810 --> 00:11:58,554
+where I have three
+different delivery teams,
+
+338
+00:11:58,554 --> 00:12:00,880
+then I would have a team manager in charge
+
+339
+00:12:00,880 --> 00:12:02,373
+of each of the three teams.
+
+340
+00:12:02,373 --> 00:12:05,240
+Each of those delivery
+managers or team managers
+
+341
+00:12:05,240 --> 00:12:06,912
+would report up to the project manager.
+
+342
+00:12:06,912 --> 00:12:09,400
+From that point on, it becomes much more
+
+343
+00:12:09,400 --> 00:12:12,450
+like standard PRINCE2, with
+lots of governance and control
+
+344
+00:12:12,450 --> 00:12:15,220
+at the project manager and
+the project board levels,
+
+345
+00:12:15,220 --> 00:12:18,190
+but remaining very Agile
+down at the delivery level,
+
+346
+00:12:18,190 --> 00:12:20,380
+with the team managers
+and the delivery teams
+
+347
+00:12:20,380 --> 00:12:21,363
+running the show.
+

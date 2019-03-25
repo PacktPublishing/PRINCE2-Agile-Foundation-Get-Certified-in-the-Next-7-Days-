@@ -1,0 +1,850 @@
+﻿1
+00:00:00,240 --> 00:00:03,450
+- In PRINCE2 we have six
+performance variables
+
+2
+00:00:03,450 --> 00:00:06,550
+that we utilize when we're
+defining our projects.
+
+3
+00:00:06,550 --> 00:00:09,960
+These are time, cost, risk,
+
+4
+00:00:09,960 --> 00:00:12,940
+scope, quality, and benefits.
+
+5
+00:00:12,940 --> 00:00:14,440
+And each of these is going to have
+
+6
+00:00:14,440 --> 00:00:16,063
+a tolerance assigned to them.
+
+7
+00:00:16,063 --> 00:00:18,300
+When we talk about
+tolerance, this is something
+
+8
+00:00:18,300 --> 00:00:20,420
+that is an allowable variation around
+
+9
+00:00:20,420 --> 00:00:21,910
+those target areas.
+
+10
+00:00:21,910 --> 00:00:23,947
+So for example, with cost, if I said,
+
+11
+00:00:23,947 --> 00:00:26,477
+"I want to do this project for $100,000
+
+12
+00:00:26,477 --> 00:00:29,050
+"with a 10% tolerance," that means
+
+13
+00:00:29,050 --> 00:00:32,840
+that anything between $90,000-$110,000,
+
+14
+00:00:32,840 --> 00:00:34,660
+would be considered acceptable.
+
+15
+00:00:34,660 --> 00:00:37,040
+But if I was going to be
+below that or above that,
+
+16
+00:00:37,040 --> 00:00:39,300
+that would become a
+variation and we would have
+
+17
+00:00:39,300 --> 00:00:41,890
+to raise an exception
+up because our tolerance
+
+18
+00:00:41,890 --> 00:00:45,020
+would be exceeded either
+too low or too high.
+
+19
+00:00:45,020 --> 00:00:46,880
+Now as we start looking at this,
+
+20
+00:00:46,880 --> 00:00:48,910
+inside of a traditional project
+
+21
+00:00:48,910 --> 00:00:50,410
+with Waterfall development.
+
+22
+00:00:50,410 --> 00:00:52,020
+The two biggest variables that we're
+
+23
+00:00:52,020 --> 00:00:54,740
+going to adjust, are time and cost.
+
+24
+00:00:54,740 --> 00:00:56,820
+If I'm building a house for example,
+
+25
+00:00:56,820 --> 00:00:58,810
+and I started going over budget,
+
+26
+00:00:58,810 --> 00:01:01,900
+I may allow more time
+where that means I can
+
+27
+00:01:01,900 --> 00:01:03,910
+get a cheaper price on delivery.
+
+28
+00:01:03,910 --> 00:01:05,810
+And that might bring down the cost.
+
+29
+00:01:05,810 --> 00:01:07,360
+And so I want to bring down the cost,
+
+30
+00:01:07,360 --> 00:01:09,300
+but that may increase my time.
+
+31
+00:01:09,300 --> 00:01:11,200
+I'm not going to change out the benefits,
+
+32
+00:01:11,200 --> 00:01:13,640
+which is a three bedroom, two bath house.
+
+33
+00:01:13,640 --> 00:01:14,950
+I'm not going to change the quality,
+
+34
+00:01:14,950 --> 00:01:17,310
+which is the level that we've accepted.
+
+35
+00:01:17,310 --> 00:01:19,860
+And this is the way we do
+things in a Waterfall method.
+
+36
+00:01:19,860 --> 00:01:21,980
+We really do adjust the time
+
+37
+00:01:21,980 --> 00:01:23,600
+and the cost heavily.
+
+38
+00:01:23,600 --> 00:01:26,870
+And we really try to fix
+those other four areas.
+
+39
+00:01:26,870 --> 00:01:28,100
+Now when we go to Agile,
+
+40
+00:01:28,100 --> 00:01:29,850
+it's actually flipped around.
+
+41
+00:01:29,850 --> 00:01:33,400
+Instead, time and cost
+become fixed for us,
+
+42
+00:01:33,400 --> 00:01:36,670
+and our biggest variables
+are scope and quality.
+
+43
+00:01:36,670 --> 00:01:39,230
+And the reason why is
+we can start descoping
+
+44
+00:01:39,230 --> 00:01:41,770
+things and delivering
+less, so that we can make
+
+45
+00:01:41,770 --> 00:01:44,710
+it on time and on
+budget, because in Agile,
+
+46
+00:01:44,710 --> 00:01:47,250
+those are the two most
+important variables.
+
+47
+00:01:47,250 --> 00:01:49,380
+And so as we look forward,
+we're going to talk
+
+48
+00:01:49,380 --> 00:01:51,990
+about each of these six areas and what you
+
+49
+00:01:51,990 --> 00:01:54,770
+have to think about as
+we move through them.
+
+50
+00:01:54,770 --> 00:01:56,610
+The first one is time.
+
+51
+00:01:56,610 --> 00:01:59,740
+In an Agile area, time is fixed.
+
+52
+00:01:59,740 --> 00:02:02,640
+Agile uses time-boxing with set durations.
+
+53
+00:02:02,640 --> 00:02:05,940
+So we have zero tolerance
+for any extra time
+
+54
+00:02:05,940 --> 00:02:07,690
+on any level of the project.
+
+55
+00:02:07,690 --> 00:02:10,240
+You can't get more as a
+team, you can't get more
+
+56
+00:02:10,240 --> 00:02:13,050
+in a stage, and you can't
+get more as a project.
+
+57
+00:02:13,050 --> 00:02:14,890
+Time is fixed.
+
+58
+00:02:14,890 --> 00:02:16,420
+When I say that we're doing a sprint
+
+59
+00:02:16,420 --> 00:02:18,650
+of four weeks, at the end of four weeks,
+
+60
+00:02:18,650 --> 00:02:20,520
+you have to deliver something.
+
+61
+00:02:20,520 --> 00:02:22,820
+We're not going to have
+any variation here.
+
+62
+00:02:22,820 --> 00:02:25,020
+The next one we're going
+to look at is cost.
+
+63
+00:02:25,020 --> 00:02:27,610
+And cost in Agile is also fixed.
+
+64
+00:02:27,610 --> 00:02:30,320
+There is zero tolerance for extra cost
+
+65
+00:02:30,320 --> 00:02:32,280
+on all levels of our plan.
+
+66
+00:02:32,280 --> 00:02:35,130
+Agile uses this fixed
+cost and any tolerance
+
+67
+00:02:35,130 --> 00:02:37,530
+becomes an exception
+that has to be raised up
+
+68
+00:02:37,530 --> 00:02:39,020
+to our project board.
+
+69
+00:02:39,020 --> 00:02:41,650
+And so unlike Waterfall,
+where time and cost
+
+70
+00:02:41,650 --> 00:02:43,990
+can be swapped out and variable,
+
+71
+00:02:43,990 --> 00:02:46,100
+they can't inside Agile.
+
+72
+00:02:46,100 --> 00:02:48,030
+As we move down the hexagon, we look
+
+73
+00:02:48,030 --> 00:02:49,680
+at quality at the bottom.
+
+74
+00:02:49,680 --> 00:02:52,970
+This is one that can be fixed and flexed.
+
+75
+00:02:52,970 --> 00:02:55,300
+Quality, when we fix it and flex it,
+
+76
+00:02:55,300 --> 00:02:57,690
+means that we're going to
+have acceptance criteria
+
+77
+00:02:57,690 --> 00:02:58,880
+that we have to meet.
+
+78
+00:02:58,880 --> 00:03:00,890
+These are for our essential items.
+
+79
+00:03:00,890 --> 00:03:02,950
+This acceptance in quality criteria
+
+80
+00:03:02,950 --> 00:03:04,350
+is going to be prioritized.
+
+81
+00:03:04,350 --> 00:03:05,980
+The essential things are going to
+
+82
+00:03:05,980 --> 00:03:07,550
+have zero tolerance.
+
+83
+00:03:07,550 --> 00:03:09,540
+Anything that goes
+outside of that tolerance,
+
+84
+00:03:09,540 --> 00:03:11,780
+is going to be an exception report.
+
+85
+00:03:11,780 --> 00:03:13,620
+But there's a lot of
+things that we consider
+
+86
+00:03:13,620 --> 00:03:15,830
+desirable and not essential.
+
+87
+00:03:15,830 --> 00:03:17,660
+And these are things where tolerance
+
+88
+00:03:17,660 --> 00:03:18,800
+can be utilized.
+
+89
+00:03:18,800 --> 00:03:21,710
+And so we call this a
+fix and flex mentality.
+
+90
+00:03:21,710 --> 00:03:23,790
+We fix the essential items, but we flex
+
+91
+00:03:23,790 --> 00:03:26,030
+on the desirable items.
+
+92
+00:03:26,030 --> 00:03:27,460
+What would this look like?
+
+93
+00:03:27,460 --> 00:03:29,410
+Well, maybe we have the example
+
+94
+00:03:29,410 --> 00:03:30,600
+of building a car.
+
+95
+00:03:30,600 --> 00:03:33,130
+And we're going to make a four-seat sedan,
+
+96
+00:03:33,130 --> 00:03:35,660
+it's an electric car that can go 0-60
+
+97
+00:03:35,660 --> 00:03:36,493
+in 2.0 seconds.
+
+98
+00:03:37,510 --> 00:03:40,210
+Well the essential item
+here, is that it has
+
+99
+00:03:40,210 --> 00:03:42,370
+four seats to hold four passengers.
+
+100
+00:03:42,370 --> 00:03:44,100
+We're going to have
+zero tolerance on that.
+
+101
+00:03:44,100 --> 00:03:46,040
+You can't add a fifth seat, you can't take
+
+102
+00:03:46,040 --> 00:03:47,730
+away a seat and give me three seats.
+
+103
+00:03:47,730 --> 00:03:49,940
+This is an essential quality item.
+
+104
+00:03:49,940 --> 00:03:52,090
+Now, when I look at the desirable items,
+
+105
+00:03:52,090 --> 00:03:54,580
+that might be the 2.0 seconds.
+
+106
+00:03:54,580 --> 00:03:56,580
+Maybe it'll be OK if we were somewhere
+
+107
+00:03:56,580 --> 00:03:59,680
+between 1.9 and 2.1 seconds.
+
+108
+00:03:59,680 --> 00:04:01,240
+And so we'll have some tolerance there
+
+109
+00:04:01,240 --> 00:04:02,570
+that can be utilized.
+
+110
+00:04:02,570 --> 00:04:04,960
+This is the idea of fix and flex.
+
+111
+00:04:04,960 --> 00:04:06,960
+Each of those requirements
+are going to be tied
+
+112
+00:04:06,960 --> 00:04:09,330
+to whether it's prioritized
+as an essential item,
+
+113
+00:04:09,330 --> 00:04:10,620
+or a desirable item,
+
+114
+00:04:10,620 --> 00:04:12,600
+and we'll fix and flex accordingly.
+
+115
+00:04:12,600 --> 00:04:13,890
+We're going to do the same thing when we
+
+116
+00:04:13,890 --> 00:04:15,220
+start looking at scope.
+
+117
+00:04:15,220 --> 00:04:17,410
+We're going to prioritize
+scope because not all
+
+118
+00:04:17,410 --> 00:04:19,100
+items are equally important and have
+
+119
+00:04:19,100 --> 00:04:20,090
+to be delivered.
+
+120
+00:04:20,090 --> 00:04:22,280
+There's some items that
+we're going to delete out
+
+121
+00:04:22,280 --> 00:04:24,040
+and we're going to scope down on.
+
+122
+00:04:24,040 --> 00:04:25,750
+But again, if it's an essential item,
+
+123
+00:04:25,750 --> 00:04:27,540
+there's zero tolerance and if it's
+
+124
+00:04:27,540 --> 00:04:29,840
+a desirable but not essential item,
+
+125
+00:04:29,840 --> 00:04:31,670
+that's where we can have some flexibility
+
+126
+00:04:31,670 --> 00:04:33,530
+within the tolerances associated
+
+127
+00:04:33,530 --> 00:04:35,320
+with our given project.
+
+128
+00:04:35,320 --> 00:04:36,940
+Now in the middle of our hexagon,
+
+129
+00:04:36,940 --> 00:04:38,370
+we have two other areas.
+
+130
+00:04:38,370 --> 00:04:41,180
+We have the risk area
+and the benefits area.
+
+131
+00:04:41,180 --> 00:04:43,100
+In the risk area, this is what we
+
+132
+00:04:43,100 --> 00:04:45,200
+call a fix or flex.
+
+133
+00:04:45,200 --> 00:04:47,550
+That means depending on our project,
+
+134
+00:04:47,550 --> 00:04:49,330
+and depending on the
+needs of the project board
+
+135
+00:04:49,330 --> 00:04:51,280
+and the project manager, we'll determine
+
+136
+00:04:51,280 --> 00:04:53,200
+whether or not there's
+going to be a zero tolerance
+
+137
+00:04:53,200 --> 00:04:55,910
+or some tolerance when
+we set up our tolerances
+
+138
+00:04:55,910 --> 00:04:56,930
+for the project.
+
+139
+00:04:56,930 --> 00:04:58,380
+It could go either way.
+
+140
+00:04:58,380 --> 00:05:00,210
+It all depends on the risk appetite
+
+141
+00:05:00,210 --> 00:05:02,410
+of the organization, and
+how the project board
+
+142
+00:05:02,410 --> 00:05:03,640
+wants to do it.
+
+143
+00:05:03,640 --> 00:05:05,010
+The same thing happens when we talk
+
+144
+00:05:05,010 --> 00:05:06,210
+about our benefits.
+
+145
+00:05:06,210 --> 00:05:08,170
+These can be fixed or flexed.
+
+146
+00:05:08,170 --> 00:05:10,830
+There may be zero
+tolerance up to a minimum
+
+147
+00:05:10,830 --> 00:05:12,790
+level of viability for a project,
+
+148
+00:05:12,790 --> 00:05:14,470
+as defined in our business case.
+
+149
+00:05:14,470 --> 00:05:16,180
+But then anything above minimum,
+
+150
+00:05:16,180 --> 00:05:18,460
+can then have a flexibility.
+
+151
+00:05:18,460 --> 00:05:19,880
+What might this look like?
+
+152
+00:05:19,880 --> 00:05:21,590
+Well let's say that we were going to build
+
+153
+00:05:21,590 --> 00:05:24,180
+a software application
+that's going to allow you
+
+154
+00:05:24,180 --> 00:05:26,740
+to have a calendar app on your phone.
+
+155
+00:05:26,740 --> 00:05:28,580
+The minimum requirement that we have,
+
+156
+00:05:28,580 --> 00:05:30,710
+is that we'll display the days of the week
+
+157
+00:05:30,710 --> 00:05:32,670
+and the year and the time and allow you
+
+158
+00:05:32,670 --> 00:05:33,960
+to put in appointments.
+
+159
+00:05:33,960 --> 00:05:35,650
+But some of the extra bells and whistles
+
+160
+00:05:35,650 --> 00:05:37,270
+that we wanted to add, was the ability
+
+161
+00:05:37,270 --> 00:05:39,490
+to email these off to somebody else,
+
+162
+00:05:39,490 --> 00:05:41,220
+to be able to color code them,
+
+163
+00:05:41,220 --> 00:05:42,820
+and do some other functions.
+
+164
+00:05:42,820 --> 00:05:45,040
+If we get up to the
+minimum level of being able
+
+165
+00:05:45,040 --> 00:05:46,790
+to have an app that displays the time
+
+166
+00:05:46,790 --> 00:05:48,700
+and the date and allows me to block out
+
+167
+00:05:48,700 --> 00:05:50,110
+that time on my calendar,
+
+168
+00:05:50,110 --> 00:05:52,080
+that was the minimum viability.
+
+169
+00:05:52,080 --> 00:05:53,930
+Zero tolerance to that point.
+
+170
+00:05:53,930 --> 00:05:56,220
+But if I couldn't get
+the color coding added in
+
+171
+00:05:56,220 --> 00:05:58,400
+within our time-box,
+that might be something
+
+172
+00:05:58,400 --> 00:06:00,980
+that I flex on, and
+allow me to move that on
+
+173
+00:06:00,980 --> 00:06:02,730
+to another time scope later on,
+
+174
+00:06:02,730 --> 00:06:04,700
+or another iteration.
+
+175
+00:06:04,700 --> 00:06:06,640
+Now, when we start doing all of this,
+
+176
+00:06:06,640 --> 00:06:08,460
+it all comes down to balance.
+
+177
+00:06:08,460 --> 00:06:10,870
+Some things we're going
+to give up more tolerance
+
+178
+00:06:10,870 --> 00:06:13,210
+or less tolerance to get the product
+
+179
+00:06:13,210 --> 00:06:14,090
+that we want.
+
+180
+00:06:14,090 --> 00:06:15,680
+There's always going
+to be a balance between
+
+181
+00:06:15,680 --> 00:06:17,190
+what the customer gets and
+
+182
+00:06:17,190 --> 00:06:18,630
+what the customer wants.
+
+183
+00:06:18,630 --> 00:06:21,080
+And you have to realize,
+the customer's going to ask
+
+184
+00:06:21,080 --> 00:06:23,640
+for everything but they
+don't need everything,
+
+185
+00:06:23,640 --> 00:06:24,960
+at least not right away.
+
+186
+00:06:24,960 --> 00:06:27,230
+And so we are going to
+use these tolerances
+
+187
+00:06:27,230 --> 00:06:29,520
+and these performance
+variables to really figure
+
+188
+00:06:29,520 --> 00:06:31,420
+out what we're going
+to deliver in the first
+
+189
+00:06:31,420 --> 00:06:34,420
+iteration of the project
+inside our time-box,
+
+190
+00:06:34,420 --> 00:06:35,860
+and then we'll put in other things
+
+191
+00:06:35,860 --> 00:06:37,860
+into the second, third, and fourth.
+
+192
+00:06:37,860 --> 00:06:40,480
+And to do this, we have
+to have a good, holistic
+
+193
+00:06:40,480 --> 00:06:43,370
+view of what the end desirable product is.
+
+194
+00:06:43,370 --> 00:06:45,517
+And if we can do that, we
+can use these variables
+
+195
+00:06:45,517 --> 00:06:47,600
+to our advantage to be be able to give us
+
+196
+00:06:47,600 --> 00:06:49,850
+an appropriate balance and get our product
+
+197
+00:06:49,850 --> 00:06:53,000
+out on time, on budget,
+with an appropriate
+
+198
+00:06:53,000 --> 00:06:54,963
+amount of resources used.
+

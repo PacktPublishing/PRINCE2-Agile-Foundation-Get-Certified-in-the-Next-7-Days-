@@ -1,0 +1,453 @@
+﻿1
+00:00:00,250 --> 00:00:03,340
+- Our next process is
+managing a stage boundary.
+
+2
+00:00:03,340 --> 00:00:06,130
+This process is the one
+that gets tailored the most
+
+3
+00:00:06,130 --> 00:00:09,360
+out of any other process
+inside of PRINCE2 Agile.
+
+4
+00:00:09,360 --> 00:00:11,510
+The reason is because
+you may not even have
+
+5
+00:00:11,510 --> 00:00:14,400
+well defined stages
+inside of PRINCE2 Agile.
+
+6
+00:00:14,400 --> 00:00:17,810
+Instead, you may be relying
+on sprints and releases.
+
+7
+00:00:17,810 --> 00:00:18,750
+Because of this,
+
+8
+00:00:18,750 --> 00:00:21,710
+we're always going to be doing
+continued viability decisions,
+
+9
+00:00:21,710 --> 00:00:24,180
+we're not going to plan them
+in advance at stage boundaries
+
+10
+00:00:24,180 --> 00:00:25,670
+like we would in normal print.
+
+11
+00:00:25,670 --> 00:00:27,600
+Instead, we're constantly looking at
+
+12
+00:00:27,600 --> 00:00:30,890
+is this project being successful
+at achieving what we want,
+
+13
+00:00:30,890 --> 00:00:32,560
+and does it continue to be viable?
+
+14
+00:00:32,560 --> 00:00:35,060
+If not, we would stop
+it and move into closing
+
+15
+00:00:35,060 --> 00:00:37,130
+a project process instead.
+
+16
+00:00:37,130 --> 00:00:38,380
+We're always going to
+be asking the question
+
+17
+00:00:38,380 --> 00:00:39,790
+how are things progressing?
+
+18
+00:00:39,790 --> 00:00:42,630
+And how is the team and the
+processes working together?
+
+19
+00:00:42,630 --> 00:00:44,780
+Is this working out well or is it not,
+
+20
+00:00:44,780 --> 00:00:46,470
+and what can we do to fix it?
+
+21
+00:00:46,470 --> 00:00:47,410
+And because of all this,
+
+22
+00:00:47,410 --> 00:00:49,650
+we don't have this big formal boundary
+
+23
+00:00:49,650 --> 00:00:52,020
+like we would in normal PRINCE2.
+
+24
+00:00:52,020 --> 00:00:54,120
+The biggest thing we're
+going to do inside tailoring
+
+25
+00:00:54,120 --> 00:00:57,260
+this process is doing things
+to look back, look forward,
+
+26
+00:00:57,260 --> 00:00:58,990
+and look at the big picture.
+
+27
+00:00:58,990 --> 00:00:59,840
+As we look back,
+
+28
+00:00:59,840 --> 00:01:02,080
+we want to think about
+how did we do so far?
+
+29
+00:01:02,080 --> 00:01:03,710
+How much stuff has been delivered?
+
+30
+00:01:03,710 --> 00:01:05,370
+What quality has been achieved?
+
+31
+00:01:05,370 --> 00:01:07,440
+Was the benefit that we
+thought would be delivered
+
+32
+00:01:07,440 --> 00:01:08,940
+delivered successfully?
+
+33
+00:01:08,940 --> 00:01:11,010
+Is the processes working well?
+
+34
+00:01:11,010 --> 00:01:14,300
+And did we do our reviews and
+our retrospectives properly
+
+35
+00:01:14,300 --> 00:01:16,550
+to be able to gather
+those lessons learned?
+
+36
+00:01:16,550 --> 00:01:18,000
+Then, we're going to look forward,
+
+37
+00:01:18,000 --> 00:01:20,120
+and we're going to start
+planning our next stage.
+
+38
+00:01:20,120 --> 00:01:22,420
+What things are going to be
+put into the next release
+
+39
+00:01:22,420 --> 00:01:23,630
+or the next sprint?
+
+40
+00:01:23,630 --> 00:01:26,210
+We're going to review our
+product and our release backlogs.
+
+41
+00:01:26,210 --> 00:01:28,380
+Do we have enough work
+that's in the ready bucket
+
+42
+00:01:28,380 --> 00:01:29,840
+for us to be able to start moving forward
+
+43
+00:01:29,840 --> 00:01:32,900
+into the next stage or the next
+release or the next sprint?
+
+44
+00:01:32,900 --> 00:01:34,150
+And we're going to start planning,
+
+45
+00:01:34,150 --> 00:01:36,520
+what is that next release
+going to look like?
+
+46
+00:01:36,520 --> 00:01:38,920
+We also then have to look
+at the bigger picture.
+
+47
+00:01:38,920 --> 00:01:40,670
+We need to review the business case again
+
+48
+00:01:40,670 --> 00:01:43,430
+and the project plan and make
+sure we're still on track
+
+49
+00:01:43,430 --> 00:01:45,190
+and we're still meeting
+the goals that this project
+
+50
+00:01:45,190 --> 00:01:46,560
+was set out to achieve.
+
+51
+00:01:46,560 --> 00:01:48,630
+We also need to look at
+the performance of Agile
+
+52
+00:01:48,630 --> 00:01:50,940
+and how it's working
+inside our environment.
+
+53
+00:01:50,940 --> 00:01:53,440
+Is Agile going to be
+continually a way to work
+
+54
+00:01:53,440 --> 00:01:54,980
+in this particular project?
+
+55
+00:01:54,980 --> 00:01:57,560
+Or do we need more
+governance and more control
+
+56
+00:01:57,560 --> 00:01:58,910
+and less agility?
+
+57
+00:01:58,910 --> 00:02:01,590
+Or, do we have less
+governance and less control
+
+58
+00:02:01,590 --> 00:02:03,370
+because the project is
+becoming more certain
+
+59
+00:02:03,370 --> 00:02:04,310
+and less risky,
+
+60
+00:02:04,310 --> 00:02:06,790
+and we're going to allow more
+agile development to happen.
+
+61
+00:02:06,790 --> 00:02:08,460
+This is the thing we have to decide
+
+62
+00:02:08,460 --> 00:02:10,380
+as whether we're going to continue forward
+
+63
+00:02:10,380 --> 00:02:12,100
+or we're going to stop the project,
+
+64
+00:02:12,100 --> 00:02:14,400
+and that's the way we
+manage a stage boundary
+
+65
+00:02:14,400 --> 00:02:16,370
+inside the agile way of working.
+
+66
+00:02:16,370 --> 00:02:18,320
+It's a lot different than
+what we see in a normal
+
+67
+00:02:18,320 --> 00:02:19,580
+PRINCE2 scenario,
+
+68
+00:02:19,580 --> 00:02:21,000
+because in a normal PRINCE2 scenario,
+
+69
+00:02:21,000 --> 00:02:22,770
+there's this formal deadline,
+
+70
+00:02:22,770 --> 00:02:25,190
+this formal place that we stop and look,
+
+71
+00:02:25,190 --> 00:02:27,020
+should we move forward or not?
+
+72
+00:02:27,020 --> 00:02:29,470
+Inside agile, we don't
+do that nearly as much.
+
+73
+00:02:29,470 --> 00:02:31,130
+Instead, we're trying to make sure
+
+74
+00:02:31,130 --> 00:02:32,610
+our processes are improving,
+
+75
+00:02:32,610 --> 00:02:34,270
+our benefits are being realized,
+
+76
+00:02:34,270 --> 00:02:35,990
+and work has been getting done,
+
+77
+00:02:35,990 --> 00:02:37,740
+and if it is, and it's still viable,
+
+78
+00:02:37,740 --> 00:02:39,410
+we'll continue to move forward.
+
+79
+00:02:39,410 --> 00:02:41,620
+So how does controlling
+a stage look inside
+
+80
+00:02:41,620 --> 00:02:42,930
+this agile process?
+
+81
+00:02:42,930 --> 00:02:44,650
+Well, it's going to be very visual.
+
+82
+00:02:44,650 --> 00:02:46,640
+We're going to use things
+like the information radiator
+
+83
+00:02:46,640 --> 00:02:49,030
+and the burn charts to
+evaluate our progress.
+
+84
+00:02:49,030 --> 00:02:50,630
+We're going to look at
+the facts and figures
+
+85
+00:02:50,630 --> 00:02:51,820
+from the retrospectives
+
+86
+00:02:51,820 --> 00:02:54,140
+and make sure that the
+processes are working
+
+87
+00:02:54,140 --> 00:02:55,510
+and that we're getting the product out
+
+88
+00:02:55,510 --> 00:02:57,130
+that we expect to get out.
+
+89
+00:02:57,130 --> 00:03:00,080
+If we are, we can then make
+the decision to move forward.
+
+90
+00:03:00,080 --> 00:03:01,720
+This is a point of formality,
+
+91
+00:03:01,720 --> 00:03:04,600
+and it's carried out with as
+little ceremony as possible.
+
+92
+00:03:04,600 --> 00:03:06,940
+Unlike PRINCE2 where we
+might have a big meeting
+
+93
+00:03:06,940 --> 00:03:08,990
+and a big discussion and
+figure out whether or not
+
+94
+00:03:08,990 --> 00:03:10,070
+we're going to move forward,
+
+95
+00:03:10,070 --> 00:03:10,920
+a lot of times,
+
+96
+00:03:10,920 --> 00:03:12,400
+this is just the product
+where we're saying
+
+97
+00:03:12,400 --> 00:03:13,660
+yep, continue forward,
+
+98
+00:03:13,660 --> 00:03:15,220
+and they just keep movin' on.
+
+99
+00:03:15,220 --> 00:03:17,270
+There may not even be a
+formal meeting about it,
+
+100
+00:03:17,270 --> 00:03:19,300
+it may just be something
+that's done through email
+
+101
+00:03:19,300 --> 00:03:20,963
+or some other informal method.
+

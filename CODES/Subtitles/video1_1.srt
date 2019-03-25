@@ -1,0 +1,325 @@
+﻿1
+00:00:00,700 --> 00:00:04,690
+- Welcome to this course on
+the Prince2 Agile Foundation.
+
+2
+00:00:04,690 --> 00:00:07,060
+In this course, we're
+going to cover everything
+
+3
+00:00:07,060 --> 00:00:10,480
+you need to know to study
+for, to take, and to pass
+
+4
+00:00:10,480 --> 00:00:13,440
+your Prince2 Agile foundation's exam.
+
+5
+00:00:13,440 --> 00:00:16,060
+In this course we're going
+to provide you an excellent
+
+6
+00:00:16,060 --> 00:00:19,150
+review of all of the material
+covered in the Prince2
+
+7
+00:00:19,150 --> 00:00:20,370
+Agile guidebook.
+
+8
+00:00:20,370 --> 00:00:22,040
+Now this isn't an in depth guide.
+
+9
+00:00:22,040 --> 00:00:24,140
+We're not going to go through
+and cover every single
+
+10
+00:00:24,140 --> 00:00:26,980
+piece of information
+that's in that 400 pages.
+
+11
+00:00:26,980 --> 00:00:29,740
+But instead, we're going to go
+over the most frequently asked
+
+12
+00:00:29,740 --> 00:00:32,530
+concepts and help you
+focus your study efforts
+
+13
+00:00:32,530 --> 00:00:34,970
+so you can pass on the first attempt.
+
+14
+00:00:34,970 --> 00:00:38,000
+Now my name is Jason
+Dion and I am a professor
+
+15
+00:00:38,000 --> 00:00:41,600
+and instructor of cyber security
+and information technology.
+
+16
+00:00:41,600 --> 00:00:43,850
+I've been working in those
+realms as a professional
+
+17
+00:00:43,850 --> 00:00:46,360
+for over 20 years, and during that time,
+
+18
+00:00:46,360 --> 00:00:48,990
+I've worked on hundreds
+of different projects,
+
+19
+00:00:48,990 --> 00:00:50,930
+ranging from just a couple of dollars,
+
+20
+00:00:50,930 --> 00:00:53,216
+and the way up into the
+millions of dollars.
+
+21
+00:00:53,216 --> 00:00:56,030
+In my experience, we've
+used both Waterfall
+
+22
+00:00:56,030 --> 00:00:59,180
+and Agile technologies and
+techniques as we've gone
+
+23
+00:00:59,180 --> 00:01:00,120
+through these projects.
+
+24
+00:01:00,120 --> 00:01:02,260
+And as we go through this
+course, I'm going to share
+
+25
+00:01:02,260 --> 00:01:04,320
+a lot of that experience
+with you, so you can see
+
+26
+00:01:04,320 --> 00:01:07,081
+how we can apply this in
+a real world environment.
+
+27
+00:01:07,081 --> 00:01:09,360
+Now before we go any
+further, I want to give you
+
+28
+00:01:09,360 --> 00:01:11,720
+a couple of key pieces of information.
+
+29
+00:01:11,720 --> 00:01:14,330
+First, there are closed
+captions are available
+
+30
+00:01:14,330 --> 00:01:15,163
+for this course.
+
+31
+00:01:15,163 --> 00:01:17,870
+Just hit the CC button at the
+bottom of the video player
+
+32
+00:01:17,870 --> 00:01:20,470
+and you'll be able to see
+all the words going along
+
+33
+00:01:20,470 --> 00:01:22,060
+with what I'm speaking.
+
+34
+00:01:22,060 --> 00:01:25,190
+Now also, when it comes to
+speaking, sometimes people say
+
+35
+00:01:25,190 --> 00:01:26,500
+I talk too fast.
+
+36
+00:01:26,500 --> 00:01:28,520
+Others say I talk too slow.
+
+37
+00:01:28,520 --> 00:01:31,290
+Either way, you get to
+control the playback speed.
+
+38
+00:01:31,290 --> 00:01:34,170
+If I happen to be talking too
+fast, you can slow me down
+
+39
+00:01:34,170 --> 00:01:36,740
+by reducing me to .75.
+
+40
+00:01:36,740 --> 00:01:39,040
+If I'm talking too slow,
+you can speed me up
+
+41
+00:01:39,040 --> 00:01:41,330
+by putting me at 1.5x.
+
+42
+00:01:41,330 --> 00:01:44,350
+Now either way, you can
+listen to me at normal speed,
+
+43
+00:01:44,350 --> 00:01:46,800
+faster or slower, to the
+way that it works best
+
+44
+00:01:46,800 --> 00:01:48,320
+for you to learn.
+
+45
+00:01:48,320 --> 00:01:50,040
+Now all the information
+I'm going to give you
+
+46
+00:01:50,040 --> 00:01:52,600
+during this course, I do
+have a handout available
+
+47
+00:01:52,600 --> 00:01:54,280
+as a downloadable resource.
+
+48
+00:01:54,280 --> 00:01:56,430
+So please download that
+and you can use that
+
+49
+00:01:56,430 --> 00:01:58,300
+for all fun studying as well.
+
+50
+00:01:58,300 --> 00:02:00,470
+And we also have a Facebook
+group that is set up
+
+51
+00:02:00,470 --> 00:02:02,300
+to help you as you're studying.
+
+52
+00:02:02,300 --> 00:02:05,140
+If you have any questions, or
+you get stuck on something,
+
+53
+00:02:05,140 --> 00:02:09,070
+just go to
+Facebook.com/groups/DionTraining,
+
+54
+00:02:09,070 --> 00:02:11,420
+and join the group and
+we'll be happy to help you
+
+55
+00:02:11,420 --> 00:02:13,820
+and answer any questions you may have.
+
+56
+00:02:13,820 --> 00:02:15,230
+Now the last thing I want you to know,
+
+57
+00:02:15,230 --> 00:02:18,230
+is that when you take this
+course, you are in good hands.
+
+58
+00:02:18,230 --> 00:02:21,560
+We're going to help you get
+certified in the best way possible.
+
+59
+00:02:21,560 --> 00:02:23,630
+Dion Training Solutions,
+which is my company,
+
+60
+00:02:23,630 --> 00:02:25,680
+is an authorized training organization
+
+61
+00:02:25,680 --> 00:02:28,700
+for the Prince2 Agile Foundation
+and Agile Practitioner
+
+62
+00:02:28,700 --> 00:02:29,830
+certifications.
+
+63
+00:02:29,830 --> 00:02:32,110
+So when you take a course
+from us, you are taking it
+
+64
+00:02:32,110 --> 00:02:34,500
+from somebody who is authorized, trained,
+
+65
+00:02:34,500 --> 00:02:37,950
+and certified by Axelos,
+the owners of the exam.
+
+66
+00:02:37,950 --> 00:02:39,850
+Also, because you've taken it from us,
+
+67
+00:02:39,850 --> 00:02:42,970
+you are eligible for a
+discount on your exam voucher.
+
+68
+00:02:42,970 --> 00:02:45,900
+By going to our website
+at DionTraining.com.
+
+69
+00:02:45,900 --> 00:02:48,820
+So with all that said, let's
+move into our first lecture
+
+70
+00:02:48,820 --> 00:02:50,593
+and start learning about the exam.
+

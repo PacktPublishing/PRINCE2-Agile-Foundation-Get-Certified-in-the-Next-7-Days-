@@ -1,0 +1,704 @@
+﻿1
+00:00:00,210 --> 00:00:02,170
+- Our last theme is Progress,
+
+2
+00:00:02,170 --> 00:00:04,350
+and as we consider the progress theme,
+
+3
+00:00:04,350 --> 00:00:06,250
+the big thing here is that there's no,
+
+4
+00:00:06,250 --> 00:00:09,210
+major changes that are
+needed to the progress theme.
+
+5
+00:00:09,210 --> 00:00:11,200
+In fact, both PRINCE2 processes
+
+6
+00:00:11,200 --> 00:00:13,490
+and Agile techniques can both be used
+
+7
+00:00:13,490 --> 00:00:16,610
+and both have value in
+measuring our progress.
+
+8
+00:00:16,610 --> 00:00:18,680
+When we start talking about
+the Agile techniques though,
+
+9
+00:00:18,680 --> 00:00:20,540
+we're going to be focused
+a little bit more,
+
+10
+00:00:20,540 --> 00:00:23,220
+on what is being delivered,
+this includes stuff like
+
+11
+00:00:23,220 --> 00:00:25,610
+the velocity, how fast
+it's being delivered,
+
+12
+00:00:25,610 --> 00:00:27,970
+the lead times, how long
+does it take from the time
+
+13
+00:00:27,970 --> 00:00:30,530
+we initiate to the time
+it gets to final delivery.
+
+14
+00:00:30,530 --> 00:00:32,760
+Or the value that it gives at the end.
+
+15
+00:00:32,760 --> 00:00:35,890
+We do this by using Burn Down
+charts and Burn Up charts.
+
+16
+00:00:35,890 --> 00:00:37,190
+We also do this by demonstrating
+
+17
+00:00:37,190 --> 00:00:39,160
+the value that's been accrued.
+
+18
+00:00:39,160 --> 00:00:42,020
+There's tolerances that are
+set early on in our process,
+
+19
+00:00:42,020 --> 00:00:44,310
+that support this by giving us the scope
+
+20
+00:00:44,310 --> 00:00:45,900
+and quality that we can work with.
+
+21
+00:00:45,900 --> 00:00:47,970
+And if we're not making enough progress,
+
+22
+00:00:47,970 --> 00:00:49,650
+we'll go back to the scope and quality
+
+23
+00:00:49,650 --> 00:00:52,310
+and redo some of those to
+make the progress we need,
+
+24
+00:00:52,310 --> 00:00:54,570
+and get the deliverables out on time.
+
+25
+00:00:54,570 --> 00:00:57,400
+Progress is tracked at
+all levels of the project,
+
+26
+00:00:57,400 --> 00:00:59,670
+down at the team level,
+up at the stage level,
+
+27
+00:00:59,670 --> 00:01:01,540
+with the project manager and then up at
+
+28
+00:01:01,540 --> 00:01:03,600
+the project level with the project board.
+
+29
+00:01:03,600 --> 00:01:05,170
+And it's important that we maintain
+
+30
+00:01:05,170 --> 00:01:07,390
+progress towards our end goal.
+
+31
+00:01:07,390 --> 00:01:10,760
+Now as we look at progress,
+the Agile perception of this
+
+32
+00:01:10,760 --> 00:01:14,471
+is that there's a large
+emphasis on tracking progress.
+
+33
+00:01:14,471 --> 00:01:16,970
+PRINCE2 we always tracked
+our progress as well,
+
+34
+00:01:16,970 --> 00:01:19,180
+but not nearly as much as Agile.
+
+35
+00:01:19,180 --> 00:01:21,060
+Agile is looking for daily updates,
+
+36
+00:01:21,060 --> 00:01:23,410
+we want to constantly know where are we at
+
+37
+00:01:23,410 --> 00:01:25,610
+in building things towards our end goal.
+
+38
+00:01:25,610 --> 00:01:28,310
+We do this using visualization techniques,
+
+39
+00:01:28,310 --> 00:01:30,900
+visualization techniques
+are things like Burn charts,
+
+40
+00:01:30,900 --> 00:01:33,480
+and work in progress
+charts, and we put these up
+
+41
+00:01:33,480 --> 00:01:35,800
+on the information radiator so everybody
+
+42
+00:01:35,800 --> 00:01:37,760
+can know exactly where we are.
+
+43
+00:01:37,760 --> 00:01:40,450
+By making sure there's
+transparency in visualizing
+
+44
+00:01:40,450 --> 00:01:42,040
+and communicating the progress,
+
+45
+00:01:42,040 --> 00:01:44,590
+the team can all rally
+around getting things done
+
+46
+00:01:44,590 --> 00:01:47,790
+and making sure we're
+making the progress we need.
+
+47
+00:01:47,790 --> 00:01:49,900
+Whatever technique you
+use, you want to make sure
+
+48
+00:01:49,900 --> 00:01:52,060
+your team is comfortable with that format.
+
+49
+00:01:52,060 --> 00:01:53,930
+If you want to use
+spreadsheets and numbers,
+
+50
+00:01:53,930 --> 00:01:55,970
+that's fine if the team's good with it.
+
+51
+00:01:55,970 --> 00:01:57,940
+If you like charts and graphs instead,
+
+52
+00:01:57,940 --> 00:02:00,270
+then you should use those,
+a lot of times though
+
+53
+00:02:00,270 --> 00:02:02,950
+it's a lot easier to use
+a visualization technique,
+
+54
+00:02:02,950 --> 00:02:04,190
+like these charts and graphs I'm
+
+55
+00:02:04,190 --> 00:02:06,390
+going to show you in this lesson.
+
+56
+00:02:06,390 --> 00:02:08,160
+The first visualization
+technique I want to
+
+57
+00:02:08,160 --> 00:02:10,090
+show you is called a Burn Chart.
+
+58
+00:02:10,090 --> 00:02:12,650
+And there's two types of
+Burn Charts that we use,
+
+59
+00:02:12,650 --> 00:02:14,180
+one is called the Burn Down Charts,
+
+60
+00:02:14,180 --> 00:02:16,360
+and the other is called the Burn Up Chart.
+
+61
+00:02:16,360 --> 00:02:19,020
+Both of these are going to
+show you the current situation,
+
+62
+00:02:19,020 --> 00:02:21,730
+the rate of progress, and
+what has been completed.
+
+63
+00:02:21,730 --> 00:02:24,270
+But there is a difference,
+with a Burn Down Chart,
+
+64
+00:02:24,270 --> 00:02:26,810
+we're going to assume that
+there's a fixed amount of work,
+
+65
+00:02:26,810 --> 00:02:28,920
+with a Burn Up Chart we're going to assume
+
+66
+00:02:28,920 --> 00:02:30,560
+that the work amount is likely to
+
+67
+00:02:30,560 --> 00:02:33,220
+change even inside of one Spring.
+
+68
+00:02:33,220 --> 00:02:35,840
+And so as we look at this
+Burn Down Chart on the screen,
+
+69
+00:02:35,840 --> 00:02:38,290
+you can see that we have two axises,
+
+70
+00:02:38,290 --> 00:02:40,720
+we have Time, and Effort Remaining.
+
+71
+00:02:40,720 --> 00:02:42,350
+And we have this nice straight line,
+
+72
+00:02:42,350 --> 00:02:44,090
+going from the amount of
+effort at the beginning,
+
+73
+00:02:44,090 --> 00:02:47,380
+being 100%, all the way
+down to zero percent,
+
+74
+00:02:47,380 --> 00:02:50,260
+once we hit our end of
+our stage, or that time.
+
+75
+00:02:50,260 --> 00:02:52,150
+You'll see the jagged black line there,
+
+76
+00:02:52,150 --> 00:02:54,670
+that's showing the actual
+work that has been done,
+
+77
+00:02:54,670 --> 00:02:55,780
+you'll see that originally,
+
+78
+00:02:55,780 --> 00:02:57,550
+we weren't meeting enough of the intent.
+
+79
+00:02:57,550 --> 00:03:00,090
+So we've put in extra work,
+we've got back on schedule,
+
+80
+00:03:00,090 --> 00:03:02,170
+and actually created more effort done,
+
+81
+00:03:02,170 --> 00:03:03,570
+based on the time of where we wanted,
+
+82
+00:03:03,570 --> 00:03:05,410
+and now we're back towards the actual
+
+83
+00:03:05,410 --> 00:03:07,380
+line that we intended to be on.
+
+84
+00:03:07,380 --> 00:03:08,730
+Now as we move on to the next chart,
+
+85
+00:03:08,730 --> 00:03:10,840
+you'll see here is a Burn Up Chart.
+
+86
+00:03:10,840 --> 00:03:12,840
+A Burn Up Chart, instead
+of starting at the top
+
+87
+00:03:12,840 --> 00:03:16,200
+and working down, is starting
+at the bottom and working up.
+
+88
+00:03:16,200 --> 00:03:19,080
+The black line is the actual
+work that has been produced,
+
+89
+00:03:19,080 --> 00:03:22,870
+and you can see, over time,
+we're going to get up to 100%.
+
+90
+00:03:22,870 --> 00:03:26,330
+Now as you see, the total
+work is that pink line.
+
+91
+00:03:26,330 --> 00:03:28,510
+And that is going to show
+the work, as it starts out,
+
+92
+00:03:28,510 --> 00:03:31,660
+is fixed but somebody added
+more work into this stage.
+
+93
+00:03:31,660 --> 00:03:33,750
+And so now we have a
+higher level to be at.
+
+94
+00:03:33,750 --> 00:03:35,100
+But that started being too much,
+
+95
+00:03:35,100 --> 00:03:37,360
+so we've removed some and
+the line came back down,
+
+96
+00:03:37,360 --> 00:03:39,650
+and we're constantly
+adding and removing work,
+
+97
+00:03:39,650 --> 00:03:42,630
+until the effort and
+the work end up meeting,
+
+98
+00:03:42,630 --> 00:03:44,710
+at the finish of the stage.
+
+99
+00:03:44,710 --> 00:03:46,750
+Another visualization technique we have,
+
+100
+00:03:46,750 --> 00:03:50,560
+is called a Cumulative
+Flow Diagram, or CFD.
+
+101
+00:03:50,560 --> 00:03:53,290
+A Cumulative Flow Diagram
+is used to track the work
+
+102
+00:03:53,290 --> 00:03:56,790
+and show the amount of work
+that's remaining on each day.
+
+103
+00:03:56,790 --> 00:03:58,720
+So if we look at here on the chart,
+
+104
+00:03:58,720 --> 00:04:00,240
+you'll see this work in progress
+
+105
+00:04:00,240 --> 00:04:02,470
+board coming from our CONBON.
+
+106
+00:04:02,470 --> 00:04:04,870
+Now as you see we have the day listed,
+
+107
+00:04:04,870 --> 00:04:07,390
+we have what is ready,
+what is being built,
+
+108
+00:04:07,390 --> 00:04:09,920
+what is being tested,
+what is ready to deploy,
+
+109
+00:04:09,920 --> 00:04:11,860
+and what has actually been deployed.
+
+110
+00:04:11,860 --> 00:04:14,080
+And as we look across this, over the days
+
+111
+00:04:14,080 --> 00:04:16,510
+and across the columns
+we can actually calculate
+
+112
+00:04:16,510 --> 00:04:18,630
+our lead time, how long does it take
+
+113
+00:04:18,630 --> 00:04:21,570
+for somebody to go from being
+ready to being deployed.
+
+114
+00:04:21,570 --> 00:04:24,460
+You can look at this through
+this chart and figure that out.
+
+115
+00:04:24,460 --> 00:04:26,630
+Now when we look at this
+in a graphical form,
+
+116
+00:04:26,630 --> 00:04:28,460
+it's a little bit easier to see.
+
+117
+00:04:28,460 --> 00:04:30,010
+You can see here on day eight,
+
+118
+00:04:30,010 --> 00:04:31,750
+what was actually shown as ready,
+
+119
+00:04:31,750 --> 00:04:35,510
+in build, in test, ready
+to deploy, and deployed.
+
+120
+00:04:35,510 --> 00:04:38,230
+And over time, we had a lot more deployed,
+
+121
+00:04:38,230 --> 00:04:40,560
+and a lot less ready
+because we started pulling
+
+122
+00:04:40,560 --> 00:04:44,190
+things out inside this sprint
+cycle to get that work done.
+
+123
+00:04:44,190 --> 00:04:46,550
+The last visualization technique
+were going to talk about,
+
+124
+00:04:46,550 --> 00:04:48,600
+is called the Information Radiator.
+
+125
+00:04:48,600 --> 00:04:51,150
+And the Information
+Radiator is a central board,
+
+126
+00:04:51,150 --> 00:04:54,180
+inside the teams workspace
+that has all the information
+
+127
+00:04:54,180 --> 00:04:57,190
+on it that you could possibly
+want to know about our project.
+
+128
+00:04:57,190 --> 00:04:59,580
+This is going to be visual
+in nature most of the times,
+
+129
+00:04:59,580 --> 00:05:00,930
+and it's immediately accessible,
+
+130
+00:05:00,930 --> 00:05:03,380
+and gives you full transparency.
+
+131
+00:05:03,380 --> 00:05:06,010
+This is best created
+and maintained manually,
+
+132
+00:05:06,010 --> 00:05:07,760
+by people actually writing things out,
+
+133
+00:05:07,760 --> 00:05:10,090
+and pinning it to a board,
+we don't really like
+
+134
+00:05:10,090 --> 00:05:11,590
+doing this in a digital format,
+
+135
+00:05:11,590 --> 00:05:14,290
+because a lot of things get
+lost in the digital space.
+
+136
+00:05:14,290 --> 00:05:17,040
+Plus, it's not centrally
+seen by everybody,
+
+137
+00:05:17,040 --> 00:05:18,030
+when it's sitting on somebodies
+
+138
+00:05:18,030 --> 00:05:20,420
+website or somebodies SharePoint site.
+
+139
+00:05:20,420 --> 00:05:23,550
+Information here should be
+pushed rather than pulled,
+
+140
+00:05:23,550 --> 00:05:26,210
+that means as the Project
+Manager or the Team Manager,
+
+141
+00:05:26,210 --> 00:05:28,970
+or somebody on the team I
+should be putting information
+
+142
+00:05:28,970 --> 00:05:30,560
+onto the Information Radiator,
+
+143
+00:05:30,560 --> 00:05:33,680
+so that everybody else on the
+team can get that information.
+
+144
+00:05:33,680 --> 00:05:35,370
+When we hold our daily stand-up meeting,
+
+145
+00:05:35,370 --> 00:05:37,960
+we should be holding it around
+the Information Radiator,
+
+146
+00:05:37,960 --> 00:05:40,270
+so we all can see a display and update
+
+147
+00:05:40,270 --> 00:05:42,610
+it immediately, as we're talking about it.
+
+148
+00:05:42,610 --> 00:05:44,760
+What does one of these
+Information Radiators look like?
+
+149
+00:05:44,760 --> 00:05:46,430
+Well here's an example for you,
+
+150
+00:05:46,430 --> 00:05:48,490
+you can see on here we
+have our team goals,
+
+151
+00:05:48,490 --> 00:05:51,490
+we have our Burn Charts,
+we have what work is to do,
+
+152
+00:05:51,490 --> 00:05:53,940
+what's in progress, and
+what's been deployed.
+
+153
+00:05:53,940 --> 00:05:56,290
+We have what issues we have,
+we have what news we have,
+
+154
+00:05:56,290 --> 00:05:57,740
+and what our Team Rules are,
+
+155
+00:05:57,740 --> 00:05:59,330
+and this is just a sample of what kind
+
+156
+00:05:59,330 --> 00:06:02,153
+of information you can
+sitting on your Team Radiator.
+

@@ -1,0 +1,753 @@
+﻿1
+00:00:00,250 --> 00:00:02,090
+- Change is inevitable.
+
+2
+00:00:02,090 --> 00:00:03,820
+In every project you work on,
+
+3
+00:00:03,820 --> 00:00:05,400
+whether it's in a waterfall method
+
+4
+00:00:05,400 --> 00:00:06,700
+or an Agile method,
+
+5
+00:00:06,700 --> 00:00:08,790
+there is going to be change that occurs.
+
+6
+00:00:08,790 --> 00:00:11,870
+The difference is how we're
+going to react to that change.
+
+7
+00:00:11,870 --> 00:00:13,830
+When we look at it in an Agile way,
+
+8
+00:00:13,830 --> 00:00:15,380
+we're going to try to be more responsive
+
+9
+00:00:15,380 --> 00:00:17,550
+to the change at the detailed level.
+
+10
+00:00:17,550 --> 00:00:19,388
+Now, into our PRINCE2 Agile project,
+
+11
+00:00:19,388 --> 00:00:21,008
+we do want to make sure that we control
+
+12
+00:00:21,008 --> 00:00:24,450
+significant changes at the project level.
+
+13
+00:00:24,450 --> 00:00:26,250
+So when we create the project plan
+
+14
+00:00:26,250 --> 00:00:28,266
+and we say we're going to build a car,
+
+15
+00:00:28,266 --> 00:00:30,154
+we want to make sure that any changes
+
+16
+00:00:30,154 --> 00:00:31,670
+to that design of that car
+
+17
+00:00:31,670 --> 00:00:34,164
+are controlled up at the project level.
+
+18
+00:00:34,164 --> 00:00:36,877
+Now, when we start talking
+about the detail level,
+
+19
+00:00:36,877 --> 00:00:38,580
+that may be when we start talking about
+
+20
+00:00:38,580 --> 00:00:41,210
+the color of the seats,
+the fabric that's chosen,
+
+21
+00:00:41,210 --> 00:00:43,385
+or any of those other details
+down at the team level,
+
+22
+00:00:43,385 --> 00:00:45,260
+that is where change can improve
+
+23
+00:00:45,260 --> 00:00:48,040
+the quality and usability
+of the product much quicker
+
+24
+00:00:48,040 --> 00:00:50,300
+and the people designing
+it can make those changes
+
+25
+00:00:50,300 --> 00:00:52,360
+within good tolerances.
+
+26
+00:00:52,360 --> 00:00:53,910
+And that's one of the keys when you start
+
+27
+00:00:53,910 --> 00:00:55,570
+tailoring your theme of change,
+
+28
+00:00:55,570 --> 00:00:57,910
+is you want to make sure
+that you have good tolerances
+
+29
+00:00:57,910 --> 00:00:59,530
+because those tolerances that are set
+
+30
+00:00:59,530 --> 00:01:01,302
+in your product description
+and your work package
+
+31
+00:01:01,302 --> 00:01:04,301
+are going to control how
+well and how effectively
+
+32
+00:01:04,301 --> 00:01:08,010
+you can control change
+and adapt by changing.
+
+33
+00:01:08,010 --> 00:01:10,126
+For example, when you look
+at your product descriptions,
+
+34
+00:01:10,126 --> 00:01:12,360
+this is where your quality criteria
+
+35
+00:01:12,360 --> 00:01:14,050
+and your tolerances are originally set
+
+36
+00:01:14,050 --> 00:01:15,180
+for the project.
+
+37
+00:01:15,180 --> 00:01:16,680
+This gives you clear baselines
+
+38
+00:01:16,680 --> 00:01:18,190
+that can be managed very formally.
+
+39
+00:01:18,190 --> 00:01:20,364
+Anytime there's a change
+that's going to happen
+
+40
+00:01:20,364 --> 00:01:21,960
+to one of these baselines,
+
+41
+00:01:21,960 --> 00:01:23,226
+or go outside these tolerances,
+
+42
+00:01:23,226 --> 00:01:25,240
+it's going to have to escalate all the way
+
+43
+00:01:25,240 --> 00:01:27,770
+up to the project board
+and that change authority
+
+44
+00:01:27,770 --> 00:01:29,191
+to make the decision.
+
+45
+00:01:29,191 --> 00:01:31,680
+Now, when you look at the work packages
+
+46
+00:01:31,680 --> 00:01:33,070
+at that lower level,
+
+47
+00:01:33,070 --> 00:01:35,680
+this is where detailed
+level change can occur.
+
+48
+00:01:35,680 --> 00:01:37,500
+Again, your work packages is going to have
+
+49
+00:01:37,500 --> 00:01:39,510
+defined tolerances for the team
+
+50
+00:01:39,510 --> 00:01:42,570
+that's going to say what their
+left and right bounds are.
+
+51
+00:01:42,570 --> 00:01:44,600
+For example, in my car example,
+
+52
+00:01:44,600 --> 00:01:45,783
+we may have given them the tolerance
+
+53
+00:01:45,783 --> 00:01:48,290
+that there has to be four seats,
+
+54
+00:01:48,290 --> 00:01:49,610
+but we didn't tell them what type
+
+55
+00:01:49,610 --> 00:01:51,170
+of fabric they have to choose.
+
+56
+00:01:51,170 --> 00:01:52,545
+They have the ability to choose that
+
+57
+00:01:52,545 --> 00:01:54,450
+based on their desires,
+
+58
+00:01:54,450 --> 00:01:56,820
+based on what they think will
+work best for the customer,
+
+59
+00:01:56,820 --> 00:01:58,790
+and what will meet the requirement.
+
+60
+00:01:58,790 --> 00:02:00,010
+This is going to be able to be managed
+
+61
+00:02:00,010 --> 00:02:01,200
+by the team dynamically,
+
+62
+00:02:01,200 --> 00:02:03,401
+as long as they stay
+within their tolerances.
+
+63
+00:02:03,401 --> 00:02:06,160
+Now, if we go to something
+of a more technical example,
+
+64
+00:02:06,160 --> 00:02:07,799
+we look at something like a website,
+
+65
+00:02:07,799 --> 00:02:10,360
+and we say the
+responsiveness time has to be
+
+66
+00:02:10,360 --> 00:02:12,733
+between zero and one hundred milliseconds,
+
+67
+00:02:12,733 --> 00:02:15,003
+I don't really care which
+technology they use,
+
+68
+00:02:15,003 --> 00:02:17,570
+as long as they stay
+within that tolerance.
+
+69
+00:02:17,570 --> 00:02:19,000
+And so the team can figure out
+
+70
+00:02:19,000 --> 00:02:20,580
+what the solution is going to be
+
+71
+00:02:20,580 --> 00:02:22,780
+that's going to meet my end state.
+
+72
+00:02:22,780 --> 00:02:26,220
+This all comes down to good
+requirements definitions.
+
+73
+00:02:26,220 --> 00:02:27,803
+Now, requirements definitions can be
+
+74
+00:02:27,803 --> 00:02:30,310
+either binary or on a spectrum.
+
+75
+00:02:30,310 --> 00:02:32,712
+If they're binary, this means
+it's a yes or no question.
+
+76
+00:02:32,712 --> 00:02:36,710
+Going back to my car example,
+the car must have four seats.
+
+77
+00:02:36,710 --> 00:02:37,568
+Does it have four seats?
+
+78
+00:02:37,568 --> 00:02:40,070
+Yes, they've met the intent.
+
+79
+00:02:40,070 --> 00:02:41,837
+Now if I looked at it on a spectrum level,
+
+80
+00:02:41,837 --> 00:02:44,500
+does the car have brown seats
+
+81
+00:02:44,500 --> 00:02:47,380
+and is that brown a color
+between five and ten
+
+82
+00:02:47,380 --> 00:02:48,940
+on our color index?
+
+83
+00:02:48,940 --> 00:02:49,900
+Now I can look at it.
+
+84
+00:02:49,900 --> 00:02:51,710
+If it's a four, it's not within that,
+
+85
+00:02:51,710 --> 00:02:53,110
+it's outside tolerance.
+
+86
+00:02:53,110 --> 00:02:55,850
+But if it's a five, six,
+seven, eight, nine, or ten,
+
+87
+00:02:55,850 --> 00:02:58,690
+then it's within my tolerance
+and it's acceptable.
+
+88
+00:02:58,690 --> 00:03:00,450
+The idea with change in the theme
+
+89
+00:03:00,450 --> 00:03:02,330
+is by using good risk management
+
+90
+00:03:02,330 --> 00:03:03,713
+and good configuration management,
+
+91
+00:03:03,713 --> 00:03:07,310
+we can lessen the impact
+of changes to our product.
+
+92
+00:03:07,310 --> 00:03:09,870
+And the whole idea inside PRINCE2 Agile,
+
+93
+00:03:09,870 --> 00:03:13,740
+is that we believe that the
+team is closest to the problem.
+
+94
+00:03:13,740 --> 00:03:16,430
+They understand best
+what the customer needs,
+
+95
+00:03:16,430 --> 00:03:17,780
+what the customer wants,
+
+96
+00:03:17,780 --> 00:03:19,710
+and how to deliver that effectively.
+
+97
+00:03:19,710 --> 00:03:22,240
+If we give them a good tolerance band,
+
+98
+00:03:22,240 --> 00:03:24,900
+they can build this thing
+within that tolerance
+
+99
+00:03:24,900 --> 00:03:25,733
+and meet our needs
+
+100
+00:03:25,733 --> 00:03:28,360
+and dynamically deal with
+the changes that come up
+
+101
+00:03:28,360 --> 00:03:32,100
+as we go through prototyping
+and testing and development.
+
+102
+00:03:32,100 --> 00:03:36,050
+PRINCE2 and PRINCE2 Agile
+look at change differently.
+
+103
+00:03:36,050 --> 00:03:38,610
+If we look at it from
+a PRINCE2 perspective,
+
+104
+00:03:38,610 --> 00:03:41,160
+change is this thing that is cautious.
+
+105
+00:03:41,160 --> 00:03:42,390
+It's something that we want to avoid.
+
+106
+00:03:42,390 --> 00:03:43,999
+We want to make sure that all changes
+
+107
+00:03:43,999 --> 00:03:46,870
+are controlled up at the
+change authority level
+
+108
+00:03:46,870 --> 00:03:49,220
+and at the project board level.
+
+109
+00:03:49,220 --> 00:03:50,870
+It's something where we
+just want to make sure
+
+110
+00:03:50,870 --> 00:03:53,014
+that what we've designed
+with all of our detail
+
+111
+00:03:53,014 --> 00:03:55,550
+is followed through in execution.
+
+112
+00:03:55,550 --> 00:03:57,140
+PRINCE2 Agile, on the other hand,
+
+113
+00:03:57,140 --> 00:03:58,790
+takes the opposite approach.
+
+114
+00:03:58,790 --> 00:04:01,270
+We're going to build
+requirements very loosely
+
+115
+00:04:01,270 --> 00:04:04,160
+at the beginning and add
+more detail as we go along.
+
+116
+00:04:04,160 --> 00:04:05,949
+As we go through and create our baselines,
+
+117
+00:04:05,949 --> 00:04:07,770
+we're going to create them for the correct
+
+118
+00:04:07,770 --> 00:04:10,329
+level of detail for
+blending the work properly.
+
+119
+00:04:10,329 --> 00:04:11,660
+And what I mean by that is,
+
+120
+00:04:11,660 --> 00:04:13,240
+back in the starting up a project
+
+121
+00:04:13,240 --> 00:04:14,663
+and initiating a project phase,
+
+122
+00:04:14,663 --> 00:04:18,130
+we're going to have big,
+wide tolerances set up
+
+123
+00:04:18,130 --> 00:04:21,060
+for our baselines up at the project level.
+
+124
+00:04:21,060 --> 00:04:23,162
+And we're going to give
+a large portion of that
+
+125
+00:04:23,162 --> 00:04:26,040
+big tolerance down to our team level.
+
+126
+00:04:26,040 --> 00:04:30,260
+So the team has a lot of room
+to make changes autonomously.
+
+127
+00:04:30,260 --> 00:04:31,817
+As they're working their
+collaborative method,
+
+128
+00:04:31,817 --> 00:04:34,210
+they can decide that this project
+
+129
+00:04:34,210 --> 00:04:36,930
+needs to look more like
+this or more like that
+
+130
+00:04:36,930 --> 00:04:38,101
+because they're closest to the problem.
+
+131
+00:04:38,101 --> 00:04:41,130
+And this is going to allow
+them to rapidly respond
+
+132
+00:04:41,130 --> 00:04:42,835
+to change at the detailed level,
+
+133
+00:04:42,835 --> 00:04:45,170
+in coordination with the product owner
+
+134
+00:04:45,170 --> 00:04:46,940
+and the customer representatives.
+
+135
+00:04:46,940 --> 00:04:49,367
+Now, if there's any major
+significant changes,
+
+136
+00:04:49,367 --> 00:04:52,170
+that will still go back
+up to the project board
+
+137
+00:04:52,170 --> 00:04:54,960
+or the change authority
+under PRINCE2 Agile
+
+138
+00:04:54,960 --> 00:04:56,615
+to be able to get approval for that.
+
+139
+00:04:56,615 --> 00:05:00,060
+Our goal in PRINCE2
+Agile is to get feedback
+
+140
+00:05:00,060 --> 00:05:01,710
+as quickly as possible.
+
+141
+00:05:01,710 --> 00:05:03,090
+So we want to get our product out there
+
+142
+00:05:03,090 --> 00:05:05,170
+and get it into the hands of our customer.
+
+143
+00:05:05,170 --> 00:05:06,420
+By getting it to the customer,
+
+144
+00:05:06,420 --> 00:05:08,070
+we're going to get
+feedback that is going to
+
+145
+00:05:08,070 --> 00:05:10,924
+empower us to make changes
+based on that feedback
+
+146
+00:05:10,924 --> 00:05:13,860
+and get us a better product in the end.
+
+147
+00:05:13,860 --> 00:05:15,479
+We really do desire true feedback
+
+148
+00:05:15,479 --> 00:05:17,760
+from our end customer to ensure that
+
+149
+00:05:17,760 --> 00:05:19,210
+we're giving them what they want
+
+150
+00:05:19,210 --> 00:05:20,910
+and that it's meeting their needs.
+
+151
+00:05:20,910 --> 00:05:22,930
+There's lots of feedback loops that exist.
+
+152
+00:05:22,930 --> 00:05:25,100
+You may hear ones like the OODA loop,
+
+153
+00:05:25,100 --> 00:05:28,640
+which is the observe,
+orient, decide, and act loop.
+
+154
+00:05:28,640 --> 00:05:30,430
+You may have heard of the PDCA,
+
+155
+00:05:30,430 --> 00:05:33,069
+which is plan, do, check, and act.
+
+156
+00:05:33,069 --> 00:05:34,789
+You may have heard of PDSA,
+
+157
+00:05:34,789 --> 00:05:38,080
+which is plan, do, study, and act.
+
+158
+00:05:38,080 --> 00:05:39,900
+Or you may have seen the
+one we talked about earlier
+
+159
+00:05:39,900 --> 00:05:43,100
+in Lean Startup, build,
+measure, and learn.
+
+160
+00:05:43,100 --> 00:05:45,940
+And in Agile, any of these
+loops will work just fine.
+
+161
+00:05:45,940 --> 00:05:48,060
+Again, you can observe or plan
+
+162
+00:05:48,060 --> 00:05:50,970
+and then do something and
+then act based on that.
+
+163
+00:05:50,970 --> 00:05:53,150
+In the Lean Startup one, we're
+going to build something,
+
+164
+00:05:53,150 --> 00:05:55,382
+prototype it quickly,
+get it out to a customer,
+
+165
+00:05:55,382 --> 00:05:58,470
+measure what the response
+is, learn based on that,
+
+166
+00:05:58,470 --> 00:05:59,830
+and then build the next loop.
+
+167
+00:05:59,830 --> 00:06:00,840
+And this is the idea,
+
+168
+00:06:00,840 --> 00:06:02,270
+is getting in that feedback loop
+
+169
+00:06:02,270 --> 00:06:04,174
+to get a better product
+and allowing the team
+
+170
+00:06:04,174 --> 00:06:06,575
+to make the changes
+needed at this low level
+
+171
+00:06:06,575 --> 00:06:09,160
+and still meeting the
+time and cost restrictions
+
+172
+00:06:09,160 --> 00:06:11,553
+that we've placed upon
+them in our project.
+

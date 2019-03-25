@@ -1,0 +1,1040 @@
+﻿1
+00:00:00,261 --> 00:00:03,311
+- So up to this point, we've
+talked a lot about PRINCE2.
+
+2
+00:00:03,311 --> 00:00:04,792
+And we talked about the principles,
+
+3
+00:00:04,792 --> 00:00:07,011
+the themes, and the processes.
+
+4
+00:00:07,011 --> 00:00:08,545
+And then, I started talking about
+
+5
+00:00:08,545 --> 00:00:11,775
+the three main different
+types of Agile frameworks.
+
+6
+00:00:11,775 --> 00:00:14,840
+But we haven't talked much
+about how to blend the two yet.
+
+7
+00:00:14,840 --> 00:00:17,255
+And that's what we're going to
+start doing in this lecture.
+
+8
+00:00:17,255 --> 00:00:19,784
+And going throughout
+the rest of the course.
+
+9
+00:00:19,784 --> 00:00:22,175
+So when we talk about
+Agile, the way that PRINCE2
+
+10
+00:00:22,175 --> 00:00:25,583
+looks at Agile is as
+a family of behaviors,
+
+11
+00:00:25,583 --> 00:00:28,472
+concepts, frameworks, and techniques.
+
+12
+00:00:28,472 --> 00:00:30,583
+So what does that really mean for us?
+
+13
+00:00:30,583 --> 00:00:33,640
+Well as we start looking at
+PRINCE2, which started out
+
+14
+00:00:33,640 --> 00:00:36,735
+as a very firm project
+management technique.
+
+15
+00:00:36,735 --> 00:00:38,160
+And now, it's starting to try to implement
+
+16
+00:00:38,160 --> 00:00:39,871
+Agile inside of it.
+
+17
+00:00:39,871 --> 00:00:42,528
+We have to understand how we can do that.
+
+18
+00:00:42,528 --> 00:00:44,763
+When we look at PRINCE2 Agile,
+
+19
+00:00:44,763 --> 00:00:47,498
+they look at Agile as
+not the, simply the way,
+
+20
+00:00:47,498 --> 00:00:49,988
+but it is a way of doing projects.
+
+21
+00:00:49,988 --> 00:00:53,120
+And what I mean by that, is it
+all comes down to tailoring.
+
+22
+00:00:53,120 --> 00:00:56,738
+PRINCE2 in it's purest
+form allows for tailoring,
+
+23
+00:00:56,738 --> 00:00:59,071
+because that's the seventh
+one of the principles.
+
+24
+00:00:59,071 --> 00:01:01,815
+And tailoring PRINCE2
+really does focus on the
+
+25
+00:01:01,815 --> 00:01:04,891
+project context and what
+it's going to affect.
+
+26
+00:01:04,891 --> 00:01:06,635
+This includes things like how formal
+
+27
+00:01:06,635 --> 00:01:08,010
+we're going to be in the project.
+
+28
+00:01:08,010 --> 00:01:10,256
+Where the emphasis is
+placed in the project.
+
+29
+00:01:10,256 --> 00:01:12,678
+And how we're going to
+carry out the project.
+
+30
+00:01:12,678 --> 00:01:14,708
+And this naturally leads itself,
+
+31
+00:01:14,708 --> 00:01:16,630
+to implementing well with Agile.
+
+32
+00:01:16,630 --> 00:01:18,244
+And so, when start looking
+at Agile and these different
+
+33
+00:01:18,244 --> 00:01:20,893
+behaviors, concepts, and techniques.
+
+34
+00:01:20,893 --> 00:01:22,165
+We have to start looking
+
+35
+00:01:22,165 --> 00:01:24,424
+at the way that we do Agile working.
+
+36
+00:01:24,424 --> 00:01:26,070
+And how this is going to be different,
+
+37
+00:01:26,070 --> 00:01:27,384
+to the way we would do Agile,
+
+38
+00:01:27,384 --> 00:01:29,285
+in one of the pure Agile frameworks.
+
+39
+00:01:29,285 --> 00:01:32,905
+Something like Scrum, or
+Kanban, or Lean startup.
+
+40
+00:01:32,905 --> 00:01:34,538
+And so, as we start looking at that,
+
+41
+00:01:34,538 --> 00:01:37,191
+we first have to look
+at our Agile behaviors.
+
+42
+00:01:37,191 --> 00:01:38,942
+These behaviors can also be known
+
+43
+00:01:38,942 --> 00:01:42,458
+as our principles, our
+values, or our mindset.
+
+44
+00:01:42,458 --> 00:01:44,942
+Some examples of these
+behaviors are things like
+
+45
+00:01:44,942 --> 00:01:46,429
+being collaborative,
+
+46
+00:01:46,429 --> 00:01:48,055
+being self organizing,
+
+47
+00:01:48,055 --> 00:01:49,774
+being customer focused,
+
+48
+00:01:49,774 --> 00:01:51,536
+empowering your team members,
+
+49
+00:01:51,536 --> 00:01:55,141
+and trusting your team
+members and not blaming them.
+
+50
+00:01:55,141 --> 00:01:58,301
+By really taking these concepts at heart,
+
+51
+00:01:58,301 --> 00:02:01,294
+PRINCE2 Agile really
+does focus on making sure
+
+52
+00:02:01,294 --> 00:02:03,804
+we can do the best job in our projects,
+
+53
+00:02:03,804 --> 00:02:06,991
+by using collaborative,
+self-organizing teams,
+
+54
+00:02:06,991 --> 00:02:09,273
+delivering products
+that the customer wants,
+
+55
+00:02:09,273 --> 00:02:11,870
+and empowering our team
+members to make decisions,
+
+56
+00:02:11,870 --> 00:02:14,409
+and trusting them to do the right thing.
+
+57
+00:02:14,409 --> 00:02:15,998
+That's what we're looking
+at when we start talking
+
+58
+00:02:15,998 --> 00:02:17,730
+about these behaviors.
+
+59
+00:02:17,730 --> 00:02:19,150
+Now, as we start looking forward
+
+60
+00:02:19,150 --> 00:02:20,692
+and we look at that in PRINCE2,
+
+61
+00:02:20,692 --> 00:02:24,665
+there is five key areas
+that we really focus on.
+
+62
+00:02:24,665 --> 00:02:26,494
+And this is transparency, collaboration,
+
+63
+00:02:26,494 --> 00:02:31,494
+rich communication,
+self-organization, and exploration.
+
+64
+00:02:31,750 --> 00:02:35,462
+These are the Agile
+behaviors inside of PRINCE2.
+
+65
+00:02:35,462 --> 00:02:37,206
+So we talk about transparency,
+
+66
+00:02:37,206 --> 00:02:39,190
+this is focused on being open,
+
+67
+00:02:39,190 --> 00:02:42,246
+visible, honest, trusting people,
+
+68
+00:02:42,246 --> 00:02:44,126
+having integrity, and having respect
+
+69
+00:02:44,126 --> 00:02:47,702
+amongst the team and amongst
+your fellow co-workers.
+
+70
+00:02:47,702 --> 00:02:49,929
+By having this transparency, we all know
+
+71
+00:02:49,929 --> 00:02:51,331
+where we are in the project,
+
+72
+00:02:51,331 --> 00:02:53,134
+we all know what needs to
+get done in the project,
+
+73
+00:02:53,134 --> 00:02:55,350
+and we can all work
+together to get it done.
+
+74
+00:02:55,350 --> 00:02:57,807
+Which brings us to collaboration.
+
+75
+00:02:57,807 --> 00:03:00,294
+Collaboration is this
+internal collaboration
+
+76
+00:03:00,294 --> 00:03:03,004
+amongst our team where
+they work well together.
+
+77
+00:03:03,004 --> 00:03:05,758
+But we also have collaboration externally,
+
+78
+00:03:05,758 --> 00:03:07,823
+between the team and the customers.
+
+79
+00:03:07,823 --> 00:03:09,657
+To make sure we have a
+shared understanding of
+
+80
+00:03:09,657 --> 00:03:11,258
+what needs to be delivered
+
+81
+00:03:11,258 --> 00:03:13,293
+and who's responsible for what.
+
+82
+00:03:13,293 --> 00:03:15,582
+Where does that ownership really occur?
+
+83
+00:03:15,582 --> 00:03:17,334
+Now, to make all of this happen and
+
+84
+00:03:17,334 --> 00:03:19,151
+to have transparency and collaboration,
+
+85
+00:03:19,151 --> 00:03:22,250
+you have to have rich communication.
+
+86
+00:03:22,250 --> 00:03:24,101
+And when we talk about
+communication in Agile,
+
+87
+00:03:24,101 --> 00:03:26,487
+we really want to do as much communication
+
+88
+00:03:26,487 --> 00:03:28,638
+face to face as possible.
+
+89
+00:03:28,638 --> 00:03:31,856
+Because, while email is good
+and phone calls are okay,
+
+90
+00:03:31,856 --> 00:03:34,472
+when you have a face to face
+communication with somebody,
+
+91
+00:03:34,472 --> 00:03:37,446
+you really do knock down all of the walls.
+
+92
+00:03:37,446 --> 00:03:39,542
+And you eliminate anything
+that might be hidden.
+
+93
+00:03:39,542 --> 00:03:41,742
+And so everything becomes
+fully transparent.
+
+94
+00:03:41,742 --> 00:03:45,166
+It allows communication to
+occur quickly and to the point.
+
+95
+00:03:45,166 --> 00:03:47,735
+And it really does help
+progress to move forward.
+
+96
+00:03:47,735 --> 00:03:50,719
+Next, we have self-organization.
+
+97
+00:03:50,719 --> 00:03:53,550
+When we have these teams, we
+want to be able to trust them.
+
+98
+00:03:53,550 --> 00:03:55,544
+And trust the people in
+the teams, so that they
+
+99
+00:03:55,544 --> 00:03:58,534
+can take action and get things done.
+
+100
+00:03:58,534 --> 00:04:01,387
+Allowing self-organization
+of the teams to happen,
+
+101
+00:04:01,387 --> 00:04:02,726
+this inherently is going to
+
+102
+00:04:02,726 --> 00:04:04,754
+build more trust within the team.
+
+103
+00:04:04,754 --> 00:04:06,942
+Because, if I'm picking people on my team
+
+104
+00:04:06,942 --> 00:04:08,458
+that I like to work with,
+
+105
+00:04:08,458 --> 00:04:11,094
+I'm inherently going to trust them more.
+
+106
+00:04:11,094 --> 00:04:13,415
+So that's really going to
+help with all of the other
+
+107
+00:04:13,415 --> 00:04:14,659
+things that we already talked about.
+
+108
+00:04:14,659 --> 00:04:17,054
+And really getting more progress
+done, inside of a project.
+
+109
+00:04:17,054 --> 00:04:19,478
+And the fifth one that we look at
+
+110
+00:04:19,478 --> 00:04:21,151
+with Agile behaviors is exploration.
+
+111
+00:04:21,151 --> 00:04:23,847
+Again we talked about this back in Kanban
+
+112
+00:04:23,847 --> 00:04:26,317
+and we talked about this in Lean startup.
+
+113
+00:04:26,317 --> 00:04:29,357
+We want to do frequent
+iterations with rapid feedback.
+
+114
+00:04:29,357 --> 00:04:31,298
+So that we can get an
+opportunity to learn,
+
+115
+00:04:31,298 --> 00:04:33,745
+so we want to experiment
+and create spikes.
+
+116
+00:04:33,745 --> 00:04:36,339
+Put something out there
+and see what happens.
+
+117
+00:04:36,339 --> 00:04:39,336
+That is going to be something
+that we really do focus on
+
+118
+00:04:39,336 --> 00:04:41,241
+as one of these principle, or behaviors,
+
+119
+00:04:41,241 --> 00:04:43,991
+or values inside of Agile
+in a PRINCE2 environment.
+
+120
+00:04:43,991 --> 00:04:46,852
+Now, as we move forward
+we start to talk about
+
+121
+00:04:46,852 --> 00:04:48,847
+the concepts inside of PRINCE2.
+
+122
+00:04:48,847 --> 00:04:51,764
+Now we look at concepts
+from an Agile prospective,
+
+123
+00:04:51,764 --> 00:04:54,270
+these would be known as our fundamentals.
+
+124
+00:04:54,270 --> 00:04:57,300
+What are some of the fundamentals
+that we start considering?
+
+125
+00:04:57,300 --> 00:04:58,183
+Well we want to think about
+
+126
+00:04:58,183 --> 00:05:00,427
+how we prioritize what
+is going to be delivered.
+
+127
+00:05:00,427 --> 00:05:02,452
+We start realizing that
+the customer doesn't
+
+128
+00:05:02,452 --> 00:05:03,775
+need to have everything.
+
+129
+00:05:03,775 --> 00:05:05,580
+They need to have the important things.
+
+130
+00:05:05,580 --> 00:05:07,021
+And so, prioritization is going to be key
+
+131
+00:05:07,021 --> 00:05:10,284
+as we start working and
+planning our sprints.
+
+132
+00:05:10,284 --> 00:05:11,841
+We have to work iteratively
+
+133
+00:05:11,841 --> 00:05:14,004
+and we have to increment frequently.
+
+134
+00:05:14,004 --> 00:05:15,644
+And so again that Lean startup concept of
+
+135
+00:05:15,644 --> 00:05:18,611
+build and learn is going to
+be important for us, right?
+
+136
+00:05:18,611 --> 00:05:20,620
+Build, measure, learn.
+
+137
+00:05:20,620 --> 00:05:22,949
+And then we're going to have,
+not delivering everything
+
+138
+00:05:22,949 --> 00:05:24,136
+that's asked for.
+
+139
+00:05:24,136 --> 00:05:26,100
+This is a key concept inside of Agile.
+
+140
+00:05:26,100 --> 00:05:29,709
+When we look at PRINCE2,
+from a structure perspective,
+
+141
+00:05:29,709 --> 00:05:31,476
+in the older PRINCE2,
+
+142
+00:05:31,476 --> 00:05:33,236
+the Non-Agile environment.
+
+143
+00:05:33,236 --> 00:05:34,812
+It really is focused on requirements.
+
+144
+00:05:34,812 --> 00:05:36,771
+At the beginning of
+project, we list everything
+
+145
+00:05:36,771 --> 00:05:38,656
+that this thing needs to have.
+
+146
+00:05:38,656 --> 00:05:39,791
+And at the end of the project,
+
+147
+00:05:39,791 --> 00:05:41,516
+it has to have all of those things,
+
+148
+00:05:41,516 --> 00:05:44,152
+otherwise we have exceptions
+and changes that have to go in.
+
+149
+00:05:44,152 --> 00:05:46,277
+But with Agile, we understand that
+
+150
+00:05:46,277 --> 00:05:48,312
+we don't know everything upfront.
+
+151
+00:05:48,312 --> 00:05:52,064
+Instead, we put a list of all
+the things we think we want.
+
+152
+00:05:52,064 --> 00:05:53,280
+And then we're going to prioritize
+
+153
+00:05:53,280 --> 00:05:55,171
+as we go through the project.
+
+154
+00:05:55,171 --> 00:05:57,155
+The other thing in Agile that
+we look at, is time focused.
+
+155
+00:05:57,155 --> 00:05:59,206
+And we talk about this in Timeboxing.
+
+156
+00:05:59,206 --> 00:06:01,278
+We're going to have strict sets of time,
+
+157
+00:06:01,278 --> 00:06:05,421
+that is set aside to build
+these phases of the project.
+
+158
+00:06:05,421 --> 00:06:08,189
+We're also going to inspect
+and adapt things as they go.
+
+159
+00:06:08,189 --> 00:06:10,568
+And again, if we inspect it
+and we don't find what we like,
+
+160
+00:06:10,568 --> 00:06:13,658
+we iterate it and we
+start working on it again.
+
+161
+00:06:13,658 --> 00:06:16,143
+We have this idea of
+continuous improvement,
+
+162
+00:06:16,143 --> 00:06:18,460
+known as Kaizen in Japanese.
+
+163
+00:06:18,460 --> 00:06:20,748
+And this is really important
+inside of Agile as well,
+
+164
+00:06:20,748 --> 00:06:23,280
+because we're always trying
+to get the next thing.
+
+165
+00:06:23,280 --> 00:06:24,540
+And get it better, and quicker,
+
+166
+00:06:24,540 --> 00:06:26,420
+and faster, and cheaper, right?
+
+167
+00:06:26,420 --> 00:06:28,616
+And that continuous
+improvement of our processes
+
+168
+00:06:28,616 --> 00:06:30,612
+allows us to do that.
+
+169
+00:06:30,612 --> 00:06:32,605
+And then, taking in from
+Kanban, we limiting our
+
+170
+00:06:32,605 --> 00:06:34,444
+work in progress.
+
+171
+00:06:34,444 --> 00:06:38,305
+This is another thing, it is
+a key concept inside of Agile
+
+172
+00:06:38,305 --> 00:06:39,948
+that we have to consider.
+
+173
+00:06:39,948 --> 00:06:41,660
+Now, we've talked about behaviors,
+
+174
+00:06:41,660 --> 00:06:42,974
+we've talked about concepts.
+
+175
+00:06:42,974 --> 00:06:44,560
+The third part with techniques.
+
+176
+00:06:44,560 --> 00:06:46,334
+These are known as the practices,
+
+177
+00:06:46,334 --> 00:06:47,877
+or the tools we're going to use.
+
+178
+00:06:47,877 --> 00:06:49,964
+And things in this area are things like
+
+179
+00:06:49,964 --> 00:06:51,781
+burn charts that will
+measure our progress,
+
+180
+00:06:51,781 --> 00:06:54,316
+we'll talk about those
+more in the progress theme.
+
+181
+00:06:54,316 --> 00:06:57,382
+User stories, which take the
+place of our requirements.
+
+182
+00:06:57,382 --> 00:07:00,509
+Retrospectives, where we
+try to learn what happened
+
+183
+00:07:00,509 --> 00:07:02,371
+during the sprint and
+how we can do it better.
+
+184
+00:07:02,371 --> 00:07:04,756
+Timeboxing, where we
+give ourselves two weeks
+
+185
+00:07:04,756 --> 00:07:06,612
+or four weeks inside of the sprint.
+
+186
+00:07:06,612 --> 00:07:08,671
+And then measuring flow,
+which again is how quickly
+
+187
+00:07:08,671 --> 00:07:12,125
+we can take something from an
+idea to a finished product.
+
+188
+00:07:12,125 --> 00:07:15,596
+And that again comes from
+our Kanban perspectives
+
+189
+00:07:15,596 --> 00:07:18,278
+as we measure how things
+are moving across.
+
+190
+00:07:18,278 --> 00:07:20,132
+So these are just some of the techniques,
+
+191
+00:07:20,132 --> 00:07:22,217
+and we'll talk a lot about
+them in depth as we go
+
+192
+00:07:22,217 --> 00:07:24,135
+through the rest of this course.
+
+193
+00:07:24,135 --> 00:07:27,133
+Now, when we blend PRINCE2
+and Agile together,
+
+194
+00:07:27,133 --> 00:07:30,987
+we do this because it gives
+us the best of both worlds.
+
+195
+00:07:30,987 --> 00:07:33,168
+We can do things in a purely Agile method,
+
+196
+00:07:33,168 --> 00:07:36,088
+but when we do that, we're
+very delivery focused.
+
+197
+00:07:36,088 --> 00:07:38,287
+We're all about getting products out.
+
+198
+00:07:38,287 --> 00:07:40,315
+And that doesn't give us
+a lot of the direction,
+
+199
+00:07:40,315 --> 00:07:42,990
+and management, and
+governance that we might want.
+
+200
+00:07:42,990 --> 00:07:46,213
+Especially in more
+larger complex projects.
+
+201
+00:07:46,213 --> 00:07:49,140
+Now when we look at
+PRINCE2, it tends to be
+
+202
+00:07:49,140 --> 00:07:50,631
+very management driven
+and very heavy focused
+
+203
+00:07:50,631 --> 00:07:53,063
+on that governance and control.
+
+204
+00:07:53,063 --> 00:07:55,113
+But, by blending the two together,
+
+205
+00:07:55,113 --> 00:07:56,420
+we get the best of both worlds.
+
+206
+00:07:56,420 --> 00:07:58,702
+We getting the governance,
+management, and control
+
+207
+00:07:58,702 --> 00:08:00,171
+from PRINCE2 coming down.
+
+208
+00:08:00,171 --> 00:08:01,620
+As you can see on the left side here.
+
+209
+00:08:01,620 --> 00:08:03,938
+And we have Agile
+delivery focus coming up.
+
+210
+00:08:03,938 --> 00:08:06,442
+And so we get that area of
+strength from both of them
+
+211
+00:08:06,442 --> 00:08:07,537
+and blend them together.
+
+212
+00:08:07,537 --> 00:08:09,973
+To give us something that
+really does work well
+
+213
+00:08:09,973 --> 00:08:11,285
+in the real world,
+
+214
+00:08:11,285 --> 00:08:13,107
+as we start going through our projects.
+
+215
+00:08:13,107 --> 00:08:14,995
+Instead of using something
+that's purely Agile
+
+216
+00:08:14,995 --> 00:08:16,164
+or purely PRINCE2,
+
+217
+00:08:16,164 --> 00:08:19,252
+we get this PRINCE2 Agile that really does
+
+218
+00:08:19,252 --> 00:08:20,813
+give us the best of both.
+
+219
+00:08:20,813 --> 00:08:22,780
+So, when I take the best of both,
+
+220
+00:08:22,780 --> 00:08:24,401
+what do I end up with?
+
+221
+00:08:24,401 --> 00:08:26,448
+Instead of ending up with
+the three things from
+
+222
+00:08:26,448 --> 00:08:28,238
+PRICNCE or the five things from Agile
+
+223
+00:08:28,238 --> 00:08:30,491
+I end up with eight combined things.
+
+224
+00:08:30,491 --> 00:08:32,501
+I get the principles, the themes,
+
+225
+00:08:32,501 --> 00:08:34,644
+and the processes, from PRINCE.
+
+226
+00:08:34,644 --> 00:08:36,821
+Giving me that structure,
+that guidance, that management
+
+227
+00:08:36,821 --> 00:08:39,015
+prospective from the top down.
+
+228
+00:08:39,015 --> 00:08:42,059
+But I also get the five
+key areas from Agile,
+
+229
+00:08:42,059 --> 00:08:45,315
+the frameworks, the
+behaviors, the concepts,
+
+230
+00:08:45,315 --> 00:08:47,094
+the techniques, and the focus areas.
+
+231
+00:08:47,094 --> 00:08:50,668
+And by combining all of
+this together we really
+
+232
+00:08:50,668 --> 00:08:54,204
+do get a wonderful
+package for working in an
+
+233
+00:08:54,204 --> 00:08:56,324
+Agile method as we move forward.
+

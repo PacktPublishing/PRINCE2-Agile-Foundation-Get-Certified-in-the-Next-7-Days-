@@ -1,0 +1,152 @@
+﻿1
+00:00:00,230 --> 00:00:03,070
+- There are a lot of different
+Agile Frameworks out there
+
+2
+00:00:03,070 --> 00:00:04,480
+on the market today.
+
+3
+00:00:04,480 --> 00:00:06,690
+Many of these frameworks
+are going to combine
+
+4
+00:00:06,690 --> 00:00:08,680
+different techniques and tactics
+
+5
+00:00:08,680 --> 00:00:11,610
+and give us the ability
+to do things in a faster,
+
+6
+00:00:11,610 --> 00:00:13,150
+more efficient way.
+
+7
+00:00:13,150 --> 00:00:15,460
+Some of these are more common than others,
+
+8
+00:00:15,460 --> 00:00:18,000
+and a lot of these are only focused on IT
+
+9
+00:00:18,000 --> 00:00:19,990
+because that's where a
+lot the world of Agile
+
+10
+00:00:19,990 --> 00:00:21,520
+developed from.
+
+11
+00:00:21,520 --> 00:00:23,320
+They're all going to
+focus on kind of three
+
+12
+00:00:23,320 --> 00:00:24,770
+main concepts though.
+
+13
+00:00:24,770 --> 00:00:26,470
+It's either the planning phase,
+
+14
+00:00:26,470 --> 00:00:28,440
+the collaborate and build phase,
+
+15
+00:00:28,440 --> 00:00:30,080
+or the deliver phase,
+
+16
+00:00:30,080 --> 00:00:32,430
+and we're going to talk about
+that as we go through here
+
+17
+00:00:32,430 --> 00:00:34,790
+and talk about the Agile Frameworks.
+
+18
+00:00:34,790 --> 00:00:35,790
+Now, on the screen,
+
+19
+00:00:35,790 --> 00:00:38,800
+you're going to see 12
+different Agile Frameworks.
+
+20
+00:00:38,800 --> 00:00:42,360
+We have Scrum, Kanban, Lean Startup,
+
+21
+00:00:42,360 --> 00:00:46,259
+Lean, XP, SAFe, DAD,
+
+22
+00:00:46,259 --> 00:00:48,710
+DSDM or AgilePM,
+
+23
+00:00:48,710 --> 00:00:52,910
+DevOps, FDD, Crystal, and ASD.
+
+24
+00:00:52,910 --> 00:00:54,760
+Now, the question I get from students is
+
+25
+00:00:54,760 --> 00:00:56,880
+do I have to know all of these frameworks,
+
+26
+00:00:56,880 --> 00:00:58,640
+and the answer is no.
+
+27
+00:00:58,640 --> 00:00:59,880
+If you see the name,
+
+28
+00:00:59,880 --> 00:01:02,760
+you should recognize that
+these are Agile Frameworks,
+
+29
+00:01:02,760 --> 00:01:05,640
+but you don't need to know
+the specifics of each one
+
+30
+00:01:05,640 --> 00:01:07,340
+with the exception of three of them.
+
+31
+00:01:07,340 --> 00:01:10,090
+Scrum, Kanban, and Lean Startup,
+
+32
+00:01:10,090 --> 00:01:11,690
+and we're going to talk
+about each of those
+
+33
+00:01:11,690 --> 00:01:14,330
+in a separate lecture in
+the next three lectures,
+
+34
+00:01:14,330 --> 00:01:17,360
+because they really do make
+up a very important part
+
+35
+00:01:17,360 --> 00:01:19,953
+inside of the PRINCE2 Agile Framework.
+

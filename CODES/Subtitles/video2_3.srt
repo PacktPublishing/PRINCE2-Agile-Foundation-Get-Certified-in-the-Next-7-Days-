@@ -1,0 +1,549 @@
+﻿1
+00:00:00,450 --> 00:00:03,260
+- In PRINCE2, the seven
+themes are these areas
+
+2
+00:00:03,260 --> 00:00:05,450
+of project management
+that have to be addressed
+
+3
+00:00:05,450 --> 00:00:07,950
+continuously throughout the project.
+
+4
+00:00:07,950 --> 00:00:09,370
+As we look at these seven themes,
+
+5
+00:00:09,370 --> 00:00:10,880
+you're going to see that they are based
+
+6
+00:00:10,880 --> 00:00:13,380
+upon the seven principles we just covered.
+
+7
+00:00:13,380 --> 00:00:15,070
+And next we're going to take these themes
+
+8
+00:00:15,070 --> 00:00:17,840
+and apply them by using seven processes,
+
+9
+00:00:17,840 --> 00:00:19,830
+because PRINCE2 is all about sevens.
+
+10
+00:00:19,830 --> 00:00:22,120
+It's the seven principles,
+the seven themes,
+
+11
+00:00:22,120 --> 00:00:23,920
+and the seven processes.
+
+12
+00:00:23,920 --> 00:00:26,100
+Now, what are those seven themes?
+
+13
+00:00:26,100 --> 00:00:29,650
+The seven themes are
+business case, organization,
+
+14
+00:00:29,650 --> 00:00:34,650
+quality, plans, risk,
+change, and progress.
+
+15
+00:00:35,530 --> 00:00:36,920
+Now, the first one we're
+going to talk about
+
+16
+00:00:36,920 --> 00:00:38,380
+is the business case.
+
+17
+00:00:38,380 --> 00:00:39,921
+What is the business case?
+
+18
+00:00:39,921 --> 00:00:42,099
+Well, the business case is created
+
+19
+00:00:42,099 --> 00:00:45,220
+and maintained to create
+this business justification
+
+20
+00:00:45,220 --> 00:00:46,150
+for the project,
+
+21
+00:00:46,150 --> 00:00:48,560
+and so it really is using that principle
+
+22
+00:00:48,560 --> 00:00:50,980
+of continued business justification.
+
+23
+00:00:50,980 --> 00:00:51,870
+This is going to ensure
+
+24
+00:00:51,870 --> 00:00:53,730
+that our project's outcomes are achieved
+
+25
+00:00:53,730 --> 00:00:56,268
+and the benefits we want
+are actually realized.
+
+26
+00:00:56,268 --> 00:00:57,860
+As we go through and we decide
+
+27
+00:00:57,860 --> 00:00:59,980
+are we going to take
+on this project or not,
+
+28
+00:00:59,980 --> 00:01:01,050
+the first thing we're going to do
+
+29
+00:01:01,050 --> 00:01:02,610
+is develop this business case
+
+30
+00:01:02,610 --> 00:01:04,800
+and decide is it worthwhile?
+
+31
+00:01:04,800 --> 00:01:06,020
+How much is it going to cost?
+
+32
+00:01:06,020 --> 00:01:07,450
+How much time is it going to take?
+
+33
+00:01:07,450 --> 00:01:09,710
+And what are the benefits
+we're going to get out of it?
+
+34
+00:01:09,710 --> 00:01:11,070
+If there's a good balance there
+
+35
+00:01:11,070 --> 00:01:13,610
+like we talked about in
+continued business justification,
+
+36
+00:01:13,610 --> 00:01:15,523
+then we can initiate the project.
+
+37
+00:01:16,880 --> 00:01:19,110
+The next thing we have is organization.
+
+38
+00:01:19,110 --> 00:01:20,930
+An organization is used to define
+
+39
+00:01:20,930 --> 00:01:24,140
+the project's organizational
+structure and the roles.
+
+40
+00:01:24,140 --> 00:01:25,760
+This is going to use that principle
+
+41
+00:01:25,760 --> 00:01:28,080
+of defined roles and responsibility.
+
+42
+00:01:28,080 --> 00:01:30,830
+This is going to help us to
+define our communication approach
+
+43
+00:01:30,830 --> 00:01:33,400
+and how we're going to engage
+with different stakeholders,
+
+44
+00:01:33,400 --> 00:01:36,620
+up from the project board
+down into the project manager
+
+45
+00:01:36,620 --> 00:01:39,130
+across over to our
+users and our suppliers.
+
+46
+00:01:39,130 --> 00:01:41,100
+All of this is stuff that
+we're going to have to develop
+
+47
+00:01:41,100 --> 00:01:43,388
+inside of our organization theme.
+
+48
+00:01:43,388 --> 00:01:45,300
+Next we have quality,
+
+49
+00:01:45,300 --> 00:01:47,410
+and quality is used to define the project
+
+50
+00:01:47,410 --> 00:01:49,240
+quality management approach.
+
+51
+00:01:49,240 --> 00:01:51,590
+This is what's going to
+specify the prioritized
+
+52
+00:01:51,590 --> 00:01:54,780
+acceptance criteria for our
+final project's product,
+
+53
+00:01:54,780 --> 00:01:56,530
+and by doing this we're going to say,
+
+54
+00:01:56,530 --> 00:01:59,160
+does this product meet the warranty
+
+55
+00:01:59,160 --> 00:02:01,670
+and use case that we're developing it for?
+
+56
+00:02:01,670 --> 00:02:02,680
+If it does,
+
+57
+00:02:02,680 --> 00:02:04,560
+then we've maintained good quality
+
+58
+00:02:04,560 --> 00:02:07,080
+and it's accepted by our end customer.
+
+59
+00:02:07,080 --> 00:02:09,240
+We're going to talk about
+quality both inside the project
+
+60
+00:02:09,240 --> 00:02:11,710
+and into its final product state
+
+61
+00:02:11,710 --> 00:02:14,020
+as we go through this course.
+
+62
+00:02:14,020 --> 00:02:15,850
+Next we have plans,
+
+63
+00:02:15,850 --> 00:02:17,170
+and plans is really going
+
+64
+00:02:17,170 --> 00:02:19,580
+and taking that manage by stages approach
+
+65
+00:02:19,580 --> 00:02:22,540
+and going into it much,
+much more in depth.
+
+66
+00:02:22,540 --> 00:02:25,190
+Plans are going to be used
+to recommend different levels
+
+67
+00:02:25,190 --> 00:02:26,470
+of planning that's going to be done
+
+68
+00:02:26,470 --> 00:02:28,780
+to facilitate communication and control
+
+69
+00:02:28,780 --> 00:02:32,185
+from different perspectives
+across the project organization.
+
+70
+00:02:32,185 --> 00:02:34,760
+These plans are going to
+enable our business case
+
+71
+00:02:34,760 --> 00:02:37,230
+to be realized with a product at the end.
+
+72
+00:02:37,230 --> 00:02:38,690
+So this is going to take it from idea
+
+73
+00:02:38,690 --> 00:02:41,350
+all the way through
+execution into delivery.
+
+74
+00:02:41,350 --> 00:02:43,690
+When we break this up into
+managing it by stages,
+
+75
+00:02:43,690 --> 00:02:46,490
+we have an overall plan
+called the project plan.
+
+76
+00:02:46,490 --> 00:02:49,230
+We then have a stage plan
+for that particular stage,
+
+77
+00:02:49,230 --> 00:02:50,610
+and underneath that stage plan,
+
+78
+00:02:50,610 --> 00:02:52,690
+we may have several team plans
+
+79
+00:02:52,690 --> 00:02:55,890
+that are being used for
+specific pieces of the project,
+
+80
+00:02:55,890 --> 00:02:57,983
+and all of these are going
+to nestle in together
+
+81
+00:02:57,983 --> 00:03:01,810
+so that we can have a good,
+cohesive way of managing this
+
+82
+00:03:01,810 --> 00:03:04,610
+from start all the way through to finish.
+
+83
+00:03:04,610 --> 00:03:06,920
+The next theme we have is the risk theme,
+
+84
+00:03:06,920 --> 00:03:09,580
+and risk theme is going
+to be focused on defining
+
+85
+00:03:09,580 --> 00:03:11,090
+the risk management approach
+
+86
+00:03:11,090 --> 00:03:13,620
+and ensuring that the
+project risks are identified,
+
+87
+00:03:13,620 --> 00:03:15,100
+assessed, and controlled.
+
+88
+00:03:15,100 --> 00:03:17,920
+And we do this through the
+risk management process.
+
+89
+00:03:17,920 --> 00:03:19,740
+The risk management process goes through
+
+90
+00:03:19,740 --> 00:03:21,100
+and does identification,
+
+91
+00:03:21,100 --> 00:03:24,370
+assessment, planning, implementation,
+
+92
+00:03:24,370 --> 00:03:28,300
+and communicating those risks
+up through the organization.
+
+93
+00:03:28,300 --> 00:03:30,812
+We'll talk more about that
+as we go through the course.
+
+94
+00:03:30,812 --> 00:03:33,320
+The next thing we have is change.
+
+95
+00:03:33,320 --> 00:03:35,350
+Change is inevitable in a project,
+
+96
+00:03:35,350 --> 00:03:37,040
+whether it's a change in requirements,
+
+97
+00:03:37,040 --> 00:03:38,420
+a change in deliverables,
+
+98
+00:03:38,420 --> 00:03:39,730
+a change in personnel,
+
+99
+00:03:39,730 --> 00:03:41,510
+a change in the way you do business.
+
+100
+00:03:41,510 --> 00:03:43,590
+Change is always going to happen.
+
+101
+00:03:43,590 --> 00:03:45,810
+And the change theme
+is focused on defining
+
+102
+00:03:45,810 --> 00:03:47,360
+the change control approach
+
+103
+00:03:47,360 --> 00:03:49,800
+and ensuring that issues
+are captured, assessed,
+
+104
+00:03:49,800 --> 00:03:52,560
+and controlled during
+all of these changes.
+
+105
+00:03:52,560 --> 00:03:55,490
+Because if we can have a
+good control over the change,
+
+106
+00:03:55,490 --> 00:03:57,800
+this is going to allow us to
+have a good quality product
+
+107
+00:03:57,800 --> 00:03:58,950
+at the output.
+
+108
+00:03:58,950 --> 00:04:00,190
+Now, in Agile,
+
+109
+00:04:00,190 --> 00:04:02,050
+we're going to modify change a little bit,
+
+110
+00:04:02,050 --> 00:04:04,740
+but you'll see that as we
+go through this course.
+
+111
+00:04:04,740 --> 00:04:06,650
+Next we have progress,
+
+112
+00:04:06,650 --> 00:04:08,600
+and progress is about defining the way
+
+113
+00:04:08,600 --> 00:04:10,610
+that a project's progress is measured
+
+114
+00:04:10,610 --> 00:04:13,300
+and compared to its performance targets.
+
+115
+00:04:13,300 --> 00:04:15,440
+This can be done in
+lots of different ways.
+
+116
+00:04:15,440 --> 00:04:17,110
+Some organizations do progress
+
+117
+00:04:17,110 --> 00:04:19,636
+based on how much money has
+been spent towards the goal.
+
+118
+00:04:19,636 --> 00:04:22,780
+Others do it by how much
+products have been created
+
+119
+00:04:22,780 --> 00:04:24,700
+or how much work output has been created.
+
+120
+00:04:24,700 --> 00:04:27,120
+We'll talk about different
+ways inside this course
+
+121
+00:04:27,120 --> 00:04:28,920
+as we go through the Agile concepts.
+
+122
+00:04:28,920 --> 00:04:31,370
+But the whole idea is that
+progress is going to enable us
+
+123
+00:04:31,370 --> 00:04:34,580
+to forecast the continuing
+project viability
+
+124
+00:04:34,580 --> 00:04:37,110
+by figuring out how much
+has been done so far
+
+125
+00:04:37,110 --> 00:04:38,743
+and how much is left to do.
+

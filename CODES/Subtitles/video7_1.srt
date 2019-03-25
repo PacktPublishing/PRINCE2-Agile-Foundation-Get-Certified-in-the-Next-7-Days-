@@ -1,0 +1,77 @@
+﻿1
+00:00:00,090 --> 00:00:02,330
+- We've come a long way in the last couple
+
+2
+00:00:02,330 --> 00:00:03,470
+of hours together.
+
+3
+00:00:03,470 --> 00:00:05,230
+We started out talking about PRINCE2
+
+4
+00:00:05,230 --> 00:00:07,410
+and the seven principles,
+the seven themes,
+
+5
+00:00:07,410 --> 00:00:10,030
+and the seven processes,
+then we went in through all
+
+6
+00:00:10,030 --> 00:00:12,280
+of the different Agile
+techniques, behaviors,
+
+7
+00:00:12,280 --> 00:00:13,840
+concepts and tools.
+
+8
+00:00:13,840 --> 00:00:15,030
+Then we brought them all together
+
+9
+00:00:15,030 --> 00:00:17,140
+and talked about how we
+can apply those Agile ways
+
+10
+00:00:17,140 --> 00:00:20,130
+of working inside of
+the PRINCE2 principles,
+
+11
+00:00:20,130 --> 00:00:22,180
+themes, and processes.
+
+12
+00:00:22,180 --> 00:00:24,560
+At this point, you should
+know everything you need
+
+13
+00:00:24,560 --> 00:00:26,740
+to be successful on exam day.
+
+14
+00:00:26,740 --> 00:00:29,350
+I want you to go through and
+take the practice exam now,
+
+15
+00:00:29,350 --> 00:00:31,960
+go over your answers,
+and see how you score.
+
+16
+00:00:31,960 --> 00:00:33,890
+Good luck on the exam,
+and I hope to see you
+
+17
+00:00:33,890 --> 00:00:35,053
+in a future course.
+

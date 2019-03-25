@@ -1,0 +1,1445 @@
+﻿1
+00:00:00,290 --> 00:00:01,960
+- In this lesson, we're
+going to talk about
+
+2
+00:00:01,960 --> 00:00:03,420
+how you start up a project,
+
+3
+00:00:03,420 --> 00:00:06,070
+and initiate a project in an Agile manner.
+
+4
+00:00:06,070 --> 00:00:07,490
+We're going to combine the two of these
+
+5
+00:00:07,490 --> 00:00:09,640
+because most of the things
+we're going to talk about
+
+6
+00:00:09,640 --> 00:00:12,360
+are applicable to both of these processes.
+
+7
+00:00:12,360 --> 00:00:14,480
+First, we need to determine if the project
+
+8
+00:00:14,480 --> 00:00:16,071
+is viable and worthwhile.
+
+9
+00:00:16,071 --> 00:00:18,667
+In starting up a project,
+we want to look at it
+
+10
+00:00:18,667 --> 00:00:21,630
+and start creating the outline
+for this business case.
+
+11
+00:00:21,630 --> 00:00:23,320
+And we take all of the ideas we have
+
+12
+00:00:23,320 --> 00:00:26,380
+and narrow it down to one that
+is going to be our project.
+
+13
+00:00:26,380 --> 00:00:28,970
+Now when we start doing this
+inside initiating a project,
+
+14
+00:00:28,970 --> 00:00:31,020
+we're going to take that
+outline business case
+
+15
+00:00:31,020 --> 00:00:33,200
+and develop it much more fully.
+
+16
+00:00:33,200 --> 00:00:34,420
+We'll talk about that a little bit more
+
+17
+00:00:34,420 --> 00:00:36,120
+as we go through this lesson.
+
+18
+00:00:36,120 --> 00:00:37,680
+We also want to ensure that we're creating
+
+19
+00:00:37,680 --> 00:00:40,440
+a solid foundation for
+us to understand the work
+
+20
+00:00:40,440 --> 00:00:42,780
+that's needed to be done,
+for us to take this project
+
+21
+00:00:42,780 --> 00:00:45,720
+from an idea to final
+execution and delivery.
+
+22
+00:00:45,720 --> 00:00:48,670
+By doing that it's going to allow
+us to create the user stories
+
+23
+00:00:48,670 --> 00:00:50,950
+and the requirements much more thoroughly,
+
+24
+00:00:50,950 --> 00:00:52,190
+and be able to understand
+
+25
+00:00:52,190 --> 00:00:53,820
+all of the work that needs to get done
+
+26
+00:00:53,820 --> 00:00:56,400
+for us to have the
+final project delivered.
+
+27
+00:00:56,400 --> 00:00:58,890
+Next we want to make sure that
+we're setting up our project
+
+28
+00:00:58,890 --> 00:01:00,260
+in an appropriate manner.
+
+29
+00:01:00,260 --> 00:01:02,000
+And that's going to make
+sure that we're using
+
+30
+00:01:02,000 --> 00:01:04,600
+the right Agile terms,
+the right Agile roles,
+
+31
+00:01:04,600 --> 00:01:06,580
+and the right organizational structures
+
+32
+00:01:06,580 --> 00:01:08,940
+to make it work in an Agile method.
+
+33
+00:01:08,940 --> 00:01:11,320
+The impact of frequent
+releases of the products
+
+34
+00:01:11,320 --> 00:01:14,630
+is going to enable us to get
+benefits early and often.
+
+35
+00:01:14,630 --> 00:01:17,040
+That continuous feedback
+loop is going to help us
+
+36
+00:01:17,040 --> 00:01:19,941
+better define the project as
+we move forward throughout it.
+
+37
+00:01:19,941 --> 00:01:22,730
+And that's one of the
+key distinctions between
+
+38
+00:01:22,730 --> 00:01:24,920
+the way we do it in traditional Prince2,
+
+39
+00:01:24,920 --> 00:01:27,030
+where everything is defined early on,
+
+40
+00:01:27,030 --> 00:01:28,960
+and all the requirements are stated as
+
+41
+00:01:28,960 --> 00:01:30,947
+early as the initiating a project phase,
+
+42
+00:01:30,947 --> 00:01:33,180
+as opposed to an Agile where these are
+
+43
+00:01:33,180 --> 00:01:34,660
+continually being developed,
+
+44
+00:01:34,660 --> 00:01:36,540
+and we're continually massaging them
+
+45
+00:01:36,540 --> 00:01:39,920
+to get to the end state that
+we want with our final product.
+
+46
+00:01:39,920 --> 00:01:41,392
+Now as we move forward
+and we start looking
+
+47
+00:01:41,392 --> 00:01:44,384
+at some other things we tailor
+inside of these processes,
+
+48
+00:01:44,384 --> 00:01:46,635
+we have to remember two key things.
+
+49
+00:01:46,635 --> 00:01:49,670
+We want to make sure we're
+defining things at the right level
+
+50
+00:01:49,670 --> 00:01:51,980
+and that we're defining
+things the right way.
+
+51
+00:01:51,980 --> 00:01:53,338
+Now what do I mean by that?
+
+52
+00:01:53,338 --> 00:01:55,885
+When I talk about defining
+things at the right level,
+
+53
+00:01:55,885 --> 00:01:58,913
+we want to consider things like
+our outputs and our outcomes.
+
+54
+00:01:58,913 --> 00:02:00,760
+What is the output and outcome
+
+55
+00:02:00,760 --> 00:02:02,830
+that we expect from this project?
+
+56
+00:02:02,830 --> 00:02:04,170
+When we start writing that down,
+
+57
+00:02:04,170 --> 00:02:06,712
+that will serve as our
+project product description.
+
+58
+00:02:06,712 --> 00:02:09,739
+The baseline of our user
+stories essentially.
+
+59
+00:02:09,739 --> 00:02:12,310
+We also want to consider the benefits.
+
+60
+00:02:12,310 --> 00:02:13,641
+What are the benefits we expect?
+
+61
+00:02:13,641 --> 00:02:15,410
+Traditionally, this would be done
+
+62
+00:02:15,410 --> 00:02:17,364
+in a fully written out business case.
+
+63
+00:02:17,364 --> 00:02:20,570
+But in Agile, it doesn't
+have to be nearly as formal.
+
+64
+00:02:20,570 --> 00:02:21,883
+Instead we want to start thinking
+
+65
+00:02:21,883 --> 00:02:24,110
+about what's the minimum viable product.
+
+66
+00:02:24,110 --> 00:02:26,210
+What's the best and worst case scenario
+
+67
+00:02:26,210 --> 00:02:27,980
+for the amount of product
+that we have to deliver?
+
+68
+00:02:27,980 --> 00:02:30,110
+And if we can define that early on here,
+
+69
+00:02:30,110 --> 00:02:31,460
+in the starting up a project or
+
+70
+00:02:31,460 --> 00:02:33,120
+initiating a project phrase,
+
+71
+00:02:33,120 --> 00:02:35,440
+then we're going to be able to
+start building towards that.
+
+72
+00:02:35,440 --> 00:02:36,850
+And finally, we got to think about
+
+73
+00:02:36,850 --> 00:02:38,280
+those high-level requirements.
+
+74
+00:02:38,280 --> 00:02:39,200
+What are those epics?
+
+75
+00:02:39,200 --> 00:02:42,000
+What are those things that the
+user wants to be able to do?
+
+76
+00:02:42,000 --> 00:02:43,700
+And then we bring those down lower
+
+77
+00:02:43,700 --> 00:02:45,800
+into the outputs, outcomes, and benefits.
+
+78
+00:02:45,800 --> 00:02:47,870
+And so by doing this at the right level,
+
+79
+00:02:47,870 --> 00:02:49,578
+we can really define the big rocks
+
+80
+00:02:49,578 --> 00:02:53,460
+getting down to smaller
+rocks in level of detail.
+
+81
+00:02:53,460 --> 00:02:55,770
+As we talk about defining
+things the right way,
+
+82
+00:02:55,770 --> 00:02:58,832
+we want to think about how we
+can enable Agile to work easier.
+
+83
+00:02:58,832 --> 00:03:00,940
+And the way do this is often by
+
+84
+00:03:00,940 --> 00:03:02,860
+ensuring we are outcome focused.
+
+85
+00:03:02,860 --> 00:03:04,172
+If we focus on the outcomes and
+
+86
+00:03:04,172 --> 00:03:05,740
+we focus on the benefits,
+
+87
+00:03:05,740 --> 00:03:08,040
+that's going to enable
+us to have a lot more
+
+88
+00:03:08,040 --> 00:03:10,149
+wiggle room in what we actually deliver.
+
+89
+00:03:10,149 --> 00:03:12,087
+If my outcome is to have a car
+
+90
+00:03:12,087 --> 00:03:15,034
+that drives 120 miles
+an hour for three hours,
+
+91
+00:03:15,034 --> 00:03:17,224
+I can build that a lot of different ways.
+
+92
+00:03:17,224 --> 00:03:19,004
+I have a lot of flexibility there.
+
+93
+00:03:19,004 --> 00:03:22,080
+But if I have a very specific requirement
+
+94
+00:03:22,080 --> 00:03:25,753
+that says my tolerance has to
+be within point one inches,
+
+95
+00:03:25,753 --> 00:03:28,090
+that doesn't give me a
+lot of room to maneuver.
+
+96
+00:03:28,090 --> 00:03:29,960
+And so without that room to maneuver,
+
+97
+00:03:29,960 --> 00:03:31,710
+we're not going to be nearly as agile.
+
+98
+00:03:31,710 --> 00:03:33,300
+So remember that when you're defining
+
+99
+00:03:33,300 --> 00:03:35,350
+what your thing is you wanted to do.
+
+100
+00:03:35,350 --> 00:03:36,790
+What is the outcome?
+
+101
+00:03:36,790 --> 00:03:38,130
+What is the benefit?
+
+102
+00:03:38,130 --> 00:03:41,150
+And by defining those well
+early on in this process,
+
+103
+00:03:41,150 --> 00:03:43,810
+we're going to be able to
+build to that a lot easier.
+
+104
+00:03:43,810 --> 00:03:46,240
+As we continue to tailor
+these two processes,
+
+105
+00:03:46,240 --> 00:03:47,940
+we have to think about the products
+
+106
+00:03:47,940 --> 00:03:50,510
+that are usually output
+from these processes.
+
+107
+00:03:50,510 --> 00:03:51,886
+That's things like our project brief,
+
+108
+00:03:51,886 --> 00:03:53,693
+our project initiation document,
+
+109
+00:03:53,693 --> 00:03:55,182
+and our business case.
+
+110
+00:03:55,182 --> 00:03:57,201
+Let's look at the project brief first.
+
+111
+00:03:57,201 --> 00:04:00,511
+Our project brief tends to be
+very formal inside of Prince2.
+
+112
+00:04:00,511 --> 00:04:03,791
+It's a written report or it's
+a PowerPoint presentation.
+
+113
+00:04:03,791 --> 00:04:06,626
+But in Agile, this can
+be a lot less formal.
+
+114
+00:04:06,626 --> 00:04:10,030
+Instead, we're looking for
+just some key components of it.
+
+115
+00:04:10,030 --> 00:04:11,350
+What methods are we going to use?
+
+116
+00:04:11,350 --> 00:04:12,780
+Are we going to use a lean start-up
+
+117
+00:04:12,780 --> 00:04:14,930
+and minimum viable product for instance.
+
+118
+00:04:14,930 --> 00:04:16,567
+If so, we would document that down.
+
+119
+00:04:16,567 --> 00:04:18,122
+And this project brief may only be
+
+120
+00:04:18,122 --> 00:04:20,420
+one slide or one piece of paper.
+
+121
+00:04:20,420 --> 00:04:22,631
+It doesn't have to be
+really long and in depth.
+
+122
+00:04:22,631 --> 00:04:24,791
+Instead, we're going to make definitions
+
+123
+00:04:24,791 --> 00:04:28,281
+that are based on outcomes
+instead of tight specifications.
+
+124
+00:04:28,281 --> 00:04:29,690
+We're going to make sure we're talking
+
+125
+00:04:29,690 --> 00:04:31,550
+about the fact that we're
+going to use frequent delivery.
+
+126
+00:04:31,550 --> 00:04:32,990
+And frequent iteration.
+
+127
+00:04:32,990 --> 00:04:35,011
+So we get products out
+to our customers sooner,
+
+128
+00:04:35,011 --> 00:04:37,210
+get their feedback and incorporate that
+
+129
+00:04:37,210 --> 00:04:38,860
+to make the next version.
+
+130
+00:04:38,860 --> 00:04:41,070
+This whole idea of the way
+we're going to do this project
+
+131
+00:04:41,070 --> 00:04:43,150
+in an Agile method has to be documented
+
+132
+00:04:43,150 --> 00:04:44,860
+inside this project brief.
+
+133
+00:04:44,860 --> 00:04:47,159
+But again, this can be a
+very informal document.
+
+134
+00:04:47,159 --> 00:04:48,963
+It could be one piece of paper,
+
+135
+00:04:48,963 --> 00:04:50,749
+it could be one whiteboard
+in a conference room.
+
+136
+00:04:50,749 --> 00:04:53,056
+It doesn't really matter as long as
+
+137
+00:04:53,056 --> 00:04:55,950
+everyone agrees that that's
+the way we're going to work.
+
+138
+00:04:55,950 --> 00:04:57,130
+Now as we look at the next thing,
+
+139
+00:04:57,130 --> 00:04:58,520
+we're going to look at our business case.
+
+140
+00:04:58,520 --> 00:05:00,440
+In our business case tends to be
+
+141
+00:05:00,440 --> 00:05:02,944
+a fairly flushed out very in depth
+
+142
+00:05:02,944 --> 00:05:05,060
+piece of paper that's written out
+
+143
+00:05:05,060 --> 00:05:06,560
+in our normal Prince2.
+
+144
+00:05:06,560 --> 00:05:09,030
+But in Agile, it doesn't
+have to be that way.
+
+145
+00:05:09,030 --> 00:05:11,010
+Again, we're going to identify some basic
+
+146
+00:05:11,010 --> 00:05:13,200
+things inside our business case in Agile.
+
+147
+00:05:13,200 --> 00:05:15,380
+If we're going to use a
+minimum viable product,
+
+148
+00:05:15,380 --> 00:05:17,720
+we need to identify that
+in the business case.
+
+149
+00:05:17,720 --> 00:05:19,840
+What are the outcomes we expect to get
+
+150
+00:05:19,840 --> 00:05:21,620
+from our minimum viable product.
+
+151
+00:05:21,620 --> 00:05:23,140
+We want to talk about how
+we're going to increase
+
+152
+00:05:23,140 --> 00:05:25,556
+flexing the amount of delivery
+that's going to be done.
+
+153
+00:05:25,556 --> 00:05:29,340
+And so we want to get 80 percent
+of our requirements filled.
+
+154
+00:05:29,340 --> 00:05:31,520
+But we're willing to accept as low as 60,
+
+155
+00:05:31,520 --> 00:05:34,010
+or we'd be happy to get
+as much as 100 percent.
+
+156
+00:05:34,010 --> 00:05:36,500
+And that's something we can
+cover in the business case.
+
+157
+00:05:36,500 --> 00:05:38,192
+Again, it's what's your best case,
+
+158
+00:05:38,192 --> 00:05:39,620
+what's your worse case,
+
+159
+00:05:39,620 --> 00:05:41,320
+and what's your most likely case.
+
+160
+00:05:41,320 --> 00:05:43,690
+And by giving that in
+terms of amount delivered,
+
+161
+00:05:43,690 --> 00:05:46,150
+it really does work in
+a much more Agile way
+
+162
+00:05:46,150 --> 00:05:47,330
+since you're going to be pulling things
+
+163
+00:05:47,330 --> 00:05:49,706
+from the back log to work
+at during the sprints.
+
+164
+00:05:49,706 --> 00:05:52,685
+The third one we have is our
+project product description.
+
+165
+00:05:52,685 --> 00:05:55,600
+This is something that's going
+to focus on your outcomes.
+
+166
+00:05:55,600 --> 00:05:57,460
+It's going to be created
+as part of a workshop
+
+167
+00:05:57,460 --> 00:05:58,920
+in a collaborative method,
+
+168
+00:05:58,920 --> 00:06:01,960
+and we're going to capture
+those as user stories and epics.
+
+169
+00:06:01,960 --> 00:06:03,750
+If it's a very large project,
+
+170
+00:06:03,750 --> 00:06:05,050
+it's going to be an epic.
+
+171
+00:06:05,050 --> 00:06:07,590
+That epic is going to be made
+up of many smaller stories
+
+172
+00:06:07,590 --> 00:06:10,070
+that we'll get to later
+on during the process.
+
+173
+00:06:10,070 --> 00:06:13,140
+This will also be used to
+create our product backlog.
+
+174
+00:06:13,140 --> 00:06:15,670
+And that product backlog
+is all of the features
+
+175
+00:06:15,670 --> 00:06:17,870
+that we want to deliver and
+we'll start pulling those
+
+176
+00:06:17,870 --> 00:06:19,105
+into our sprint planning to be able
+
+177
+00:06:19,105 --> 00:06:21,292
+to be created during our sprints.
+
+178
+00:06:21,292 --> 00:06:23,860
+Now our project initiation document
+
+179
+00:06:23,860 --> 00:06:24,919
+is our last document.
+
+180
+00:06:24,919 --> 00:06:28,810
+Normally, this is a very
+large and complex document
+
+181
+00:06:28,810 --> 00:06:30,794
+that covers things like our
+risk management strategy,
+
+182
+00:06:30,794 --> 00:06:34,250
+our communications management
+strategy and many others.
+
+183
+00:06:34,250 --> 00:06:36,830
+Now inside of Agile,
+we are going to make it
+
+184
+00:06:36,830 --> 00:06:38,400
+much less formal.
+
+185
+00:06:38,400 --> 00:06:40,290
+Instead of being this big document,
+
+186
+00:06:40,290 --> 00:06:42,680
+it may just exist as an
+information radiator.
+
+187
+00:06:42,680 --> 00:06:44,348
+Because it's got all the
+things you need in it.
+
+188
+00:06:44,348 --> 00:06:46,170
+It's got your information plan,
+
+189
+00:06:46,170 --> 00:06:47,410
+it's got your team rules,
+
+190
+00:06:47,410 --> 00:06:49,030
+it's got what issues are being tracked,
+
+191
+00:06:49,030 --> 00:06:50,300
+what new things are being tracked,
+
+192
+00:06:50,300 --> 00:06:51,940
+what progress is being tracked.
+
+193
+00:06:51,940 --> 00:06:52,773
+All of that.
+
+194
+00:06:52,773 --> 00:06:55,110
+And when so you think about
+your project initiation document
+
+195
+00:06:55,110 --> 00:06:57,240
+in an Agile context,
+you want to think about
+
+196
+00:06:57,240 --> 00:06:58,870
+what is the minimum that I have to do
+
+197
+00:06:58,870 --> 00:07:00,230
+so everyone knows what's needed?
+
+198
+00:07:00,230 --> 00:07:02,305
+And not do any extra paperwork.
+
+199
+00:07:02,305 --> 00:07:03,990
+This is going to help us plan for
+
+200
+00:07:03,990 --> 00:07:05,609
+the release of frequent releases.
+
+201
+00:07:05,609 --> 00:07:07,970
+As well as planning for the definition
+
+202
+00:07:07,970 --> 00:07:10,120
+of what is done and what is ready.
+
+203
+00:07:10,120 --> 00:07:13,120
+And it will also help us to
+map Prince2 and our Agile
+
+204
+00:07:13,120 --> 00:07:14,120
+roles together.
+
+205
+00:07:14,120 --> 00:07:16,890
+Again, all of this can be shown
+on an information radiator,
+
+206
+00:07:16,890 --> 00:07:18,163
+in a very informal way.
+
+207
+00:07:18,163 --> 00:07:20,493
+And we're going to make sure we tailor it
+
+208
+00:07:20,493 --> 00:07:22,120
+to be appropriate for the Agile
+
+209
+00:07:22,120 --> 00:07:23,600
+environment we're working in.
+
+210
+00:07:23,600 --> 00:07:25,508
+If we're working in a
+very simple environment,
+
+211
+00:07:25,508 --> 00:07:27,300
+it may just be a board.
+
+212
+00:07:27,300 --> 00:07:28,810
+If it's a complex environment,
+
+213
+00:07:28,810 --> 00:07:29,818
+it may be a board that gives you
+
+214
+00:07:29,818 --> 00:07:31,670
+a summary, and we have more details
+
+215
+00:07:31,670 --> 00:07:33,400
+behind it written down on paper.
+
+216
+00:07:33,400 --> 00:07:35,290
+It just depends on how
+you want to tailor this
+
+217
+00:07:35,290 --> 00:07:36,608
+to work in your project.
+
+218
+00:07:36,608 --> 00:07:38,559
+Next we're going to talk about how
+
+219
+00:07:38,559 --> 00:07:40,270
+we view starting up a project,
+
+220
+00:07:40,270 --> 00:07:41,428
+and initiating a project,
+
+221
+00:07:41,428 --> 00:07:44,760
+and what we have that
+are Agile considerations.
+
+222
+00:07:44,760 --> 00:07:45,930
+And some of those are things like
+
+223
+00:07:45,930 --> 00:07:48,060
+what upfront work do we have to do?
+
+224
+00:07:48,060 --> 00:07:49,630
+And how much of it before we can
+
+225
+00:07:49,630 --> 00:07:52,100
+start getting into actually
+doing something in a sprint?
+
+226
+00:07:52,100 --> 00:07:54,710
+And this is done through
+what's called a sprint zero,
+
+227
+00:07:54,710 --> 00:07:55,810
+or discovery phase.
+
+228
+00:07:55,810 --> 00:07:58,199
+During sprint zero, which may be called
+
+229
+00:07:58,199 --> 00:08:00,030
+the initiation stage,
+
+230
+00:08:00,030 --> 00:08:01,674
+back in a traditional Prince2 model,
+
+231
+00:08:01,674 --> 00:08:03,367
+we're going to go through
+and do our visioning,
+
+232
+00:08:03,367 --> 00:08:05,640
+and our chartering and
+getting people together
+
+233
+00:08:05,640 --> 00:08:08,750
+to say "What is the grand
+scheme for this product?
+
+234
+00:08:08,750 --> 00:08:10,920
+What is it we hope to have as an outcome?"
+
+235
+00:08:10,920 --> 00:08:12,640
+And as we start building this vision,
+
+236
+00:08:12,640 --> 00:08:14,840
+we can then start creating our backlog.
+
+237
+00:08:14,840 --> 00:08:17,480
+We're going to use workshops
+and information communication,
+
+238
+00:08:17,480 --> 00:08:20,640
+whether formal or informal
+to figure all this out.
+
+239
+00:08:20,640 --> 00:08:21,809
+And we put all this together,
+
+240
+00:08:21,809 --> 00:08:23,300
+we're going to start figuring out
+
+241
+00:08:23,300 --> 00:08:24,846
+what is the minimum thing
+we need to start delivering,
+
+242
+00:08:24,846 --> 00:08:27,650
+and what is enough.
+
+243
+00:08:27,650 --> 00:08:28,958
+What means we are done?
+
+244
+00:08:28,958 --> 00:08:31,010
+And those are things we're
+going to define here,
+
+245
+00:08:31,010 --> 00:08:32,696
+inside of the starting up a project,
+
+246
+00:08:32,696 --> 00:08:34,527
+and initiating a project phase.
+
+247
+00:08:34,527 --> 00:08:36,610
+Because we have to know what done is,
+
+248
+00:08:36,610 --> 00:08:38,812
+otherwise how will we ever
+know if we ever got there?
+
+249
+00:08:38,812 --> 00:08:40,372
+The next thing we need to talk about
+
+250
+00:08:40,372 --> 00:08:42,020
+is the Agile behaviors,
+
+251
+00:08:42,020 --> 00:08:43,526
+and how do you asses those five behaviors
+
+252
+00:08:43,526 --> 00:08:47,261
+of transparency, collaboration,
+rich communication,
+
+253
+00:08:47,261 --> 00:08:49,860
+self-organization, and exploration.
+
+254
+00:08:49,860 --> 00:08:51,430
+One of the common ways to do it
+
+255
+00:08:51,430 --> 00:08:53,260
+in starting up a project phase,
+
+256
+00:08:53,260 --> 00:08:55,210
+is to use a stop light chart.
+
+257
+00:08:55,210 --> 00:08:56,813
+And this is red, yellow, and green.
+
+258
+00:08:56,813 --> 00:08:59,040
+Red means there's some kind of significant
+
+259
+00:08:59,040 --> 00:09:00,530
+problem or exception.
+
+260
+00:09:00,530 --> 00:09:02,730
+Yellow means things are tracking poorly
+
+261
+00:09:02,730 --> 00:09:03,749
+and we should be concerned.
+
+262
+00:09:03,749 --> 00:09:05,699
+And green means
+everything's good right now,
+
+263
+00:09:05,699 --> 00:09:07,270
+but we should monitor it because
+
+264
+00:09:07,270 --> 00:09:08,559
+it may be a problem later on.
+
+265
+00:09:08,559 --> 00:09:10,377
+And so this is just a very simple
+
+266
+00:09:10,377 --> 00:09:12,322
+way for you to look
+across your organization
+
+267
+00:09:12,322 --> 00:09:14,790
+and see how they're
+implementing Agile behaviors
+
+268
+00:09:14,790 --> 00:09:16,054
+inside of your project.
+
+269
+00:09:16,054 --> 00:09:19,340
+Another method of assessing
+your organization,
+
+270
+00:09:19,340 --> 00:09:20,800
+beyond just the five behaviors,
+
+271
+00:09:20,800 --> 00:09:23,400
+is to look at it with the Agilometer.
+
+272
+00:09:23,400 --> 00:09:24,751
+Looking at those six key areas.
+
+273
+00:09:24,751 --> 00:09:26,552
+Again, we're going to look at this,
+
+274
+00:09:26,552 --> 00:09:27,950
+and we're going to put them on a
+
+275
+00:09:27,950 --> 00:09:29,687
+sliding scale from one to five.
+
+276
+00:09:29,687 --> 00:09:32,920
+How low or how high they
+are in regards to Agile.
+
+277
+00:09:32,920 --> 00:09:35,150
+We're going to use each
+of these in isolation,
+
+278
+00:09:35,150 --> 00:09:36,760
+and we're not going to average them up.
+
+279
+00:09:36,760 --> 00:09:39,540
+But this will give us an idea
+of where our organization is,
+
+280
+00:09:39,540 --> 00:09:41,640
+and where our risks lie.
+
+281
+00:09:41,640 --> 00:09:43,300
+The last area that we want to measure
+
+282
+00:09:43,300 --> 00:09:46,719
+inside our project early on
+is the level of uncertainty.
+
+283
+00:09:46,719 --> 00:09:49,410
+How certain or uncertain is this project?
+
+284
+00:09:49,410 --> 00:09:51,894
+And how complex or not
+complex is this project?
+
+285
+00:09:51,894 --> 00:09:55,174
+To do that, we use a tool
+called the Cynefin framework.
+
+286
+00:09:55,174 --> 00:09:57,326
+The Cynefin framework is a
+decision making framework
+
+287
+00:09:57,326 --> 00:10:01,360
+that helps us determine the
+exact level of complexity
+
+288
+00:10:01,360 --> 00:10:04,740
+in relation to our project
+and the project environment.
+
+289
+00:10:04,740 --> 00:10:06,160
+This is going to tell us how much
+
+290
+00:10:06,160 --> 00:10:08,220
+we need to tailor Prince2 or Prince2 Agile
+
+291
+00:10:08,220 --> 00:10:10,900
+to work properly for
+this particular project
+
+292
+00:10:10,900 --> 00:10:13,000
+in this particular environment.
+
+293
+00:10:13,000 --> 00:10:14,710
+When I look at the Cynefin framework,
+
+294
+00:10:14,710 --> 00:10:16,509
+it has five key areas.
+
+295
+00:10:16,509 --> 00:10:18,477
+These are obvious, complicated,
+
+296
+00:10:18,477 --> 00:10:21,532
+complex, chaotic, and disorder.
+
+297
+00:10:21,532 --> 00:10:23,560
+You can see it here on the screen,
+
+298
+00:10:23,560 --> 00:10:24,920
+as it's in this graphic.
+
+299
+00:10:24,920 --> 00:10:26,250
+And when you look at these different
+
+300
+00:10:26,250 --> 00:10:28,346
+areas, some of these are
+going to be more used
+
+301
+00:10:28,346 --> 00:10:30,753
+in projects, and some
+are going to be more used
+
+302
+00:10:30,753 --> 00:10:32,670
+in business as usual.
+
+303
+00:10:32,670 --> 00:10:34,417
+For example, if I look at obvious,
+
+304
+00:10:34,417 --> 00:10:36,504
+this is where we have best practices.
+
+305
+00:10:36,504 --> 00:10:40,020
+This is going to be our typical
+business as usual operations.
+
+306
+00:10:40,020 --> 00:10:42,350
+It's very proceduralized it's very easy,
+
+307
+00:10:42,350 --> 00:10:45,482
+and it is not complex and
+it's not uncertain at all.
+
+308
+00:10:45,482 --> 00:10:48,355
+Now as we start moving into
+complicated or complex,
+
+309
+00:10:48,355 --> 00:10:50,141
+this is where the environment
+or the project itself,
+
+310
+00:10:50,141 --> 00:10:53,870
+becomes more difficult or more uncertain.
+
+311
+00:10:53,870 --> 00:10:56,270
+This is where most of your
+projects are going to be.
+
+312
+00:10:56,270 --> 00:10:57,690
+We still have good practices,
+
+313
+00:10:57,690 --> 00:11:00,210
+or emergent practices inside these areas,
+
+314
+00:11:00,210 --> 00:11:01,860
+that we can work a project with our
+
+315
+00:11:01,860 --> 00:11:03,460
+existing processes.
+
+316
+00:11:03,460 --> 00:11:05,014
+Now as we go down into chaotic,
+
+317
+00:11:05,014 --> 00:11:08,100
+this is some novel new
+practices just being tried out.
+
+318
+00:11:08,100 --> 00:11:10,110
+This is something that may be a
+
+319
+00:11:10,110 --> 00:11:11,930
+first time ever for our company.
+
+320
+00:11:11,930 --> 00:11:13,350
+So it's very uncertain
+and so we're going to have
+
+321
+00:11:13,350 --> 00:11:16,570
+additional governance
+controls placed on that.
+
+322
+00:11:16,570 --> 00:11:18,370
+If we get into the disorder category,
+
+323
+00:11:18,370 --> 00:11:20,980
+this is where we have
+no known relationships.
+
+324
+00:11:20,980 --> 00:11:22,980
+Things are just kind
+of messy and thrown up,
+
+325
+00:11:22,980 --> 00:11:24,960
+and your project is likely to fail.
+
+326
+00:11:24,960 --> 00:11:26,899
+And so as you figure out
+where does your project
+
+327
+00:11:26,899 --> 00:11:29,573
+and your environment fit
+in these five categories,
+
+328
+00:11:29,573 --> 00:11:32,409
+you can figure how best
+to put processes around it
+
+329
+00:11:32,409 --> 00:11:34,793
+to ensure you have a positive outcome.
+

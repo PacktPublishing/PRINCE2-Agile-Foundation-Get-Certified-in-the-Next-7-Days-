@@ -1,0 +1,62 @@
+﻿1
+00:00:00,590 --> 00:00:03,330
+- Next, we're going to
+look at the seven themes.
+
+2
+00:00:03,330 --> 00:00:05,650
+If you remember, the seven
+themes are these areas
+
+3
+00:00:05,650 --> 00:00:07,440
+of project management
+that we have to address
+
+4
+00:00:07,440 --> 00:00:11,180
+continuously over and over
+again throughout our project.
+
+5
+00:00:11,180 --> 00:00:13,590
+These themes are based
+upon those seven principles
+
+6
+00:00:13,590 --> 00:00:14,710
+we just talked about,
+
+7
+00:00:14,710 --> 00:00:17,290
+and those agile implementations of them.
+
+8
+00:00:17,290 --> 00:00:19,020
+Now, as we look through the seven themes
+
+9
+00:00:19,020 --> 00:00:20,590
+and we look at the business case,
+
+10
+00:00:20,590 --> 00:00:23,390
+organization, quality, plans,
+
+11
+00:00:23,390 --> 00:00:25,810
+risk, change, and progress,
+
+12
+00:00:25,810 --> 00:00:27,550
+we have to look at how they're applied
+
+13
+00:00:27,550 --> 00:00:29,250
+inside an agile method,
+
+14
+00:00:29,250 --> 00:00:31,950
+and we're going to do that in
+this section of the course.
+

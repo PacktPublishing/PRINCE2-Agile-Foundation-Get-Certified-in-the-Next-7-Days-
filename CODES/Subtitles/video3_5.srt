@@ -1,0 +1,888 @@
+﻿1
+00:00:00,180 --> 00:00:01,840
+- In this lesson, we are going to talk
+
+2
+00:00:01,840 --> 00:00:04,230
+about the Kanban method and how it applies
+
+3
+00:00:04,230 --> 00:00:06,190
+inside of Prince2.
+
+4
+00:00:06,190 --> 00:00:08,380
+Now, the Kanban method
+was originally developed
+
+5
+00:00:08,380 --> 00:00:11,410
+by Toyota as part of their
+manufacturing plants.
+
+6
+00:00:11,410 --> 00:00:13,450
+Kanban is actually the Japanese word
+
+7
+00:00:13,450 --> 00:00:15,590
+for signboard or billboard.
+
+8
+00:00:15,590 --> 00:00:17,150
+The idea with Kanban was to create
+
+9
+00:00:17,150 --> 00:00:19,950
+a visual management system
+that limited the number
+
+10
+00:00:19,950 --> 00:00:21,590
+of work items that were currently
+
+11
+00:00:21,590 --> 00:00:24,140
+being accessed and
+worked on as you're going
+
+12
+00:00:24,140 --> 00:00:26,240
+through the circulation process.
+
+13
+00:00:26,240 --> 00:00:27,960
+The idea here is that if we can focus
+
+14
+00:00:27,960 --> 00:00:30,640
+on just a couple of products,
+maybe one or two or three
+
+15
+00:00:30,640 --> 00:00:32,850
+of them, we can get more work done than
+
+16
+00:00:32,850 --> 00:00:36,280
+if we are working on five
+or 10 or 15 things at once.
+
+17
+00:00:36,280 --> 00:00:37,970
+So Kanban was really starting to work
+
+18
+00:00:37,970 --> 00:00:40,800
+with the agility portion
+to improve our day-to-day
+
+19
+00:00:40,800 --> 00:00:43,010
+decision making, and focus us down on
+
+20
+00:00:43,010 --> 00:00:45,600
+to those couple of products
+that we needed to work on.
+
+21
+00:00:45,600 --> 00:00:47,460
+They work on deferring the commitment
+
+22
+00:00:47,460 --> 00:00:50,080
+to work on future products
+and future projects.
+
+23
+00:00:50,080 --> 00:00:52,710
+And the whole idea is to
+reduce your lead times,
+
+24
+00:00:52,710 --> 00:00:54,670
+and get something from start to finish
+
+25
+00:00:54,670 --> 00:00:56,510
+in the shortest amount of time possible.
+
+26
+00:00:56,510 --> 00:00:58,920
+And if you focus on just a
+couple of projects at a time,
+
+27
+00:00:58,920 --> 00:01:01,880
+or a couple of products
+inside of a project at a time,
+
+28
+00:01:01,880 --> 00:01:04,150
+you can really get a lot
+more done than trying
+
+29
+00:01:04,150 --> 00:01:06,460
+to spread yourself out
+across multiple products
+
+30
+00:01:06,460 --> 00:01:08,200
+and multiple projects.
+
+31
+00:01:08,200 --> 00:01:10,200
+The idea with Kanban and
+how we're going to use it
+
+32
+00:01:10,200 --> 00:01:12,360
+inside of Prince2 Agile, is being able
+
+33
+00:01:12,360 --> 00:01:14,470
+to use it as a visualization method.
+
+34
+00:01:14,470 --> 00:01:16,550
+And we're going to do
+this inside the context
+
+35
+00:01:16,550 --> 00:01:18,140
+of our time boxes.
+
+36
+00:01:18,140 --> 00:01:21,510
+Kanban focuses on six general practices.
+
+37
+00:01:21,510 --> 00:01:25,440
+These are visualization,
+limiting our work in progress,
+
+38
+00:01:25,440 --> 00:01:28,970
+managing the flow,
+making policies explicit,
+
+39
+00:01:28,970 --> 00:01:32,270
+implementing feedback loops,
+and improving collaboratively
+
+40
+00:01:32,270 --> 00:01:34,440
+while evolving experimentally.
+
+41
+00:01:34,440 --> 00:01:36,140
+Let's look at each one of those as we go
+
+42
+00:01:36,140 --> 00:01:37,850
+through the rest of this lesson.
+
+43
+00:01:37,850 --> 00:01:39,960
+First, we have visualization.
+
+44
+00:01:39,960 --> 00:01:42,070
+Kanban is very big on ensuring
+
+45
+00:01:42,070 --> 00:01:44,270
+that everyone knows
+what is being worked on
+
+46
+00:01:44,270 --> 00:01:45,470
+at any one time.
+
+47
+00:01:45,470 --> 00:01:47,710
+And so they created this type of board,
+
+48
+00:01:47,710 --> 00:01:49,060
+and you'll see here we have the things
+
+49
+00:01:49,060 --> 00:01:50,630
+that are ready to be worked on,
+
+50
+00:01:50,630 --> 00:01:52,230
+the things that are in the build stage,
+
+51
+00:01:52,230 --> 00:01:53,437
+the things that are in the test stage,
+
+52
+00:01:53,437 --> 00:01:55,750
+and the things that are
+in the deploy stage.
+
+53
+00:01:55,750 --> 00:01:58,380
+This allows us to see how
+the work is progressing,
+
+54
+00:01:58,380 --> 00:02:00,410
+what is left to do, and where are there
+
+55
+00:02:00,410 --> 00:02:01,740
+any problems that exist.
+
+56
+00:02:01,740 --> 00:02:03,700
+And anything that's inside the build stage
+
+57
+00:02:03,700 --> 00:02:07,050
+or the test stage is what
+we call work in progress.
+
+58
+00:02:07,050 --> 00:02:09,390
+Which brings us to our second point,
+
+59
+00:02:09,390 --> 00:02:11,530
+limiting work in progress.
+
+60
+00:02:11,530 --> 00:02:13,790
+Now this may seem
+counterintuitive at first,
+
+61
+00:02:13,790 --> 00:02:17,270
+but this is a fundamental
+concept inside of Kanban.
+
+62
+00:02:17,270 --> 00:02:20,800
+The idea is for us to work on
+as little things as possible
+
+63
+00:02:20,800 --> 00:02:22,110
+so that we can get things through
+
+64
+00:02:22,110 --> 00:02:24,240
+in the fastest amount of time.
+
+65
+00:02:24,240 --> 00:02:26,550
+Inside that build and test phase,
+
+66
+00:02:26,550 --> 00:02:29,740
+we're going to put into it
+work in progress limits.
+
+67
+00:02:29,740 --> 00:02:31,670
+So we may say, for this project,
+
+68
+00:02:31,670 --> 00:02:34,900
+we're only going to allow three
+things to be worked on at once.
+
+69
+00:02:34,900 --> 00:02:37,420
+And whatever that limit is,
+we have to stay within it.
+
+70
+00:02:37,420 --> 00:02:39,720
+Kanban is working really hard here
+
+71
+00:02:39,720 --> 00:02:42,280
+to avoid scheduling
+work at specific times,
+
+72
+00:02:42,280 --> 00:02:45,050
+instead, it relies on a pull system.
+
+73
+00:02:45,050 --> 00:02:48,260
+So the development team
+will go to that ready bucket
+
+74
+00:02:48,260 --> 00:02:50,630
+on the left, and be able
+to pull out what's ready
+
+75
+00:02:50,630 --> 00:02:52,750
+to be worked on, and then
+start building on it.
+
+76
+00:02:52,750 --> 00:02:55,190
+But we don't want them to
+pull too many things at once.
+
+77
+00:02:55,190 --> 00:02:57,110
+And so, instead, we're just going to pull
+
+78
+00:02:57,110 --> 00:02:59,490
+to where capacity exists within
+
+79
+00:02:59,490 --> 00:03:01,660
+those work in progress limits.
+
+80
+00:03:01,660 --> 00:03:04,500
+This is going to reduce the
+impact of task switching
+
+81
+00:03:04,500 --> 00:03:07,440
+and multitasking, because
+really, we are not computers.
+
+82
+00:03:07,440 --> 00:03:09,250
+We are not great at multitasking.
+
+83
+00:03:09,250 --> 00:03:11,870
+We are much better when we
+focus on one or two things
+
+84
+00:03:11,870 --> 00:03:13,270
+at a time, as opposed to trying
+
+85
+00:03:13,270 --> 00:03:15,240
+to work on 10 things simultaneously.
+
+86
+00:03:15,240 --> 00:03:16,530
+And that's the whole idea here,
+
+87
+00:03:16,530 --> 00:03:19,200
+when we limit our work in progress limits.
+
+88
+00:03:19,200 --> 00:03:22,070
+Now, the next one we have
+is managing our flow.
+
+89
+00:03:22,070 --> 00:03:24,250
+The team is going to be
+constantly looking at ways
+
+90
+00:03:24,250 --> 00:03:26,320
+to maximize their flow, which is
+
+91
+00:03:26,320 --> 00:03:28,760
+how do we get things from ready to done
+
+92
+00:03:28,760 --> 00:03:31,030
+in the quickest amount of time possible?
+
+93
+00:03:31,030 --> 00:03:32,730
+To do that, we're focusing on areas
+
+94
+00:03:32,730 --> 00:03:34,200
+that we can reduce waste.
+
+95
+00:03:34,200 --> 00:03:36,430
+And anytime that we can get waste removed,
+
+96
+00:03:36,430 --> 00:03:39,540
+or we can make a process more
+efficient, we want to do that.
+
+97
+00:03:39,540 --> 00:03:41,370
+That's part of that team collaboration
+
+98
+00:03:41,370 --> 00:03:43,200
+that's going to help us improve our flow.
+
+99
+00:03:43,200 --> 00:03:45,770
+And again, as we talked
+about in the last principle,
+
+100
+00:03:45,770 --> 00:03:48,100
+the team is the one
+who's going to pull jobs
+
+101
+00:03:48,100 --> 00:03:49,340
+when they're ready to work on it.
+
+102
+00:03:49,340 --> 00:03:51,410
+And so it's not going to be a
+push method, it's going to be
+
+103
+00:03:51,410 --> 00:03:54,770
+a pull method to manage
+that flow most effectively.
+
+104
+00:03:54,770 --> 00:03:57,880
+The next one we have is
+making our policies explicit.
+
+105
+00:03:57,880 --> 00:03:59,690
+And this is where we're
+going to really focus
+
+106
+00:03:59,690 --> 00:04:02,630
+on making sure there are
+clearly defined boundaries set
+
+107
+00:04:02,630 --> 00:04:04,540
+for how the team is going to work.
+
+108
+00:04:04,540 --> 00:04:07,460
+The policies will evolve
+over time and migrate,
+
+109
+00:04:07,460 --> 00:04:09,320
+and we're going to end
+up changing them based
+
+110
+00:04:09,320 --> 00:04:12,260
+on what we see that can be more
+efficient or less efficient,
+
+111
+00:04:12,260 --> 00:04:14,457
+and we always want to get
+towards more efficient.
+
+112
+00:04:14,457 --> 00:04:16,690
+But the idea with these policies is
+
+113
+00:04:16,690 --> 00:04:19,240
+that if the team has
+proper policies in place,
+
+114
+00:04:19,240 --> 00:04:21,010
+they can make better decisions.
+
+115
+00:04:21,010 --> 00:04:23,490
+And in Prince2, we
+implement this a lot of time
+
+116
+00:04:23,490 --> 00:04:25,120
+using those tolerances, right?
+
+117
+00:04:25,120 --> 00:04:27,670
+And so we have the team
+that knows what their left
+
+118
+00:04:27,670 --> 00:04:29,800
+and right boundaries are,
+which allows them to work
+
+119
+00:04:29,800 --> 00:04:31,550
+within them much more efficiently,
+
+120
+00:04:31,550 --> 00:04:33,570
+and get more flow created.
+
+121
+00:04:33,570 --> 00:04:36,450
+The next one we have is
+implementing feedback loops.
+
+122
+00:04:36,450 --> 00:04:38,570
+And this is really important,
+especially to be able
+
+123
+00:04:38,570 --> 00:04:41,300
+to learn lessons and
+implement those lessons.
+
+124
+00:04:41,300 --> 00:04:43,380
+The value being delivered
+is ultimately going
+
+125
+00:04:43,380 --> 00:04:46,280
+to be judged by the final
+customer of that product.
+
+126
+00:04:46,280 --> 00:04:48,380
+And so we want to make
+sure we get a product out
+
+127
+00:04:48,380 --> 00:04:50,370
+as quickly as possible to the customer,
+
+128
+00:04:50,370 --> 00:04:52,740
+because that's going to
+allow us to get that feedback
+
+129
+00:04:52,740 --> 00:04:55,500
+and be able to make the
+next version even better.
+
+130
+00:04:55,500 --> 00:04:56,450
+This is something that we're going to do
+
+131
+00:04:56,450 --> 00:04:58,340
+a quantitative assessment of,
+
+132
+00:04:58,340 --> 00:04:59,810
+and that's going to directly affect
+
+133
+00:04:59,810 --> 00:05:01,980
+what subsequently we're going to deliver.
+
+134
+00:05:01,980 --> 00:05:04,030
+So if I built this
+course, and I get a bunch
+
+135
+00:05:04,030 --> 00:05:07,280
+of feedback from students that
+I missed some certain topic,
+
+136
+00:05:07,280 --> 00:05:08,760
+I want to get that feedback quickly,
+
+137
+00:05:08,760 --> 00:05:11,590
+so I can go back in the
+studio, add that content,
+
+138
+00:05:11,590 --> 00:05:13,910
+and put it back out in
+version two of the course.
+
+139
+00:05:13,910 --> 00:05:16,400
+And that way, we are
+constantly making it better.
+
+140
+00:05:16,400 --> 00:05:18,970
+The same thing happens
+in a Kanban environment.
+
+141
+00:05:18,970 --> 00:05:20,220
+We always want to make
+sure that we're getting
+
+142
+00:05:20,220 --> 00:05:22,760
+that feedback and implementing it quickly.
+
+143
+00:05:22,760 --> 00:05:25,090
+The sixth and final principle here is
+
+144
+00:05:25,090 --> 00:05:28,760
+to improve collaboratively
+while evolving experimentally.
+
+145
+00:05:28,760 --> 00:05:30,700
+The idea here is that we want to build
+
+146
+00:05:30,700 --> 00:05:32,500
+on collaboration within our teams,
+
+147
+00:05:32,500 --> 00:05:35,030
+so they can be creative
+and try new things.
+
+148
+00:05:35,030 --> 00:05:36,920
+And they're going to
+constantly be experimenting
+
+149
+00:05:36,920 --> 00:05:39,970
+with better processes and
+better methods of doing things.
+
+150
+00:05:39,970 --> 00:05:41,980
+If we find some better
+ways of doing things,
+
+151
+00:05:41,980 --> 00:05:44,240
+we're going to implement
+those, codify those,
+
+152
+00:05:44,240 --> 00:05:46,450
+and put them into policy,
+so that we can use
+
+153
+00:05:46,450 --> 00:05:48,650
+that in future iterations as well.
+
+154
+00:05:48,650 --> 00:05:51,310
+Again, the whole idea
+with Agile is teamwork.
+
+155
+00:05:51,310 --> 00:05:53,060
+We're all trying to get the thing done
+
+156
+00:05:53,060 --> 00:05:55,430
+in the best and most
+efficient way possible.
+
+157
+00:05:55,430 --> 00:05:56,900
+And that's the whole idea behind this
+
+158
+00:05:56,900 --> 00:05:59,140
+and Kanban fits in well with this.
+
+159
+00:05:59,140 --> 00:06:01,160
+Now, there are some other
+considerations you have
+
+160
+00:06:01,160 --> 00:06:03,390
+to think about when you're using Kanban
+
+161
+00:06:03,390 --> 00:06:05,100
+in an Agile environment.
+
+162
+00:06:05,100 --> 00:06:07,080
+A lot of times, people will take Scrum,
+
+163
+00:06:07,080 --> 00:06:08,570
+which we talked about previously,
+
+164
+00:06:08,570 --> 00:06:11,110
+and Kanban and mix them together.
+
+165
+00:06:11,110 --> 00:06:13,240
+And this is often called Scrumban.
+
+166
+00:06:13,240 --> 00:06:15,790
+It's an application of
+Kanban where the underlying
+
+167
+00:06:15,790 --> 00:06:17,900
+framework is that Scrum framework.
+
+168
+00:06:17,900 --> 00:06:20,670
+And you're going to see a lot
+of this inside of Prince2 Agile
+
+169
+00:06:20,670 --> 00:06:22,470
+because we do use a lot of principles
+
+170
+00:06:22,470 --> 00:06:25,030
+from Kanban, like
+limiting work in progress,
+
+171
+00:06:25,030 --> 00:06:27,610
+and the visualization,
+the collaborativeness,
+
+172
+00:06:27,610 --> 00:06:30,270
+those policies, and
+learning from experience,
+
+173
+00:06:30,270 --> 00:06:33,100
+as well as the Scrum
+framework with our sprints,
+
+174
+00:06:33,100 --> 00:06:36,000
+and our time boxing and
+other policies from there.
+
+175
+00:06:36,000 --> 00:06:39,000
+Our policies are going to
+exist for similar work items
+
+176
+00:06:39,000 --> 00:06:41,950
+because the flow will start
+becoming more predictable.
+
+177
+00:06:41,950 --> 00:06:44,220
+If this is the 17th course you've made,
+
+178
+00:06:44,220 --> 00:06:45,800
+you're going to be
+really good at making it.
+
+179
+00:06:45,800 --> 00:06:48,440
+But if it's the first one,
+it's not nearly as good
+
+180
+00:06:48,440 --> 00:06:50,920
+because you don't have those
+policies and procedures down.
+
+181
+00:06:50,920 --> 00:06:53,030
+And so, as you keep working on a project,
+
+182
+00:06:53,030 --> 00:06:55,410
+and you do the same type
+of work over and over,
+
+183
+00:06:55,410 --> 00:06:57,600
+you're going to get better, and
+the flow is going to improve,
+
+184
+00:06:57,600 --> 00:07:00,320
+and you can do it quickly
+and more efficiently.
+
+185
+00:07:00,320 --> 00:07:02,680
+Your team is constantly
+going to be looking at ways
+
+186
+00:07:02,680 --> 00:07:04,510
+on how you can improve the system.
+
+187
+00:07:04,510 --> 00:07:06,720
+Because we're trying to get more flow,
+
+188
+00:07:06,720 --> 00:07:08,950
+better, cheaper, and faster.
+
+189
+00:07:08,950 --> 00:07:10,820
+The idea is if we conduct experiments
+
+190
+00:07:10,820 --> 00:07:12,800
+in a controlled and objective way,
+
+191
+00:07:12,800 --> 00:07:15,370
+we can then see, did this way work better?
+
+192
+00:07:15,370 --> 00:07:18,110
+And if it did, we're going to
+implement it in the future,
+
+193
+00:07:18,110 --> 00:07:19,980
+and that's what Kanban is all about.
+
+194
+00:07:19,980 --> 00:07:23,050
+It's all about, how do we
+produce something faster,
+
+195
+00:07:23,050 --> 00:07:27,140
+cheaper, better, using
+defined boundaries on the left
+
+196
+00:07:27,140 --> 00:07:29,940
+and right side, that we
+only have a minimal amount
+
+197
+00:07:29,940 --> 00:07:32,133
+of work in progress at any given time.
+

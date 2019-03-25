@@ -1,0 +1,807 @@
+﻿1
+00:00:00,760 --> 00:00:02,650
+- The next set of seven
+we're going to talk about
+
+2
+00:00:02,650 --> 00:00:04,490
+is the seven processes.
+
+3
+00:00:04,490 --> 00:00:06,490
+The seven processes are the application
+
+4
+00:00:06,490 --> 00:00:09,250
+of those seven principles
+and the seven themes,
+
+5
+00:00:09,250 --> 00:00:12,160
+as we go through the project
+management lifecycle.
+
+6
+00:00:12,160 --> 00:00:14,200
+The seven processes are used to describe
+
+7
+00:00:14,200 --> 00:00:16,430
+which role, from the
+project management team,
+
+8
+00:00:16,430 --> 00:00:18,200
+is responsible for making decisions
+
+9
+00:00:18,200 --> 00:00:20,830
+and when those decisions should be made.
+
+10
+00:00:20,830 --> 00:00:23,530
+Now, as we go through these
+seven processes, you're going to
+
+11
+00:00:23,530 --> 00:00:25,530
+see that they all tie in together.
+
+12
+00:00:25,530 --> 00:00:26,690
+In a linear fashion.
+
+13
+00:00:26,690 --> 00:00:28,610
+As we go through the project.
+
+14
+00:00:28,610 --> 00:00:30,100
+The first process we're
+going to talk about
+
+15
+00:00:30,100 --> 00:00:31,780
+is starting up a project.
+
+16
+00:00:31,780 --> 00:00:34,330
+Starting up a project is
+used to ensure that all
+
+17
+00:00:34,330 --> 00:00:37,550
+of the prerequisites for
+initiating a project are in place
+
+18
+00:00:37,550 --> 00:00:39,350
+by answering a simple question.
+
+19
+00:00:39,350 --> 00:00:42,360
+Do we have a viable
+and worthwhile project?
+
+20
+00:00:42,360 --> 00:00:44,950
+In starting up a project,
+we're going to have hundreds
+
+21
+00:00:44,950 --> 00:00:47,110
+of ideas of what project should be done.
+
+22
+00:00:47,110 --> 00:00:49,400
+And eventually these are
+going to be funneled down
+
+23
+00:00:49,400 --> 00:00:52,810
+into just one or two ideas
+of what we should do.
+
+24
+00:00:52,810 --> 00:00:55,650
+One of these will end up
+becoming the project mandate.
+
+25
+00:00:55,650 --> 00:00:57,900
+And we'll be told, we should
+look at starting up a project
+
+26
+00:00:57,900 --> 00:00:59,380
+on idea X.
+
+27
+00:00:59,380 --> 00:01:01,220
+We want to build this thing.
+
+28
+00:01:01,220 --> 00:01:03,780
+And so we will start the
+starting up a project phase.
+
+29
+00:01:03,780 --> 00:01:06,400
+Where initial research
+and analysis will be done
+
+30
+00:01:06,400 --> 00:01:09,550
+to determine is this a viable thing to do?
+
+31
+00:01:09,550 --> 00:01:12,380
+For example, my company
+is a training company.
+
+32
+00:01:12,380 --> 00:01:14,910
+If we had an idea of building
+a rocket ship, that's
+
+33
+00:01:14,910 --> 00:01:18,740
+probably not a very viable
+or worthwhile project for us.
+
+34
+00:01:18,740 --> 00:01:21,310
+It maybe for other
+organizations, but not for us.
+
+35
+00:01:21,310 --> 00:01:23,660
+And so we have to take the
+thousands of ideas that we come
+
+36
+00:01:23,660 --> 00:01:26,300
+up with, to decide what
+is the thing that we're
+
+37
+00:01:26,300 --> 00:01:28,130
+going to work on next?
+
+38
+00:01:28,130 --> 00:01:30,860
+Then, once you have that good
+idea and it's been approved,
+
+39
+00:01:30,860 --> 00:01:33,250
+we're going to move into
+initiating a project.
+
+40
+00:01:33,250 --> 00:01:36,080
+And in initiating a project,
+we are going to go through
+
+41
+00:01:36,080 --> 00:01:38,980
+and make sure that we
+establish solid foundations
+
+42
+00:01:38,980 --> 00:01:40,140
+for this project.
+
+43
+00:01:40,140 --> 00:01:42,980
+Because we want to enable the
+organization to understand
+
+44
+00:01:42,980 --> 00:01:44,910
+what is working and what isn't.
+
+45
+00:01:44,910 --> 00:01:47,980
+And what needs to be done to
+deliver the project's products
+
+46
+00:01:47,980 --> 00:01:51,320
+before we commit to the
+significant spending of resources.
+
+47
+00:01:51,320 --> 00:01:54,180
+And so, going back to my
+company's example; we get
+
+48
+00:01:54,180 --> 00:01:56,140
+suggestions from students all the time
+
+49
+00:01:56,140 --> 00:01:58,080
+on different courses we should make.
+
+50
+00:01:58,080 --> 00:02:01,120
+Now, we might take those 50
+or 100 different suggestions
+
+51
+00:02:01,120 --> 00:02:03,860
+and boil it down to one
+or two different ideas
+
+52
+00:02:03,860 --> 00:02:05,540
+that's going to be our next project.
+
+53
+00:02:05,540 --> 00:02:08,090
+Then we start going through
+our initiating a project phase
+
+54
+00:02:08,090 --> 00:02:10,960
+and we go and start looking at
+what is the cost and benefit
+
+55
+00:02:10,960 --> 00:02:11,900
+of doing that.
+
+56
+00:02:11,900 --> 00:02:13,960
+Is there a big enough
+market demand for that thing
+
+57
+00:02:13,960 --> 00:02:15,140
+that we're going to teach?
+
+58
+00:02:15,140 --> 00:02:16,530
+Do we have the knowledge and skills
+
+59
+00:02:16,530 --> 00:02:18,000
+to train that effectively?
+
+60
+00:02:18,000 --> 00:02:20,340
+And as we go through that,
+we're going to put everything
+
+61
+00:02:20,340 --> 00:02:23,380
+in place and build up our
+business case and build up
+
+62
+00:02:23,380 --> 00:02:26,250
+our project initiation documents,
+so that we can then move
+
+63
+00:02:26,250 --> 00:02:29,320
+forward and build out that next product.
+
+64
+00:02:29,320 --> 00:02:31,380
+The next process we're going
+to talk about is kind of
+
+65
+00:02:31,380 --> 00:02:32,270
+a unique one.
+
+66
+00:02:32,270 --> 00:02:34,930
+Because it doesn't sit in
+just one stage, but it works
+
+67
+00:02:34,930 --> 00:02:37,460
+across all of the stages in the project.
+
+68
+00:02:37,460 --> 00:02:39,550
+It's known as directing a project.
+
+69
+00:02:39,550 --> 00:02:41,740
+And this is used to
+enable the project board
+
+70
+00:02:41,740 --> 00:02:44,460
+to be accountable for the
+project's success by making
+
+71
+00:02:44,460 --> 00:02:47,240
+key decisions and
+exercising overall control
+
+72
+00:02:47,240 --> 00:02:49,260
+while delegating the day-to-day management
+
+73
+00:02:49,260 --> 00:02:51,270
+down to the project manager.
+
+74
+00:02:51,270 --> 00:02:53,930
+So when we start talking
+about starting up a project
+
+75
+00:02:53,930 --> 00:02:56,020
+and initiating a project and
+as we get through the rest
+
+76
+00:02:56,020 --> 00:02:57,880
+of the stages, a lot of those are focused
+
+77
+00:02:57,880 --> 00:02:59,860
+on what the project manager is doing.
+
+78
+00:02:59,860 --> 00:03:01,690
+But directing a project isn't.
+
+79
+00:03:01,690 --> 00:03:05,080
+This is where the board takes
+input from the project manager
+
+80
+00:03:05,080 --> 00:03:06,420
+and makes decisions.
+
+81
+00:03:06,420 --> 00:03:09,070
+This may be the decision
+to start up the project.
+
+82
+00:03:09,070 --> 00:03:11,370
+It may be the decision
+to initiate the project.
+
+83
+00:03:11,370 --> 00:03:13,810
+Or to move from one
+stage to the next stage.
+
+84
+00:03:13,810 --> 00:03:16,480
+Or how to handle an exception or an issue.
+
+85
+00:03:16,480 --> 00:03:18,920
+All of this is done at
+directing a project.
+
+86
+00:03:18,920 --> 00:03:20,790
+So when you're thinking
+about directing a project
+
+87
+00:03:20,790 --> 00:03:23,220
+always remember this is decision making
+
+88
+00:03:23,220 --> 00:03:25,380
+at the project board level.
+
+89
+00:03:25,380 --> 00:03:27,790
+This brings us down into
+the next process, which is
+
+90
+00:03:27,790 --> 00:03:30,020
+how we manage a stage boundary.
+
+91
+00:03:30,020 --> 00:03:32,890
+As we get to the end of stage
+one or the end of stage two
+
+92
+00:03:32,890 --> 00:03:35,690
+and we want to move into the
+next stage as a project manager,
+
+93
+00:03:35,690 --> 00:03:37,370
+we have to go back to the project board
+
+94
+00:03:37,370 --> 00:03:38,950
+and ask permission to do that.
+
+95
+00:03:38,950 --> 00:03:40,740
+And that's where we initiate this managing
+
+96
+00:03:40,740 --> 00:03:42,550
+a stage boundary process.
+
+97
+00:03:42,550 --> 00:03:44,740
+It's going to enable the
+project manager to provide
+
+98
+00:03:44,740 --> 00:03:47,250
+the project board with
+sufficient information
+
+99
+00:03:47,250 --> 00:03:48,680
+for them to review the success
+
+100
+00:03:48,680 --> 00:03:51,560
+of the current management
+stage; approve the stage plan
+
+101
+00:03:51,560 --> 00:03:52,840
+for the the next stage.
+
+102
+00:03:52,840 --> 00:03:56,110
+Review the updated project
+plan, confirm the continued
+
+103
+00:03:56,110 --> 00:03:58,610
+business justification and
+decide if they're going to
+
+104
+00:03:58,610 --> 00:04:01,250
+accept the risks and let
+the project move forward.
+
+105
+00:04:01,250 --> 00:04:04,010
+Again, this is simply
+where the project manager
+
+106
+00:04:04,010 --> 00:04:06,207
+comes to the project board
+and says, "Here's the current
+
+107
+00:04:06,207 --> 00:04:08,817
+"status, here's my plan way ahead,
+
+108
+00:04:08,817 --> 00:04:10,620
+"can I move into the next stage?"
+
+109
+00:04:10,620 --> 00:04:13,220
+And then if the project
+board says yes, they use that
+
+110
+00:04:13,220 --> 00:04:16,390
+directing a project process
+to make that decision
+
+111
+00:04:16,390 --> 00:04:18,770
+and let us move into the next stage.
+
+112
+00:04:18,770 --> 00:04:21,080
+That brings us into controlling a stage.
+
+113
+00:04:21,080 --> 00:04:23,840
+And this again is a
+project manager function.
+
+114
+00:04:23,840 --> 00:04:26,360
+This is going to be where the
+project manager assigns the work
+
+115
+00:04:26,360 --> 00:04:29,690
+to be done, monitors that
+work, deals with any issues
+
+116
+00:04:29,690 --> 00:04:31,930
+that come up, reports the progress back up
+
+117
+00:04:31,930 --> 00:04:34,070
+to the project board,
+using highlight reports.
+
+118
+00:04:34,070 --> 00:04:36,820
+And they take corrective
+action to ensure that the stage
+
+119
+00:04:36,820 --> 00:04:39,760
+remains within the tolerances
+that they're given.
+
+120
+00:04:39,760 --> 00:04:42,440
+So this is the day-to-day
+work of a project manager.
+
+121
+00:04:42,440 --> 00:04:44,760
+It's where they spend most of their time.
+
+122
+00:04:44,760 --> 00:04:47,740
+But this isn't where the product
+is actually being created.
+
+123
+00:04:47,740 --> 00:04:50,290
+This is just the management
+of that creation.
+
+124
+00:04:50,290 --> 00:04:52,510
+For that to be created,
+we had to move into
+
+125
+00:04:52,510 --> 00:04:54,290
+the managing product delivery.
+
+126
+00:04:54,290 --> 00:04:56,470
+And this is done at the team level.
+
+127
+00:04:56,470 --> 00:04:58,960
+So this is where the link
+between the project manager
+
+128
+00:04:58,960 --> 00:05:00,690
+and a team manager comes into play.
+
+129
+00:05:00,690 --> 00:05:02,480
+And where they're going to
+agree on the requirements
+
+130
+00:05:02,480 --> 00:05:05,150
+for the acceptance, execution and delivery
+
+131
+00:05:05,150 --> 00:05:06,720
+of those products.
+
+132
+00:05:06,720 --> 00:05:09,080
+The role of the team manager
+here is to coordinate
+
+133
+00:05:09,080 --> 00:05:12,560
+all of the work that needs to
+be done inside their team plan
+
+134
+00:05:12,560 --> 00:05:14,470
+here at managing product delivery.
+
+135
+00:05:14,470 --> 00:05:16,920
+They're the closest ones
+to the finished product.
+
+136
+00:05:16,920 --> 00:05:19,570
+So if I'm talking about
+building a website, for example,
+
+137
+00:05:19,570 --> 00:05:22,580
+I might have the graphics
+team working on one package,
+
+138
+00:05:22,580 --> 00:05:23,830
+and they have a team manager.
+
+139
+00:05:23,830 --> 00:05:25,950
+And then I might have a
+coding team that's working
+
+140
+00:05:25,950 --> 00:05:28,440
+on another package and
+they have a team manager.
+
+141
+00:05:28,440 --> 00:05:30,270
+The project manager is going to be working
+
+142
+00:05:30,270 --> 00:05:32,780
+with those individual team
+managers to make sure they
+
+143
+00:05:32,780 --> 00:05:35,370
+understand what the requirements
+are for the coding aspect
+
+144
+00:05:35,370 --> 00:05:38,060
+of the site and the
+graphics aspect of the site.
+
+145
+00:05:38,060 --> 00:05:40,020
+And once they agree to
+that, those team managers
+
+146
+00:05:40,020 --> 00:05:41,660
+will run the daily production.
+
+147
+00:05:41,660 --> 00:05:43,193
+To get that product delivered.
+
+148
+00:05:44,070 --> 00:05:46,170
+Next, we have closing a project.
+
+149
+00:05:46,170 --> 00:05:48,570
+And once we get to the
+final stage, this is what we
+
+150
+00:05:48,570 --> 00:05:50,130
+call closing a project.
+
+151
+00:05:50,130 --> 00:05:52,360
+This is going to provide us
+with a fixed point at which
+
+152
+00:05:52,360 --> 00:05:55,340
+the acceptance for the
+project's product is confirmed
+
+153
+00:05:55,340 --> 00:05:56,360
+by the end users.
+
+154
+00:05:56,360 --> 00:05:58,210
+And this is going to
+recognize that the objectives
+
+155
+00:05:58,210 --> 00:06:00,960
+set out by the original
+project initiation document
+
+156
+00:06:00,960 --> 00:06:02,190
+have been achieved.
+
+157
+00:06:02,190 --> 00:06:04,060
+So when we started up
+this project and we went
+
+158
+00:06:04,060 --> 00:06:07,090
+to the initiation phase, we
+made a list of everything
+
+159
+00:06:07,090 --> 00:06:09,160
+that this project was going to deliver.
+
+160
+00:06:09,160 --> 00:06:11,120
+Now that we're in the closing
+a project phase, we're
+
+161
+00:06:11,120 --> 00:06:13,660
+going to go back to that
+list and make sure that we've
+
+162
+00:06:13,660 --> 00:06:15,460
+met all those requirements.
+
+163
+00:06:15,460 --> 00:06:18,350
+Now one of the interesting
+things about closing a project
+
+164
+00:06:18,350 --> 00:06:20,310
+is you don't have to wait
+until you've gone through
+
+165
+00:06:20,310 --> 00:06:22,660
+all the stages to get to this phase.
+
+166
+00:06:22,660 --> 00:06:24,896
+In fact if we're going
+through and say we're in stage
+
+167
+00:06:24,896 --> 00:06:27,960
+two out of 10 and we
+decide there is no longer
+
+168
+00:06:27,960 --> 00:06:31,230
+a continued business justification,
+then the project board
+
+169
+00:06:31,230 --> 00:06:33,940
+can decide that we're going to
+terminate work on the project
+
+170
+00:06:33,940 --> 00:06:36,800
+and jump right into closing a project.
+
+171
+00:06:36,800 --> 00:06:39,500
+This means that the project
+has nothing more to contribute
+
+172
+00:06:39,500 --> 00:06:42,080
+and this a time we're going to
+go through and just finalize
+
+173
+00:06:42,080 --> 00:06:45,180
+everything, release the resources
+that we don't need anymore
+
+174
+00:06:45,180 --> 00:06:48,220
+and close up the project
+prematurely, based on the fact
+
+175
+00:06:48,220 --> 00:06:51,120
+that there's no longer a
+continued business justification.
+

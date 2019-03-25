@@ -1,0 +1,879 @@
+﻿1
+00:00:00,459 --> 00:00:02,017
+- [Trainer] When we start talking about
+
+2
+00:00:02,017 --> 00:00:05,006
+tailoring the Plans theme
+inside of PRINCE2 Agile,
+
+3
+00:00:05,006 --> 00:00:07,536
+we have to recognize
+that a lot of big changes
+
+4
+00:00:07,536 --> 00:00:09,038
+aren't really required
+
+5
+00:00:09,038 --> 00:00:10,559
+because we're still going to do planning
+
+6
+00:00:10,559 --> 00:00:12,417
+like we did in PRINCE2.
+
+7
+00:00:12,417 --> 00:00:15,738
+The biggest difference is going
+to be the low-level plans.
+
+8
+00:00:15,738 --> 00:00:17,847
+With Agile, if we're going to be doing it
+
+9
+00:00:17,847 --> 00:00:19,264
+in a PRINCE2 Agile method,
+
+10
+00:00:19,264 --> 00:00:21,992
+we'll still have an
+overarching project plan.
+
+11
+00:00:21,992 --> 00:00:24,248
+This overarching project
+plan may be demonstrated
+
+12
+00:00:24,248 --> 00:00:26,972
+as a Gantt chart or some
+other method like that,
+
+13
+00:00:26,972 --> 00:00:28,690
+that provides us with formal milestones
+
+14
+00:00:28,690 --> 00:00:30,486
+that show us the duration of work
+
+15
+00:00:30,486 --> 00:00:32,242
+that we expect to get done.
+
+16
+00:00:32,242 --> 00:00:34,066
+The big difference, though,
+is once we start looking
+
+17
+00:00:34,066 --> 00:00:36,794
+inside the Stage or the Team level plans.
+
+18
+00:00:36,794 --> 00:00:40,010
+At this point, we're going to
+start looking at the low-level
+
+19
+00:00:40,010 --> 00:00:41,999
+details that are shown in backlogs.
+
+20
+00:00:41,999 --> 00:00:44,628
+So, it really becomes more
+of a matter of the format
+
+21
+00:00:44,628 --> 00:00:47,460
+of the plans than having
+the plans themselves.
+
+22
+00:00:47,460 --> 00:00:49,761
+When we look at this, we're
+going to be using Agile
+
+23
+00:00:49,761 --> 00:00:50,832
+techniques and approaches.
+
+24
+00:00:50,832 --> 00:00:53,642
+Things like releases and
+sprints and burn charts
+
+25
+00:00:53,642 --> 00:00:56,771
+to show how much value or how much product
+
+26
+00:00:56,771 --> 00:00:59,606
+can be delivered in a
+fixed amount of time.
+
+27
+00:00:59,606 --> 00:01:01,960
+Whether that's a two week
+sprint or a four week sprint
+
+28
+00:01:01,960 --> 00:01:04,133
+or a four week or an eight week release
+
+29
+00:01:04,133 --> 00:01:07,253
+or whatever we've decided
+to do inside of our plan.
+
+30
+00:01:07,253 --> 00:01:09,544
+The big difference here
+is that these plans
+
+31
+00:01:09,544 --> 00:01:12,101
+at the low level, will
+be much more informal
+
+32
+00:01:12,101 --> 00:01:15,579
+than what we will see in the
+normal PRINCE2 Team plan.
+
+33
+00:01:15,579 --> 00:01:18,123
+Instead we're going to be
+looking at that pole method
+
+34
+00:01:18,123 --> 00:01:19,634
+where we're going to have all of the work
+
+35
+00:01:19,634 --> 00:01:22,421
+that is in the ready state,
+be allowed to be chosen from
+
+36
+00:01:22,421 --> 00:01:25,432
+during the prioritization
+of that s1print planning.
+
+37
+00:01:25,432 --> 00:01:27,988
+Again, that goes back to
+our low-level details.
+
+38
+00:01:27,988 --> 00:01:30,861
+As we look at this from
+an Agile perspective,
+
+39
+00:01:30,861 --> 00:01:33,741
+there's going to be a lot
+of emphasis on planning
+
+40
+00:01:33,741 --> 00:01:35,899
+but we're going to be
+doing this in this team
+
+41
+00:01:35,899 --> 00:01:38,082
+and collaboration based method.
+
+42
+00:01:38,082 --> 00:01:41,673
+We're going to rely on empiricism
+instead of rationalism.
+
+43
+00:01:41,673 --> 00:01:44,384
+What I mean by that is we're
+really focused on what the
+
+44
+00:01:44,384 --> 00:01:45,689
+output is going to be.
+
+45
+00:01:45,689 --> 00:01:47,986
+We're going to do our planning
+based on what we've seen
+
+46
+00:01:47,986 --> 00:01:50,242
+based on our previous
+experiences, as well.
+
+47
+00:01:50,242 --> 00:01:53,601
+The planning can be based on
+features that are going to be put
+
+48
+00:01:53,601 --> 00:01:54,715
+into the end product.
+
+49
+00:01:54,715 --> 00:01:57,463
+It's going to be a very team
+based collaborative exercise
+
+50
+00:01:57,463 --> 00:02:00,967
+and we're going to plan at
+the last responsible moment.
+
+51
+00:02:00,967 --> 00:02:03,400
+And what that means is
+that we are going to wait
+
+52
+00:02:03,400 --> 00:02:06,103
+until right before the
+sprint to choose the things
+
+53
+00:02:06,103 --> 00:02:08,347
+we're going to work on in the next sprint.
+
+54
+00:02:08,347 --> 00:02:10,168
+That allows us to have better clarity
+
+55
+00:02:10,168 --> 00:02:12,644
+because there's a
+shorter planning horizon.
+
+56
+00:02:12,644 --> 00:02:14,721
+When we do this, we're
+going to pick this out
+
+57
+00:02:14,721 --> 00:02:16,641
+based on a prioritization system.
+
+58
+00:02:16,641 --> 00:02:19,377
+And, some people use a point
+system that helps you to
+
+59
+00:02:19,377 --> 00:02:22,903
+estimate what is most important
+and what is least important.
+
+60
+00:02:22,903 --> 00:02:24,631
+Maybe this feature is worth 10 points
+
+61
+00:02:24,631 --> 00:02:26,538
+and this other feature is worth two points
+
+62
+00:02:26,538 --> 00:02:29,121
+and we're only going to do
+100 points worth of stuff
+
+63
+00:02:29,121 --> 00:02:30,199
+in this sprint.
+
+64
+00:02:30,199 --> 00:02:32,770
+And, as we start picking
+things, we will then put it in
+
+65
+00:02:32,770 --> 00:02:35,193
+there based on the level of
+effort and the amount of time
+
+66
+00:02:35,193 --> 00:02:36,201
+it will take.
+
+67
+00:02:36,201 --> 00:02:38,144
+When we look at PRINCE2
+and we look at Agile,
+
+68
+00:02:38,144 --> 00:02:40,415
+we're always considering
+our planning horizon.
+
+69
+00:02:40,415 --> 00:02:42,320
+How far out can we accurately plan?
+
+70
+00:02:42,320 --> 00:02:44,626
+It's really hard to figure out
+what we're going to plan for
+
+71
+00:02:44,626 --> 00:02:46,882
+in six months or a year from now.
+
+72
+00:02:46,882 --> 00:02:49,388
+But, it's really easy to start
+planning what we're going to do
+
+73
+00:02:49,388 --> 00:02:51,551
+tomorrow or what we're
+going to do next week
+
+74
+00:02:51,551 --> 00:02:54,177
+because it's closer to us
+and we have more fidelity
+
+75
+00:02:54,177 --> 00:02:56,111
+into that planning process.
+
+76
+00:02:56,111 --> 00:02:58,799
+When we look at the Plans
+theme, there's some general
+
+77
+00:02:58,799 --> 00:03:00,524
+guidance that we have to consider.
+
+78
+00:03:00,524 --> 00:03:04,003
+The first is that PRINCE2 does
+support any planning style.
+
+79
+00:03:04,003 --> 00:03:07,102
+It doesn't say it has to
+be some long drawn out
+
+80
+00:03:07,102 --> 00:03:08,348
+planning process.
+
+81
+00:03:08,348 --> 00:03:11,495
+We can use a Gantt chart or a
+burn down chart or a sprint.
+
+82
+00:03:11,495 --> 00:03:13,125
+It doesn't really matter.
+
+83
+00:03:13,125 --> 00:03:15,202
+As long as we're doing planning,
+we're still in accordance
+
+84
+00:03:15,202 --> 00:03:16,848
+with the PRINCE2 framework.
+
+85
+00:03:16,848 --> 00:03:18,779
+We also are going to be focused on doing
+
+86
+00:03:18,779 --> 00:03:20,186
+product based planning.
+
+87
+00:03:20,186 --> 00:03:22,416
+And, this can be at any plan level.
+
+88
+00:03:22,416 --> 00:03:25,549
+When we do product based
+planning, that happens at a lot
+
+89
+00:03:25,549 --> 00:03:27,543
+at the team level, especially in Agile,
+
+90
+00:03:27,543 --> 00:03:29,834
+when we start picking specific features
+
+91
+00:03:29,834 --> 00:03:33,399
+that we're going to roll into
+this sprint and this release.
+
+92
+00:03:33,399 --> 00:03:36,864
+But, that also happens at the
+team level, the stage level,
+
+93
+00:03:36,864 --> 00:03:38,871
+and at the project level.
+
+94
+00:03:38,871 --> 00:03:41,463
+Our high-level plans are
+developed to continue to support
+
+95
+00:03:41,463 --> 00:03:44,448
+that continued business justification.
+
+96
+00:03:44,448 --> 00:03:46,717
+We want to make sure that
+the product plan is still
+
+97
+00:03:46,717 --> 00:03:48,661
+proceeding as planned.
+
+98
+00:03:48,661 --> 00:03:51,133
+In that, we're going to
+give them broad timings.
+
+99
+00:03:51,133 --> 00:03:53,808
+What's the end date that we
+expect the final deliverable?
+
+100
+00:03:53,808 --> 00:03:55,322
+As well as broad costs.
+
+101
+00:03:55,322 --> 00:03:57,098
+How much of a significant expenditure
+
+102
+00:03:57,098 --> 00:04:00,240
+are we going to have to do
+to get to the finish line?
+
+103
+00:04:00,240 --> 00:04:02,205
+When we look at the lower-level plans,
+
+104
+00:04:02,205 --> 00:04:03,434
+these are going to be used to support
+
+105
+00:04:03,434 --> 00:04:05,279
+the delivery of our product.
+
+106
+00:04:05,279 --> 00:04:07,526
+To be able to bring things
+into that low-level plan,
+
+107
+00:04:07,526 --> 00:04:10,800
+we are going to do, providing
+ready stories and pulling those
+
+108
+00:04:10,800 --> 00:04:13,968
+into our sprint planning
+based on the ready backlog.
+
+109
+00:04:13,968 --> 00:04:15,997
+We're also going to
+provide clearer priorities
+
+110
+00:04:15,997 --> 00:04:17,568
+to the planning team.
+
+111
+00:04:17,568 --> 00:04:19,728
+This is a very high priority function.
+
+112
+00:04:19,728 --> 00:04:21,626
+This is a low priority function.
+
+113
+00:04:21,626 --> 00:04:24,432
+So, when they're planning what
+they're going to work on first,
+
+114
+00:04:24,432 --> 00:04:26,274
+they're going to be taking,
+at least, some of those
+
+115
+00:04:26,274 --> 00:04:28,237
+high priority things
+and maybe some of those
+
+116
+00:04:28,237 --> 00:04:29,486
+lower priority things,
+
+117
+00:04:29,486 --> 00:04:33,064
+and they will trade things
+that bring out a well rounded
+
+118
+00:04:33,064 --> 00:04:36,122
+and well planned sprint for
+them to work on over the next
+
+119
+00:04:36,122 --> 00:04:38,212
+two to four weeks.
+
+120
+00:04:38,212 --> 00:04:40,216
+As we look at the levels of plans,
+
+121
+00:04:40,216 --> 00:04:41,752
+there's really three levels.
+
+122
+00:04:41,752 --> 00:04:44,859
+The big higher level one
+is called the Project level
+
+123
+00:04:44,859 --> 00:04:46,037
+or the Project Plan.
+
+124
+00:04:46,037 --> 00:04:49,166
+When we look at this big overarching plan,
+
+125
+00:04:49,166 --> 00:04:51,208
+it is likely to be a lot more formal
+
+126
+00:04:51,208 --> 00:04:54,014
+because it's being dealt with
+at the project manager level
+
+127
+00:04:54,014 --> 00:04:55,973
+and the project board level.
+
+128
+00:04:55,973 --> 00:04:59,957
+This will show stage boundaries,
+releases, major produccts,
+
+129
+00:04:59,957 --> 00:05:02,979
+major activities, different
+groupings, and dependencies
+
+130
+00:05:02,979 --> 00:05:04,997
+across the entire project.
+
+131
+00:05:04,997 --> 00:05:07,995
+This is going to give you the
+big broad cost and timing.
+
+132
+00:05:07,995 --> 00:05:10,766
+How much is this new website
+that we're going to build
+
+133
+00:05:10,766 --> 00:05:13,501
+going to cost us and how
+many weeks, months, or years
+
+134
+00:05:13,501 --> 00:05:15,208
+is it going to take to develop?
+
+135
+00:05:15,208 --> 00:05:17,813
+This is going to be
+very big and very broad.
+
+136
+00:05:17,813 --> 00:05:20,281
+As we bring it down to the Stage Plan,
+
+137
+00:05:20,281 --> 00:05:22,862
+we're going to start bringing
+it into a smaller timeframe
+
+138
+00:05:22,862 --> 00:05:24,494
+and a smaller cost window.
+
+139
+00:05:24,494 --> 00:05:26,869
+Then we bring it down to the lowest level
+
+140
+00:05:26,869 --> 00:05:29,897
+which is the Team level
+or the Release Plan.
+
+141
+00:05:29,897 --> 00:05:31,760
+Both of these, whichever
+term you're going to use,
+
+142
+00:05:31,760 --> 00:05:34,779
+are more likely to be
+in the form of a backlog
+
+143
+00:05:34,779 --> 00:05:36,736
+instead of a written out plan.
+
+144
+00:05:36,736 --> 00:05:38,679
+This is going to contain
+things like your stories,
+
+145
+00:05:38,679 --> 00:05:41,200
+your priorities, the amount
+of work that needs to be done,
+
+146
+00:05:41,200 --> 00:05:44,813
+and the relative size of
+each of those pieces of work.
+
+147
+00:05:44,813 --> 00:05:47,715
+That's going to allow us to do
+a good job in sprint planning
+
+148
+00:05:47,715 --> 00:05:50,141
+to figure out what we'll be
+able to do in this cycle.
+
+149
+00:05:50,141 --> 00:05:52,983
+As we look at these plans,
+you can see it graphically,
+
+150
+00:05:52,983 --> 00:05:55,247
+we have this overarching Project plan
+
+151
+00:05:55,247 --> 00:05:57,499
+then underneath that,
+we have a Stage plan,
+
+152
+00:05:57,499 --> 00:05:59,982
+then as we get lower,
+we have the Release plan
+
+153
+00:05:59,982 --> 00:06:03,137
+which has also got our Team
+plan for those two time boxes.
+
+154
+00:06:03,137 --> 00:06:06,235
+This allows us to focus
+specifically on what we're going to
+
+155
+00:06:06,235 --> 00:06:08,712
+work at, at each and every level.
+
+156
+00:06:08,712 --> 00:06:10,385
+When we go into our sprint planning,
+
+157
+00:06:10,385 --> 00:06:12,606
+we have to have a way of figuring out
+
+158
+00:06:12,606 --> 00:06:15,041
+which things we're going to
+take from the ready bucket
+
+159
+00:06:15,041 --> 00:06:17,947
+and work on in the sprint because
+usually there's going to be
+
+160
+00:06:17,947 --> 00:06:21,507
+more stuff ready than you have
+capacity to be able to do.
+
+161
+00:06:21,507 --> 00:06:23,693
+And, the way we do this is
+we're going to use some sort of
+
+162
+00:06:23,693 --> 00:06:25,779
+Agile estimating technique.
+
+163
+00:06:25,779 --> 00:06:27,725
+This is going to give
+us a relative estimate
+
+164
+00:06:27,725 --> 00:06:30,038
+based upon a system of points.
+
+165
+00:06:30,038 --> 00:06:33,158
+This will allow us to choose
+which things we want to work
+
+166
+00:06:33,158 --> 00:06:36,182
+on first and which ones we're
+going to defer to a later sprint.
+
+167
+00:06:36,182 --> 00:06:38,077
+There's lots of different types out there.
+
+168
+00:06:38,077 --> 00:06:40,781
+One of them is based
+on Fibonacci sequences
+
+169
+00:06:40,781 --> 00:06:45,614
+and has a series of numbers
+from 1, 1, 2, 3, 5, 8, 13, 21,
+
+170
+00:06:47,501 --> 00:06:48,339
+and so on.
+
+171
+00:06:48,339 --> 00:06:50,835
+The reason they use this
+is because one will be your
+
+172
+00:06:50,835 --> 00:06:52,323
+highest priority and the larger numbers
+
+173
+00:06:52,323 --> 00:06:53,907
+will be your lower priority.
+
+174
+00:06:53,907 --> 00:06:55,716
+This gives you a nice wide distribution
+
+175
+00:06:55,716 --> 00:06:57,725
+as you try to figure out which priorities
+
+176
+00:06:57,725 --> 00:06:59,872
+are biggest and smallest.
+
+177
+00:06:59,872 --> 00:07:01,958
+Another way that I've
+see commonly seen used
+
+178
+00:07:01,958 --> 00:07:03,867
+is what we use the T-shirt size method.
+
+179
+00:07:03,867 --> 00:07:06,902
+This will be small,
+medium, large, extra-large,
+
+180
+00:07:06,902 --> 00:07:08,176
+that kind of an idea.
+
+181
+00:07:08,176 --> 00:07:10,864
+This will allow you to figure
+out how much work is involved
+
+182
+00:07:10,864 --> 00:07:13,037
+in this particular feature.
+
+183
+00:07:13,037 --> 00:07:15,435
+And, the final way, is
+what's known as story points.
+
+184
+00:07:15,435 --> 00:07:17,824
+This is where the user stories are graded
+
+185
+00:07:17,824 --> 00:07:20,678
+based on some rubric and each
+one is assigned a number.
+
+186
+00:07:20,678 --> 00:07:23,318
+Based on those numbers,
+we would then prioritize
+
+187
+00:07:23,318 --> 00:07:25,682
+which one's highest, take more work.
+
+188
+00:07:25,682 --> 00:07:27,793
+Which one's lowest, take
+the least amount of work.
+
+189
+00:07:27,793 --> 00:07:30,147
+Once we've chosen everything
+we want to work on
+
+190
+00:07:30,147 --> 00:07:32,534
+for this sprint and put
+it into that Sprint plan,
+
+191
+00:07:32,534 --> 00:07:34,502
+that Team plan, or that Release plan,
+
+192
+00:07:34,502 --> 00:07:37,263
+we are going to move on
+into the Progress theme.
+

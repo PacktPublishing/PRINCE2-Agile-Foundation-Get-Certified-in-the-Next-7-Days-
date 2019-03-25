@@ -1,0 +1,1007 @@
+﻿1
+00:00:00,330 --> 00:00:02,350
+- In the last lesson we talked about
+
+2
+00:00:02,350 --> 00:00:04,500
+the six performance variables.
+
+3
+00:00:04,500 --> 00:00:09,500
+Time, cost, risk, benefit,
+scope and quality.
+
+4
+00:00:09,950 --> 00:00:12,710
+Now, you may be wondering we we're able to
+
+5
+00:00:12,710 --> 00:00:14,920
+flex some and fix some.
+
+6
+00:00:14,920 --> 00:00:17,410
+And it really comes
+down to the five targets
+
+7
+00:00:17,410 --> 00:00:19,440
+which represent the reasoning why
+
+8
+00:00:19,440 --> 00:00:22,490
+we have these six areas
+and why we're going to
+
+9
+00:00:22,490 --> 00:00:24,590
+find or fix certain ones.
+
+10
+00:00:24,590 --> 00:00:27,360
+These five targets all come down to
+
+11
+00:00:27,360 --> 00:00:28,660
+being on time and hitting deadlines,
+
+12
+00:00:28,660 --> 00:00:30,480
+protecting the level of quality,
+
+13
+00:00:30,480 --> 00:00:33,570
+embracing change, keeping your team stable
+
+14
+00:00:33,570 --> 00:00:36,710
+and accepting that the customer
+doesn't need everything.
+
+15
+00:00:36,710 --> 00:00:39,110
+We're going to talk about
+each of those in this lesson.
+
+16
+00:00:39,110 --> 00:00:42,610
+The first one is being on time
+and hitting your deadlines.
+
+17
+00:00:42,610 --> 00:00:44,990
+We talked about the
+fact that time was fixed
+
+18
+00:00:44,990 --> 00:00:46,430
+in an Agile project.
+
+19
+00:00:46,430 --> 00:00:48,870
+The reason is, we need to
+get a product out there
+
+20
+00:00:48,870 --> 00:00:51,570
+to get that early realization of benefits.
+
+21
+00:00:51,570 --> 00:00:53,760
+This is going to help us
+with further planning,
+
+22
+00:00:53,760 --> 00:00:56,340
+giving us confidence that
+we can deliver things
+
+23
+00:00:56,340 --> 00:00:58,630
+and sometimes we just have no choice
+
+24
+00:00:58,630 --> 00:01:00,660
+but to deliver on time.
+
+25
+00:01:00,660 --> 00:01:03,090
+By doing all of this and
+hitting our deadlines
+
+26
+00:01:03,090 --> 00:01:05,210
+it really does reduce our likelihood
+
+27
+00:01:05,210 --> 00:01:07,860
+of having cost over runs,
+and it's going to help us
+
+28
+00:01:07,860 --> 00:01:09,850
+to improve our reputation.
+
+29
+00:01:09,850 --> 00:01:11,540
+Because if we hit our deadlines
+
+30
+00:01:11,540 --> 00:01:13,230
+the customer starts realizing
+
+31
+00:01:13,230 --> 00:01:14,900
+that when you say you're
+going to get something
+
+32
+00:01:14,900 --> 00:01:17,260
+out on time, they can
+take that to the bank.
+
+33
+00:01:17,260 --> 00:01:19,130
+They know you're going to deliver.
+
+34
+00:01:19,130 --> 00:01:20,900
+Now, you many not deliver with everything
+
+35
+00:01:20,900 --> 00:01:23,500
+they wanted, but you're
+going to give them something.
+
+36
+00:01:23,500 --> 00:01:24,860
+And that's the key here.
+
+37
+00:01:24,860 --> 00:01:26,390
+We want to build this trust between
+
+38
+00:01:26,390 --> 00:01:28,580
+the customer and the
+supplier relationship,
+
+39
+00:01:28,580 --> 00:01:30,550
+and being on time and
+hitting those deadlines
+
+40
+00:01:30,550 --> 00:01:32,350
+is critical to that.
+
+41
+00:01:32,350 --> 00:01:35,114
+The next one we have when
+we talk about the five
+
+42
+00:01:35,114 --> 00:01:36,390
+targets is embracing change.
+
+43
+00:01:36,390 --> 00:01:38,450
+Because change is inevitable.
+
+44
+00:01:38,450 --> 00:01:40,840
+You're going to hit
+roadblocks inside your project
+
+45
+00:01:40,840 --> 00:01:42,440
+and you're going to
+have to move around them
+
+46
+00:01:42,440 --> 00:01:44,850
+and change things up to get to something
+
+47
+00:01:44,850 --> 00:01:46,150
+that's deliverable.
+
+48
+00:01:46,150 --> 00:01:48,510
+The more accurate your final product is,
+
+49
+00:01:48,510 --> 00:01:51,060
+is going to be based on how much change
+
+50
+00:01:51,060 --> 00:01:53,500
+and how quickly you can
+adapt to that change
+
+51
+00:01:53,500 --> 00:01:55,530
+based on what your seeing.
+
+52
+00:01:55,530 --> 00:01:58,260
+In Agile we are very, very focused
+
+53
+00:01:58,260 --> 00:01:59,770
+on embracing change.
+
+54
+00:01:59,770 --> 00:02:01,600
+Because we know that we have the ability
+
+55
+00:02:01,600 --> 00:02:04,240
+to flex with intolerances, to get to what
+
+56
+00:02:04,240 --> 00:02:05,810
+needs to be delivered.
+
+57
+00:02:05,810 --> 00:02:07,560
+A lot of times you'll have a customer
+
+58
+00:02:07,560 --> 00:02:09,840
+who asks for something,
+and they don't really
+
+59
+00:02:09,840 --> 00:02:11,580
+define the requirement well.
+
+60
+00:02:11,580 --> 00:02:12,830
+And so when you start building it
+
+61
+00:02:12,830 --> 00:02:15,270
+you realize, you know they asked for X
+
+62
+00:02:15,270 --> 00:02:17,100
+but they really need Y.
+
+63
+00:02:17,100 --> 00:02:19,040
+By embracing change you have the ability
+
+64
+00:02:19,040 --> 00:02:20,840
+to flex what is being delivered
+
+65
+00:02:20,840 --> 00:02:23,640
+and deliver Y instead
+of X and the customer
+
+66
+00:02:23,640 --> 00:02:26,050
+will usually be happier for it.
+
+67
+00:02:26,050 --> 00:02:27,680
+The third target we're going to talk about
+
+68
+00:02:27,680 --> 00:02:30,240
+is protecting the level of quality.
+
+69
+00:02:30,240 --> 00:02:31,980
+This is important because it ensures
+
+70
+00:02:31,980 --> 00:02:33,300
+that you have the appropriate level
+
+71
+00:02:33,300 --> 00:02:34,943
+of quality being achieved in order
+
+72
+00:02:34,943 --> 00:02:37,780
+for you to get the desired
+outcomes and benefits
+
+73
+00:02:37,780 --> 00:02:39,330
+that you were expecting.
+
+74
+00:02:39,330 --> 00:02:41,880
+A lot of times poor quality can happen
+
+75
+00:02:41,880 --> 00:02:44,110
+if you start reducing your testing cycle,
+
+76
+00:02:44,110 --> 00:02:46,790
+if you don't bother to
+do any documentation,
+
+77
+00:02:46,790 --> 00:02:49,250
+if you create a sub optimal design.
+
+78
+00:02:49,250 --> 00:02:50,970
+Sometimes it happens because you don't
+
+79
+00:02:50,970 --> 00:02:52,530
+give good training to your end user
+
+80
+00:02:52,530 --> 00:02:53,950
+and they don't understand how to use
+
+81
+00:02:53,950 --> 00:02:55,370
+the product you delivered.
+
+82
+00:02:55,370 --> 00:02:57,330
+And sometimes you just decide
+
+83
+00:02:57,330 --> 00:02:59,100
+you're not going to
+comply with any standards
+
+84
+00:02:59,100 --> 00:03:00,960
+in the marketplace and
+you design something
+
+85
+00:03:00,960 --> 00:03:01,793
+on your own.
+
+86
+00:03:01,793 --> 00:03:03,070
+And when you don't comply with standards
+
+87
+00:03:03,070 --> 00:03:05,850
+that's going to decrease your
+level of quality as well.
+
+88
+00:03:05,850 --> 00:03:07,890
+Now, to protect the level of quality
+
+89
+00:03:07,890 --> 00:03:11,010
+that's where this fix and flex comes in.
+
+90
+00:03:11,010 --> 00:03:13,770
+Again, we're going to fix those required
+
+91
+00:03:13,770 --> 00:03:15,730
+and essential items but we're going
+
+92
+00:03:15,730 --> 00:03:19,160
+to flex the requirements
+for those that are desired.
+
+93
+00:03:19,160 --> 00:03:21,000
+And the reason is that by flexing
+
+94
+00:03:21,000 --> 00:03:23,640
+on the desired things we can free up
+
+95
+00:03:23,640 --> 00:03:25,700
+more time and resources to focus
+
+96
+00:03:25,700 --> 00:03:28,060
+on those required or essential things,
+
+97
+00:03:28,060 --> 00:03:29,460
+improving the quality there which is
+
+98
+00:03:29,460 --> 00:03:33,180
+going to have more impact
+to our final project.
+
+99
+00:03:33,180 --> 00:03:34,810
+Our fourth target that
+we're going to look at
+
+100
+00:03:34,810 --> 00:03:37,340
+is keeping our teams stable.
+
+101
+00:03:37,340 --> 00:03:40,370
+Agile uses this concept
+of self organizing teams
+
+102
+00:03:40,370 --> 00:03:42,080
+and informal communication.
+
+103
+00:03:42,080 --> 00:03:44,830
+And because of that you
+have to have this team
+
+104
+00:03:44,830 --> 00:03:46,280
+trust that gets built.
+
+105
+00:03:46,280 --> 00:03:48,130
+There's this norming and forming stage
+
+106
+00:03:48,130 --> 00:03:49,650
+that happens and eventually the team
+
+107
+00:03:49,650 --> 00:03:51,490
+starts working together well.
+
+108
+00:03:51,490 --> 00:03:53,420
+Well if you start getting
+behind on a project
+
+109
+00:03:53,420 --> 00:03:54,870
+and you go, you know
+what, let's just throw in
+
+110
+00:03:54,870 --> 00:03:56,830
+another person into that team,
+
+111
+00:03:56,830 --> 00:03:58,350
+that'll give us additional people,
+
+112
+00:03:58,350 --> 00:04:00,260
+we can get more work done, it usually
+
+113
+00:04:00,260 --> 00:04:02,300
+will actually have a detrimental effect.
+
+114
+00:04:02,300 --> 00:04:04,260
+Because when we bring in a new team member
+
+115
+00:04:04,260 --> 00:04:06,210
+we have to spend time
+getting them up to speed
+
+116
+00:04:06,210 --> 00:04:07,440
+of where we are.
+
+117
+00:04:07,440 --> 00:04:09,170
+We also have to start
+increasing the number
+
+118
+00:04:09,170 --> 00:04:10,430
+of communication lines.
+
+119
+00:04:10,430 --> 00:04:12,470
+So now instead of having
+fie people to communicate
+
+120
+00:04:12,470 --> 00:04:14,700
+on our team, we have six or seven.
+
+121
+00:04:14,700 --> 00:04:17,420
+And that takes more time
+and as we start growing
+
+122
+00:04:17,420 --> 00:04:19,280
+that becomes harder to deal with.
+
+123
+00:04:19,280 --> 00:04:21,090
+Teams should be kept small as they work
+
+124
+00:04:21,090 --> 00:04:22,350
+on a project.
+
+125
+00:04:22,350 --> 00:04:24,520
+There's opportunity
+costs that also incurred
+
+126
+00:04:24,520 --> 00:04:26,960
+because if I start looking at Jason's team
+
+127
+00:04:26,960 --> 00:04:28,650
+over here is behind schedule and we're
+
+128
+00:04:28,650 --> 00:04:30,400
+going to take somebody from Ally's team
+
+129
+00:04:30,400 --> 00:04:32,920
+and bring them over, well now Ally's team
+
+130
+00:04:32,920 --> 00:04:34,270
+is one person down.
+
+131
+00:04:34,270 --> 00:04:36,230
+And there's opportunity
+cost that's incurred
+
+132
+00:04:36,230 --> 00:04:38,215
+by taking that person
+away from Ally's team
+
+133
+00:04:38,215 --> 00:04:39,730
+because they're not able to do what
+
+134
+00:04:39,730 --> 00:04:41,070
+they need to do now.
+
+135
+00:04:41,070 --> 00:04:42,900
+And the other thing is,
+when I bring in new people
+
+136
+00:04:42,900 --> 00:04:44,590
+the team dynamics change.
+
+137
+00:04:44,590 --> 00:04:46,710
+And when you change those team dynamics
+
+138
+00:04:46,710 --> 00:04:48,450
+everything has to be re-established
+
+139
+00:04:48,450 --> 00:04:50,500
+because there may be
+trust with the five people
+
+140
+00:04:50,500 --> 00:04:52,090
+on the current team, but when you bring in
+
+141
+00:04:52,090 --> 00:04:54,410
+person number six,
+nobody knows that person.
+
+142
+00:04:54,410 --> 00:04:56,480
+Nobody trusts them, they're still feeling
+
+143
+00:04:56,480 --> 00:04:57,650
+them out and figuring out if they
+
+144
+00:04:57,650 --> 00:04:59,610
+can trust that person
+and if they understand
+
+145
+00:04:59,610 --> 00:05:01,050
+and respect their opinion.
+
+146
+00:05:01,050 --> 00:05:02,940
+So, what we look at with Agile,
+
+147
+00:05:02,940 --> 00:05:04,830
+is keeping your team stable.
+
+148
+00:05:04,830 --> 00:05:06,510
+On the exam, if you get asked a question
+
+149
+00:05:06,510 --> 00:05:08,250
+about this, the appropriate time
+
+150
+00:05:08,250 --> 00:05:10,320
+to add or remove people from the team
+
+151
+00:05:10,320 --> 00:05:12,210
+is at the end of a sprint.
+
+152
+00:05:12,210 --> 00:05:14,390
+Get through your entire month long sprint
+
+153
+00:05:14,390 --> 00:05:16,040
+and then you can change out the teams
+
+154
+00:05:16,040 --> 00:05:17,170
+and start again.
+
+155
+00:05:17,170 --> 00:05:18,180
+That's okay.
+
+156
+00:05:18,180 --> 00:05:19,192
+But if you're behind schedule
+
+157
+00:05:19,192 --> 00:05:21,050
+the idea that you can throw more
+
+158
+00:05:21,050 --> 00:05:23,280
+people at the problem is
+not going to save you,
+
+159
+00:05:23,280 --> 00:05:25,210
+it's going to actually
+cause you more problems
+
+160
+00:05:25,210 --> 00:05:27,010
+and get you further behind.
+
+161
+00:05:27,010 --> 00:05:28,440
+Now the final target we have is
+
+162
+00:05:28,440 --> 00:05:31,500
+accepting the fact that the customer
+
+163
+00:05:31,500 --> 00:05:33,310
+doesn't need everything.
+
+164
+00:05:33,310 --> 00:05:34,980
+This is a really true statement
+
+165
+00:05:34,980 --> 00:05:36,350
+because customers will tell you
+
+166
+00:05:36,350 --> 00:05:37,910
+all of the things that they need
+
+167
+00:05:37,910 --> 00:05:39,950
+and if you're asking them about a car
+
+168
+00:05:39,950 --> 00:05:41,240
+they want you to build and you start
+
+169
+00:05:41,240 --> 00:05:42,480
+getting all the requirements you may
+
+170
+00:05:42,480 --> 00:05:43,660
+get some silly things in there,
+
+171
+00:05:43,660 --> 00:05:45,320
+like I want a car that can fly,
+
+172
+00:05:45,320 --> 00:05:47,260
+I want a car that can drive itself,
+
+173
+00:05:47,260 --> 00:05:50,140
+I want a car that can
+go zero to 3,000 miles
+
+174
+00:05:50,140 --> 00:05:51,700
+on one tank of fuel.
+
+175
+00:05:51,700 --> 00:05:53,270
+Those are all great things and hopefully
+
+176
+00:05:53,270 --> 00:05:54,613
+we can get there one day but today
+
+177
+00:05:54,613 --> 00:05:57,250
+the technology doesn't
+exist for all of those.
+
+178
+00:05:57,250 --> 00:05:59,490
+And so you have to start prioritizing
+
+179
+00:05:59,490 --> 00:06:01,130
+the features of the product that are
+
+180
+00:06:01,130 --> 00:06:03,270
+the safest and most sensible area
+
+181
+00:06:03,270 --> 00:06:04,870
+that you want to be able to get done
+
+182
+00:06:04,870 --> 00:06:06,907
+and then the things that
+you can compromise on,
+
+183
+00:06:06,907 --> 00:06:08,970
+you want to compromise on.
+
+184
+00:06:08,970 --> 00:06:10,600
+You want to realize that not everything
+
+185
+00:06:10,600 --> 00:06:12,600
+defined at the start of the project
+
+186
+00:06:12,600 --> 00:06:14,730
+has to be delivered as a final output.
+
+187
+00:06:14,730 --> 00:06:16,851
+And this is very different
+then our traditional
+
+188
+00:06:16,851 --> 00:06:18,510
+waterfall development.
+
+189
+00:06:18,510 --> 00:06:20,600
+In Agile we understand that we may have
+
+190
+00:06:20,600 --> 00:06:22,150
+100 requirements and we're only going to
+
+191
+00:06:22,150 --> 00:06:23,650
+deliver 10 of those.
+
+192
+00:06:23,650 --> 00:06:25,100
+Many of the functions and features
+
+193
+00:06:25,100 --> 00:06:28,110
+are never even used in the final product.
+
+194
+00:06:28,110 --> 00:06:30,120
+And so it's okay to remove those.
+
+195
+00:06:30,120 --> 00:06:31,930
+Let's think about Microsoft PowerPoint
+
+196
+00:06:31,930 --> 00:06:33,330
+or Microsoft Word.
+
+197
+00:06:33,330 --> 00:06:35,170
+How many functions do you actually use
+
+198
+00:06:35,170 --> 00:06:36,600
+in one of those programs.
+
+199
+00:06:36,600 --> 00:06:39,300
+Most people probably use about 10 or 15.
+
+200
+00:06:39,300 --> 00:06:40,760
+You might use some things like
+
+201
+00:06:40,760 --> 00:06:43,280
+changing the font color or the font size
+
+202
+00:06:43,280 --> 00:06:45,820
+or centering it versus left justifying it.
+
+203
+00:06:45,820 --> 00:06:47,570
+But those programs have thousands
+
+204
+00:06:47,570 --> 00:06:48,650
+of different features.
+
+205
+00:06:48,650 --> 00:06:50,160
+And if I took away half of the features
+
+206
+00:06:50,160 --> 00:06:51,430
+in that program, you probably wouldn't
+
+207
+00:06:51,430 --> 00:06:53,010
+even know as a customer.
+
+208
+00:06:53,010 --> 00:06:55,520
+And so removing features can help you
+
+209
+00:06:55,520 --> 00:06:56,930
+to meet the deadlines you need
+
+210
+00:06:56,930 --> 00:06:58,530
+and protect the level of quality
+
+211
+00:06:58,530 --> 00:06:59,880
+for those essential items.
+
+212
+00:06:59,880 --> 00:07:01,540
+So again going back to my Microsoft Word
+
+213
+00:07:01,540 --> 00:07:03,773
+example, things like changing font sizes
+
+214
+00:07:03,773 --> 00:07:06,080
+and changing font colors and be able to
+
+215
+00:07:06,080 --> 00:07:07,410
+left justify or center.
+
+216
+00:07:07,410 --> 00:07:09,660
+Those are essential things
+that people use everyday,
+
+217
+00:07:09,660 --> 00:07:11,520
+we want to make sure those are protected.
+
+218
+00:07:11,520 --> 00:07:13,690
+But if there's something
+like the mail merge function
+
+219
+00:07:13,690 --> 00:07:16,300
+that maybe one out of 1,000
+customers are going to use,
+
+220
+00:07:16,300 --> 00:07:18,410
+we can sacrifice on the
+level of quality there
+
+221
+00:07:18,410 --> 00:07:19,650
+if needed.
+
+222
+00:07:19,650 --> 00:07:21,010
+And we also want to make sure
+
+223
+00:07:21,010 --> 00:07:22,850
+that we're delivering what the customer
+
+224
+00:07:22,850 --> 00:07:25,670
+really wants and what
+they really need quickly.
+
+225
+00:07:25,670 --> 00:07:27,590
+And by removing all
+these additional features
+
+226
+00:07:27,590 --> 00:07:30,050
+that may take us months or years to get to
+
+227
+00:07:30,050 --> 00:07:31,690
+we can give them a product today
+
+228
+00:07:31,690 --> 00:07:34,260
+that does 90% of everything they need
+
+229
+00:07:34,260 --> 00:07:35,740
+which is going to make them happier
+
+230
+00:07:35,740 --> 00:07:37,530
+to have something in
+their hand they can use
+
+231
+00:07:37,530 --> 00:07:38,860
+as opposed to something on the shelf
+
+232
+00:07:38,860 --> 00:07:40,560
+that you're still developing.
+
+233
+00:07:40,560 --> 00:07:42,040
+Now when we look at all of this
+
+234
+00:07:42,040 --> 00:07:44,590
+these are those five targets and
+
+235
+00:07:44,590 --> 00:07:47,720
+these are the reasoning of why we fix
+
+236
+00:07:47,720 --> 00:07:50,120
+and why we flex on different requirements
+
+237
+00:07:50,120 --> 00:07:51,793
+inside Agile development.
+

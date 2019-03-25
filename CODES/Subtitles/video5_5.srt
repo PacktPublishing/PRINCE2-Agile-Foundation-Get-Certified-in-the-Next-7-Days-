@@ -1,0 +1,1462 @@
+﻿1
+00:00:00,320 --> 00:00:03,030
+- The next theme we're
+going to discuss is quality.
+
+2
+00:00:03,030 --> 00:00:05,350
+Now, quality is focused on protecting
+
+3
+00:00:05,350 --> 00:00:07,640
+the 'fit for purpose' of the products.
+
+4
+00:00:07,640 --> 00:00:10,010
+Will they be able to do
+what they're intended to do
+
+5
+00:00:10,010 --> 00:00:11,180
+once they're delivered?
+
+6
+00:00:11,180 --> 00:00:13,850
+We do this by prioritizing
+acceptance criteria
+
+7
+00:00:13,850 --> 00:00:16,920
+and quality criteria, because
+as we've talked about before,
+
+8
+00:00:16,920 --> 00:00:19,250
+the customer doesn't get
+everything they want,
+
+9
+00:00:19,250 --> 00:00:20,980
+but they will get everything they need,
+
+10
+00:00:20,980 --> 00:00:22,430
+and by doing that prioritization,
+
+11
+00:00:22,430 --> 00:00:24,680
+that's going to help
+us protect the quality.
+
+12
+00:00:24,680 --> 00:00:27,450
+We also do this by defining
+quality tolerances.
+
+13
+00:00:27,450 --> 00:00:30,720
+What is within bounds and
+what is outside of the bounds?
+
+14
+00:00:30,720 --> 00:00:32,000
+And if we can keep everything in
+
+15
+00:00:32,000 --> 00:00:33,590
+within a certain quality band,
+
+16
+00:00:33,590 --> 00:00:35,560
+then we're going to get
+the quality we desire.
+
+17
+00:00:35,560 --> 00:00:37,480
+Also, we want to define the difference
+
+18
+00:00:37,480 --> 00:00:40,480
+between functional and
+non-functional requirements.
+
+19
+00:00:40,480 --> 00:00:42,080
+What is something that is required
+
+20
+00:00:42,080 --> 00:00:44,070
+as part of this minimum viable product,
+
+21
+00:00:44,070 --> 00:00:46,810
+or something that is required
+to get the benefit we need
+
+22
+00:00:46,810 --> 00:00:48,730
+versus something that's a nice-to-have?
+
+23
+00:00:48,730 --> 00:00:51,468
+That's the difference between
+function and non-functional.
+
+24
+00:00:51,468 --> 00:00:53,490
+As we look at the Agile concepts,
+
+25
+00:00:53,490 --> 00:00:56,520
+we have to help clarify quality criteria.
+
+26
+00:00:56,520 --> 00:00:59,350
+There are two main Agile
+concepts that refer to this,
+
+27
+00:00:59,350 --> 00:01:01,950
+the concepts of ready and done.
+
+28
+00:01:01,950 --> 00:01:04,780
+Ready means that our product
+is ready to be worked on.
+
+29
+00:01:04,780 --> 00:01:07,060
+We've appropriately
+defined the requirement,
+
+30
+00:01:07,060 --> 00:01:09,460
+we understand what the
+quality requirements are
+
+31
+00:01:09,460 --> 00:01:10,740
+and what the tolerances are,
+
+32
+00:01:10,740 --> 00:01:13,730
+and now we can start building
+towards that ready state.
+
+33
+00:01:13,730 --> 00:01:16,260
+Now, once we build and we
+meet those requirements,
+
+34
+00:01:16,260 --> 00:01:18,430
+we place it into the done category,
+
+35
+00:01:18,430 --> 00:01:20,010
+and when it's done, it means it's ready
+
+36
+00:01:20,010 --> 00:01:21,310
+for delivery to the customer,
+
+37
+00:01:21,310 --> 00:01:24,020
+because we've met the quality
+requirements we've been given.
+
+38
+00:01:24,020 --> 00:01:25,660
+Another area that we have to consider
+
+39
+00:01:25,660 --> 00:01:29,150
+when tailoring our quality theme
+is quality checks themself.
+
+40
+00:01:29,150 --> 00:01:30,890
+How often are we going to do them?
+
+41
+00:01:30,890 --> 00:01:34,140
+Are we going to do them every
+hour, every day, every week?
+
+42
+00:01:34,140 --> 00:01:37,260
+Every month, or just at
+delivery of the product?
+
+43
+00:01:37,260 --> 00:01:39,140
+Well, in a traditional
+PRINCE2 environment,
+
+44
+00:01:39,140 --> 00:01:41,900
+we tend to do it closer
+to the end of a stage,
+
+45
+00:01:41,900 --> 00:01:44,620
+but in Agile, we want to
+do it more frequently.
+
+46
+00:01:44,620 --> 00:01:46,940
+The problem, though, is if
+we do it too frequently,
+
+47
+00:01:46,940 --> 00:01:49,180
+we can actually impact
+our product's schedule
+
+48
+00:01:49,180 --> 00:01:51,740
+and our runtimes, and so this
+can become an issue as well,
+
+49
+00:01:51,740 --> 00:01:53,130
+and so we have to balance that
+
+50
+00:01:53,130 --> 00:01:55,110
+as we're developing our quality criteria
+
+51
+00:01:55,110 --> 00:01:58,160
+and figuring out how often we're
+going to do quality checks.
+
+52
+00:01:58,160 --> 00:02:00,140
+Now, one of the biggest differences
+
+53
+00:02:00,140 --> 00:02:02,400
+between PRINCE2 and PRINCE2 Agile
+
+54
+00:02:02,400 --> 00:02:06,150
+is the idea of quality
+in relation to scope.
+
+55
+00:02:06,150 --> 00:02:07,590
+When we looked at those variables
+
+56
+00:02:07,590 --> 00:02:09,760
+back in our six performance factors,
+
+57
+00:02:09,760 --> 00:02:13,190
+under PRINCE2, quality
+and scope were fixed.
+
+58
+00:02:13,190 --> 00:02:14,310
+You couldn't change the scope,
+
+59
+00:02:14,310 --> 00:02:16,290
+and you couldn't change the quality,
+
+60
+00:02:16,290 --> 00:02:18,930
+but in Agile, those are both flexible.
+
+61
+00:02:18,930 --> 00:02:21,560
+We can change scope and
+we can change quality.
+
+62
+00:02:21,560 --> 00:02:24,420
+Now, we have to remember
+that under PRINCE2 Agile,
+
+63
+00:02:24,420 --> 00:02:28,680
+a reduction in scope is not
+seen as a reduction in quality.
+
+64
+00:02:28,680 --> 00:02:31,590
+Instead, scope is defined
+by the products themself
+
+65
+00:02:31,590 --> 00:02:34,670
+where quality is defined
+by the quality criteria.
+
+66
+00:02:34,670 --> 00:02:37,126
+Customer quality expectations
+and acceptance criteria
+
+67
+00:02:37,126 --> 00:02:40,340
+have to be set properly
+early in the project,
+
+68
+00:02:40,340 --> 00:02:42,300
+and that's the level that we have to meet.
+
+69
+00:02:42,300 --> 00:02:45,330
+Now, we sometimes will
+deliver above that level,
+
+70
+00:02:45,330 --> 00:02:47,900
+but we're not allowed to
+deliver below that level.
+
+71
+00:02:47,900 --> 00:02:50,730
+Instead, we will descope
+so we can maintain
+
+72
+00:02:50,730 --> 00:02:52,910
+the level of quality of what is delivered.
+
+73
+00:02:52,910 --> 00:02:54,800
+What does this really
+mean in the real world?
+
+74
+00:02:54,800 --> 00:02:57,360
+Well, let's say I'm going to
+deliver a software application
+
+75
+00:02:57,360 --> 00:02:59,860
+to you, and you've requested
+100 different things
+
+76
+00:02:59,860 --> 00:03:02,050
+go into this application,
+and we've defined
+
+77
+00:03:02,050 --> 00:03:05,710
+that 60 of those are
+required, have-to-have things.
+
+78
+00:03:05,710 --> 00:03:06,543
+Would it be better for me
+
+79
+00:03:06,543 --> 00:03:09,000
+to give you those 60 things perfect,
+
+80
+00:03:09,000 --> 00:03:12,030
+or give you 80 things
+that don't work very well?
+
+81
+00:03:12,030 --> 00:03:14,630
+Obviously, you'd rather have
+the 60 things working perfectly
+
+82
+00:03:14,630 --> 00:03:16,970
+and those other 40 things
+that I couldn't get to,
+
+83
+00:03:16,970 --> 00:03:18,510
+we'll get to those in the next spin,
+
+84
+00:03:18,510 --> 00:03:20,850
+or the next cycle, or the next sprint.
+
+85
+00:03:20,850 --> 00:03:21,990
+That's the way we want to do this.
+
+86
+00:03:21,990 --> 00:03:24,540
+We will descope the
+amount we're going to do
+
+87
+00:03:24,540 --> 00:03:27,510
+to make sure the must-haves
+are done properly
+
+88
+00:03:27,510 --> 00:03:29,830
+and within our quality criteria.
+
+89
+00:03:29,830 --> 00:03:31,820
+Now as we look at Agile, we want to think
+
+90
+00:03:31,820 --> 00:03:33,740
+about the fact that
+there's not going to be
+
+91
+00:03:33,740 --> 00:03:36,080
+a lot of emphasis placed
+on quality planning
+
+92
+00:03:36,080 --> 00:03:38,710
+or quality management at
+the start of a project.
+
+93
+00:03:38,710 --> 00:03:41,030
+And this is very different than PRINCE2
+
+94
+00:03:41,030 --> 00:03:43,340
+because in PRINCE2,
+we're all about ensuring
+
+95
+00:03:43,340 --> 00:03:45,560
+that our quality is going to be fixed
+
+96
+00:03:45,560 --> 00:03:47,660
+and set up properly from the beginning.
+
+97
+00:03:47,660 --> 00:03:50,780
+Instead in Agile, quality
+is more of a moving target,
+
+98
+00:03:50,780 --> 00:03:52,280
+and it's something that can be negotiated
+
+99
+00:03:52,280 --> 00:03:53,810
+with your customers.
+
+100
+00:03:53,810 --> 00:03:55,600
+There are lots of different techniques
+
+101
+00:03:55,600 --> 00:03:57,610
+that are going to be
+there to help you define
+
+102
+00:03:57,610 --> 00:04:00,620
+what 'done' is and what
+the acceptance criteria is
+
+103
+00:04:00,620 --> 00:04:02,980
+based on working with your customer.
+
+104
+00:04:02,980 --> 00:04:05,260
+We're always going to have
+this evolving definition
+
+105
+00:04:05,260 --> 00:04:09,390
+of 'done' because we don't set
+'done' back in the first step
+
+106
+00:04:09,390 --> 00:04:10,660
+or in sprint zero.
+
+107
+00:04:10,660 --> 00:04:14,070
+Instead, 'done' continually
+gets evolved in change
+
+108
+00:04:14,070 --> 00:04:16,080
+in negotiations with your customer.
+
+109
+00:04:16,080 --> 00:04:17,980
+Again, this kind of goes
+back to the whole idea
+
+110
+00:04:17,980 --> 00:04:20,610
+of if I have a project that
+'done' would be 100 pieces
+
+111
+00:04:20,610 --> 00:04:23,670
+of function in a software and
+I'm only going to deliver 60,
+
+112
+00:04:23,670 --> 00:04:25,230
+if your customers agree to that,
+
+113
+00:04:25,230 --> 00:04:27,220
+then that is what 'done' will be.
+
+114
+00:04:27,220 --> 00:04:29,510
+Another Agile concept
+that's really important
+
+115
+00:04:29,510 --> 00:04:32,130
+for us in quality is
+the idea of 'Test first'
+
+116
+00:04:32,130 --> 00:04:33,620
+or 'Test as you go'.
+
+117
+00:04:33,620 --> 00:04:36,670
+In traditional PRINCE2 and
+Waterfall methodologies,
+
+118
+00:04:36,670 --> 00:04:39,110
+we wait until the end and
+the product has been built,
+
+119
+00:04:39,110 --> 00:04:42,130
+and then we test it before we
+release it to our customer.
+
+120
+00:04:42,130 --> 00:04:44,740
+But in Agile, the
+developers should constantly
+
+121
+00:04:44,740 --> 00:04:46,330
+be testing it as they go.
+
+122
+00:04:46,330 --> 00:04:48,530
+They should be prototyping,
+building things,
+
+123
+00:04:48,530 --> 00:04:50,190
+seeing if they work, and if they do,
+
+124
+00:04:50,190 --> 00:04:51,770
+move onto the next step.
+
+125
+00:04:51,770 --> 00:04:54,880
+Instead of building everything
+that takes 500 steps to do
+
+126
+00:04:54,880 --> 00:04:57,030
+and then find out at that 500th step
+
+127
+00:04:57,030 --> 00:04:58,950
+something back in step three was broken,
+
+128
+00:04:58,950 --> 00:05:01,410
+and now you've got to
+rework all of that stuff.
+
+129
+00:05:01,410 --> 00:05:02,670
+That's the idea here in Agile.
+
+130
+00:05:02,670 --> 00:05:04,500
+We want to test frequently and often
+
+131
+00:05:04,500 --> 00:05:07,430
+so we can catch errors early
+and improve our quality.
+
+132
+00:05:07,430 --> 00:05:10,240
+So as we try to summarize
+all of this guidance
+
+133
+00:05:10,240 --> 00:05:13,100
+around quality inside of
+Agile, I want you to remember
+
+134
+00:05:13,100 --> 00:05:15,590
+that product descriptions are flexible.
+
+135
+00:05:15,590 --> 00:05:17,870
+These user stories are
+a great example of this.
+
+136
+00:05:17,870 --> 00:05:20,870
+It says, as a user, I want to do this
+
+137
+00:05:20,870 --> 00:05:22,930
+so that I can get this.
+
+138
+00:05:22,930 --> 00:05:25,580
+And by doing that, it gives
+us a lot of wiggle room
+
+139
+00:05:25,580 --> 00:05:27,630
+in what we're actually going to deliver.
+
+140
+00:05:27,630 --> 00:05:30,667
+For example, if you said, "As a student,
+
+141
+00:05:30,667 --> 00:05:34,120
+"I want an alarm clock that
+wakes me up every day."
+
+142
+00:05:34,120 --> 00:05:35,480
+That gives me a lot of flexibility
+
+143
+00:05:35,480 --> 00:05:37,450
+in how I deliver that alarm clock to you.
+
+144
+00:05:37,450 --> 00:05:39,550
+Is it a traditional
+mechanical alarm clock?
+
+145
+00:05:39,550 --> 00:05:41,060
+Is it going to be a digital alarm clock?
+
+146
+00:05:41,060 --> 00:05:42,630
+Is it an app on your phone?
+
+147
+00:05:42,630 --> 00:05:44,930
+There's lots of ways for me
+to meet that same requirement
+
+148
+00:05:44,930 --> 00:05:48,090
+and keep the quality, giving
+you the function you want.
+
+149
+00:05:48,090 --> 00:05:49,920
+Project product descriptions are always
+
+150
+00:05:49,920 --> 00:05:52,660
+going to be used to define an outcome,
+
+151
+00:05:52,660 --> 00:05:55,830
+not to define the way that
+we're going to get there.
+
+152
+00:05:55,830 --> 00:05:59,090
+That's a big difference between
+PRINCE2 and PRINCE2 Agile,
+
+153
+00:05:59,090 --> 00:06:01,060
+because in PRINCE2, we're going to define
+
+154
+00:06:01,060 --> 00:06:02,530
+what that thing looks like.
+
+155
+00:06:02,530 --> 00:06:04,680
+If I give you a product
+description for an alarm clock
+
+156
+00:06:04,680 --> 00:06:06,840
+under normal PRINCE2, we would be looking
+
+157
+00:06:06,840 --> 00:06:08,937
+at something that says, "I
+want a mechanical alarm clock
+
+158
+00:06:08,937 --> 00:06:11,137
+"that's precise to X amount of seconds
+
+159
+00:06:11,137 --> 00:06:14,370
+"and is going to work X amount
+of times before it breaks."
+
+160
+00:06:14,370 --> 00:06:16,610
+Instead in PRINCE2 Agile, I am thinking
+
+161
+00:06:16,610 --> 00:06:19,080
+about what the function
+is, what is the outcome,
+
+162
+00:06:19,080 --> 00:06:21,900
+what is the benefit the
+customer wants to get.
+
+163
+00:06:21,900 --> 00:06:23,640
+Quality management and quality planning
+
+164
+00:06:23,640 --> 00:06:26,000
+is always going to include
+a couple of things though.
+
+165
+00:06:26,000 --> 00:06:28,400
+Whether we're dealing
+with PRINCE2 or Agile,
+
+166
+00:06:28,400 --> 00:06:29,840
+we want to make sure we know the tools
+
+167
+00:06:29,840 --> 00:06:31,380
+and approaches that are going to be used.
+
+168
+00:06:31,380 --> 00:06:33,620
+We want to know what the
+role of the customer is.
+
+169
+00:06:33,620 --> 00:06:35,220
+And what are those essential ingredients
+
+170
+00:06:35,220 --> 00:06:37,540
+that we have to have to
+give product delivery
+
+171
+00:06:37,540 --> 00:06:39,120
+that's acceptable to them?
+
+172
+00:06:39,120 --> 00:06:41,220
+We also want to know how
+we're going to assess
+
+173
+00:06:41,220 --> 00:06:44,030
+and cost out the resources
+that are going into
+
+174
+00:06:44,030 --> 00:06:46,660
+this quality management and
+quality planning standards.
+
+175
+00:06:46,660 --> 00:06:47,960
+And finally, we have to know what
+
+176
+00:06:47,960 --> 00:06:50,460
+our quality control considerations are.
+
+177
+00:06:50,460 --> 00:06:52,710
+By knowing all of those
+things, we can develop
+
+178
+00:06:52,710 --> 00:06:54,830
+a good quality management plan.
+
+179
+00:06:54,830 --> 00:06:57,410
+Now again, in PRINCE2, we would do this
+
+180
+00:06:57,410 --> 00:06:59,250
+back in our initiating a product stage
+
+181
+00:06:59,250 --> 00:07:02,360
+and put it into our product
+initiation documentation.
+
+182
+00:07:02,360 --> 00:07:04,300
+Under PRINCE2 Agile,
+we're still going to do it
+
+183
+00:07:04,300 --> 00:07:07,330
+at that point, but it will
+not be nearly as detailed
+
+184
+00:07:07,330 --> 00:07:08,840
+because we're a lot more flexible
+
+185
+00:07:08,840 --> 00:07:10,730
+in what quality is going to look like.
+
+186
+00:07:10,730 --> 00:07:12,850
+So, we've talked a lot about quality,
+
+187
+00:07:12,850 --> 00:07:13,980
+but the real question is,
+
+188
+00:07:13,980 --> 00:07:15,900
+how do you test for quality?
+
+189
+00:07:15,900 --> 00:07:18,770
+Well, Agile gives you a lot
+of different ways to test.
+
+190
+00:07:18,770 --> 00:07:20,620
+And remember, Agile
+comes from the software
+
+191
+00:07:20,620 --> 00:07:23,050
+development world primarily,
+so you have to be careful
+
+192
+00:07:23,050 --> 00:07:24,230
+when transferring these concepts
+
+193
+00:07:24,230 --> 00:07:26,440
+from software development
+into other domains
+
+194
+00:07:26,440 --> 00:07:28,130
+to make sure they still are accurate
+
+195
+00:07:28,130 --> 00:07:29,620
+and work well for you.
+
+196
+00:07:29,620 --> 00:07:31,280
+There's lots of different ways of testing.
+
+197
+00:07:31,280 --> 00:07:33,420
+We have things like
+test-driven development,
+
+198
+00:07:33,420 --> 00:07:34,910
+behavior-driven development,
+
+199
+00:07:34,910 --> 00:07:36,920
+the definition of 'done' and 'ready',
+
+200
+00:07:36,920 --> 00:07:39,200
+refactoring, and technical debt.
+
+201
+00:07:39,200 --> 00:07:41,220
+When I talk about test-driven development,
+
+202
+00:07:41,220 --> 00:07:42,750
+what I'm talking about is a concept
+
+203
+00:07:42,750 --> 00:07:44,760
+of writing up tests and quality checks
+
+204
+00:07:44,760 --> 00:07:46,510
+before I build the product.
+
+205
+00:07:46,510 --> 00:07:47,950
+So if I'm going to build an app
+
+206
+00:07:47,950 --> 00:07:49,420
+that's going to be an alarm clock,
+
+207
+00:07:49,420 --> 00:07:52,210
+I would write up what
+the end function would be
+
+208
+00:07:52,210 --> 00:07:53,490
+and give that to my tester.
+
+209
+00:07:53,490 --> 00:07:54,730
+Then we'd build the product,
+
+210
+00:07:54,730 --> 00:07:57,360
+and then we can test it
+against that quality checks.
+
+211
+00:07:57,360 --> 00:07:58,420
+Now if I'm looking at something that is
+
+212
+00:07:58,420 --> 00:08:00,460
+behavior-based development,
+this is going to be
+
+213
+00:08:00,460 --> 00:08:02,960
+more collaborative than a
+test-driven development.
+
+214
+00:08:02,960 --> 00:08:04,870
+Quality checks are written using languages
+
+215
+00:08:04,870 --> 00:08:07,070
+that the customer understands as opposed
+
+216
+00:08:07,070 --> 00:08:09,340
+to something that programmers understand.
+
+217
+00:08:09,340 --> 00:08:11,680
+What does the customer
+really want to achieve?
+
+218
+00:08:11,680 --> 00:08:13,560
+Going back to my alarm clock example,
+
+219
+00:08:13,560 --> 00:08:16,650
+the customer wants to be woken
+up every day at a set time.
+
+220
+00:08:16,650 --> 00:08:19,770
+If the alarm clock does
+that, it meets the standard.
+
+221
+00:08:19,770 --> 00:08:21,570
+Now, under test-driven development,
+
+222
+00:08:21,570 --> 00:08:24,410
+it may have to do that
+within X amount of seconds
+
+223
+00:08:24,410 --> 00:08:26,040
+or within X amount of precision
+
+224
+00:08:26,040 --> 00:08:27,770
+or some other technical terms.
+
+225
+00:08:27,770 --> 00:08:30,010
+Behavior-driven is more
+focused on the outcome
+
+226
+00:08:30,010 --> 00:08:31,800
+and the function, which really works well
+
+227
+00:08:31,800 --> 00:08:33,850
+inside an Agile environment.
+
+228
+00:08:33,850 --> 00:08:35,000
+Now the other thing we have to look at
+
+229
+00:08:35,000 --> 00:08:36,050
+is what is 'done'.
+
+230
+00:08:36,050 --> 00:08:38,210
+When is this product finished?
+
+231
+00:08:38,210 --> 00:08:40,030
+Well, 'done' is the set of criteria
+
+232
+00:08:40,030 --> 00:08:42,150
+that we have set to determine if a work
+
+233
+00:08:42,150 --> 00:08:45,300
+or a collection of work is
+really finished and completed.
+
+234
+00:08:45,300 --> 00:08:48,090
+This is when something is
+either 'done' or 'not done'.
+
+235
+00:08:48,090 --> 00:08:49,710
+Either it meets the quality criteria
+
+236
+00:08:49,710 --> 00:08:51,920
+and is ready for release or it doesn't.
+
+237
+00:08:51,920 --> 00:08:53,083
+That's the idea of 'done'.
+
+238
+00:08:53,083 --> 00:08:56,260
+When we look at 'ready',
+it's is that user story
+
+239
+00:08:56,260 --> 00:08:58,320
+have enough information for us to be able
+
+240
+00:08:58,320 --> 00:09:00,220
+to start work on this project.
+
+241
+00:09:00,220 --> 00:09:01,630
+It's the set of criteria that we use
+
+242
+00:09:01,630 --> 00:09:03,850
+to determine if we're ready to start doing
+
+243
+00:09:03,850 --> 00:09:06,020
+the programming or ready to start building
+
+244
+00:09:06,020 --> 00:09:07,660
+or designing based on it.
+
+245
+00:09:07,660 --> 00:09:09,860
+So this when we take it
+from our product backlog
+
+246
+00:09:09,860 --> 00:09:11,210
+if it's in the 'ready' bucket,
+
+247
+00:09:11,210 --> 00:09:13,370
+we can now pull it and
+start working on it.
+
+248
+00:09:13,370 --> 00:09:15,720
+Now, refactoring is an Agile concept
+
+249
+00:09:15,720 --> 00:09:17,760
+that comes from the
+software development world,
+
+250
+00:09:17,760 --> 00:09:20,320
+and you have to be careful
+in how you apply this one.
+
+251
+00:09:20,320 --> 00:09:22,610
+When we look at this from
+a software perspective,
+
+252
+00:09:22,610 --> 00:09:24,500
+when we look at refactoring,
+it's when you think
+
+253
+00:09:24,500 --> 00:09:27,320
+about inputs going in some black box
+
+254
+00:09:27,320 --> 00:09:28,750
+and some outputs coming out.
+
+255
+00:09:28,750 --> 00:09:30,900
+All the code is inside that black box.
+
+256
+00:09:30,900 --> 00:09:32,690
+Now, with refactoring, we can change
+
+257
+00:09:32,690 --> 00:09:35,070
+what's in the black box
+so that it doesn't change
+
+258
+00:09:35,070 --> 00:09:36,860
+what goes in and what comes out.
+
+259
+00:09:36,860 --> 00:09:38,470
+So if we can change the software
+
+260
+00:09:38,470 --> 00:09:40,860
+in a way that it doesn't
+alter the external behavior
+
+261
+00:09:40,860 --> 00:09:44,080
+of the code yet it's going to
+improve the internal structure,
+
+262
+00:09:44,080 --> 00:09:45,770
+that's what refactoring is.
+
+263
+00:09:45,770 --> 00:09:48,020
+Again, this is commonly used
+in software development.
+
+264
+00:09:48,020 --> 00:09:49,536
+You can apply it to any product,
+
+265
+00:09:49,536 --> 00:09:51,980
+but it is kind of harder
+to think about this
+
+266
+00:09:51,980 --> 00:09:53,280
+in a traditional sense.
+
+267
+00:09:53,280 --> 00:09:55,050
+Like if I'm building an office building,
+
+268
+00:09:55,050 --> 00:09:57,310
+and I start thinking about
+refactoring the plumbing
+
+269
+00:09:57,310 --> 00:09:59,190
+and moving the pipes around, I guess
+
+270
+00:09:59,190 --> 00:10:00,500
+that would work too, right?
+
+271
+00:10:00,500 --> 00:10:02,400
+I care about water
+coming into the building
+
+272
+00:10:02,400 --> 00:10:04,470
+and water going flushing down the toilet,
+
+273
+00:10:04,470 --> 00:10:05,680
+and I don't really care about the pipes
+
+274
+00:10:05,680 --> 00:10:07,250
+that get it from one place to the other.
+
+275
+00:10:07,250 --> 00:10:08,820
+You could refactor the way you design them
+
+276
+00:10:08,820 --> 00:10:10,730
+as long as it still has the same function.
+
+277
+00:10:10,730 --> 00:10:12,260
+I guess that would kind of work.
+
+278
+00:10:12,260 --> 00:10:13,700
+But again, it's kind of a lot easier
+
+279
+00:10:13,700 --> 00:10:16,050
+to think about this in terms of software.
+
+280
+00:10:16,050 --> 00:10:18,360
+And lastly, we have technical debt.
+
+281
+00:10:18,360 --> 00:10:21,190
+Technical debt refers to
+the eventual consequences
+
+282
+00:10:21,190 --> 00:10:23,230
+of your poor system design.
+
+283
+00:10:23,230 --> 00:10:25,510
+A lot of times in Agile,
+we put something together
+
+284
+00:10:25,510 --> 00:10:27,680
+very quickly just to make it work
+
+285
+00:10:27,680 --> 00:10:29,620
+because no one really cares
+what the code looks like
+
+286
+00:10:29,620 --> 00:10:30,860
+when we're dealing with software.
+
+287
+00:10:30,860 --> 00:10:32,860
+They just care if I put X in
+
+288
+00:10:32,860 --> 00:10:35,580
+and I expect Y out, did I get Y.
+
+289
+00:10:35,580 --> 00:10:37,960
+This is going to refer when
+we talk about technical debt
+
+290
+00:10:37,960 --> 00:10:40,240
+to work that should have
+been completed earlier
+
+291
+00:10:40,240 --> 00:10:41,760
+before we moved onto the next step,
+
+292
+00:10:41,760 --> 00:10:43,880
+but for some reason, it hasn't been.
+
+293
+00:10:43,880 --> 00:10:45,870
+Maybe we put in some placeholder code.
+
+294
+00:10:45,870 --> 00:10:47,820
+Maybe we did it in a non-elegant way
+
+295
+00:10:47,820 --> 00:10:50,150
+that takes 10 more steps
+than it needed to be.
+
+296
+00:10:50,150 --> 00:10:52,610
+If we don't address this
+technical debt early on,
+
+297
+00:10:52,610 --> 00:10:54,860
+what ends up happening is
+it kind of builds up on us,
+
+298
+00:10:54,860 --> 00:10:58,180
+and later on down the road,
+we're going to have problems.
+
+299
+00:10:58,180 --> 00:10:59,910
+A great example of this is when people
+
+300
+00:10:59,910 --> 00:11:01,900
+are building some kind of web server
+
+301
+00:11:01,900 --> 00:11:03,620
+or software development
+and they don't think
+
+302
+00:11:03,620 --> 00:11:05,470
+about how it's going to scale up.
+
+303
+00:11:05,470 --> 00:11:07,417
+For example, when I
+first started teaching,
+
+304
+00:11:07,417 --> 00:11:09,600
+I was used to teaching in a classroom
+
+305
+00:11:09,600 --> 00:11:11,860
+where I taught 20 students at a time.
+
+306
+00:11:11,860 --> 00:11:13,810
+The way you teach 20 students at a time
+
+307
+00:11:13,810 --> 00:11:15,250
+is different than the way you teach
+
+308
+00:11:15,250 --> 00:11:16,930
+2,000 students at a time.
+
+309
+00:11:16,930 --> 00:11:18,160
+And so, we have to make sure
+
+310
+00:11:18,160 --> 00:11:20,300
+that we're doing things that scale.
+
+311
+00:11:20,300 --> 00:11:22,460
+And that's one of the ideas
+here with technical debt.
+
+312
+00:11:22,460 --> 00:11:23,930
+If you try to take
+something that you built
+
+313
+00:11:23,930 --> 00:11:27,170
+for a small case and then
+use it in a large case,
+
+314
+00:11:27,170 --> 00:11:28,530
+things are going to break.
+
+315
+00:11:28,530 --> 00:11:29,760
+A great example of this would be
+
+316
+00:11:29,760 --> 00:11:32,100
+if we did personalized
+test and assessments
+
+317
+00:11:32,100 --> 00:11:34,380
+of every student in this class.
+
+318
+00:11:34,380 --> 00:11:37,520
+There may be 1,000 or
+2,000 or 20,000 students
+
+319
+00:11:37,520 --> 00:11:40,080
+taking this class right
+now, and if I had to grade
+
+320
+00:11:40,080 --> 00:11:42,290
+a single one-page essay from each of you,
+
+321
+00:11:42,290 --> 00:11:44,130
+I could never do it as one person.
+
+322
+00:11:44,130 --> 00:11:46,860
+So instead, we use things
+like multiple-choice tests
+
+323
+00:11:46,860 --> 00:11:48,590
+that can be self-graded by a computer.
+
+324
+00:11:48,590 --> 00:11:49,970
+That scales well.
+
+325
+00:11:49,970 --> 00:11:51,390
+And that's the whole
+idea of technical debt
+
+326
+00:11:51,390 --> 00:11:53,570
+is making sure that you're thinking ahead
+
+327
+00:11:53,570 --> 00:11:56,180
+and fixing those problems
+before they pile up on you
+
+328
+00:11:56,180 --> 00:11:57,980
+and become a big problem in the end.
+

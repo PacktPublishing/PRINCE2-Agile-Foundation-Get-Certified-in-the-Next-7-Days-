@@ -1,0 +1,1018 @@
+﻿1
+00:00:00,270 --> 00:00:01,740
+- Previously, we talked about
+
+2
+00:00:01,740 --> 00:00:04,040
+the seven principles of PRINCE2.
+
+3
+00:00:04,040 --> 00:00:06,690
+In this lesson, we're going
+to talk about those again,
+
+4
+00:00:06,690 --> 00:00:08,160
+but talking specifically about
+
+5
+00:00:08,160 --> 00:00:11,790
+how we're going to implement
+them inside an Agile framework.
+
+6
+00:00:11,790 --> 00:00:14,420
+The first is our continued
+business justification.
+
+7
+00:00:14,420 --> 00:00:16,550
+And you may remember that we define this
+
+8
+00:00:16,550 --> 00:00:20,080
+as the project always
+having a desirable, viable
+
+9
+00:00:20,080 --> 00:00:21,680
+and achievable outcome.
+
+10
+00:00:21,680 --> 00:00:22,560
+So we always want to make sure
+
+11
+00:00:22,560 --> 00:00:24,660
+that it's still relevant for us.
+
+12
+00:00:24,660 --> 00:00:26,970
+We did this by measuring our benefits
+
+13
+00:00:26,970 --> 00:00:28,840
+against the cost and the risk.
+
+14
+00:00:28,840 --> 00:00:31,050
+And if the benefits
+outweighed the cost and risk,
+
+15
+00:00:31,050 --> 00:00:33,100
+we would move forward with the project.
+
+16
+00:00:33,100 --> 00:00:35,110
+Well, when we look at this in Agile terms,
+
+17
+00:00:35,110 --> 00:00:37,620
+there's two big concepts
+we want to focus on.
+
+18
+00:00:37,620 --> 00:00:39,540
+The first is value.
+
+19
+00:00:39,540 --> 00:00:41,700
+We want to make sure that whatever
+we're going to be building
+
+20
+00:00:41,700 --> 00:00:43,910
+is going to provide enough value
+
+21
+00:00:43,910 --> 00:00:46,410
+or benefits for us to continue forward.
+
+22
+00:00:46,410 --> 00:00:48,270
+So this one looks very similar to the way
+
+23
+00:00:48,270 --> 00:00:51,000
+we would do it inside a
+normal PRINCE2 framework
+
+24
+00:00:51,000 --> 00:00:53,380
+as opposed to a PRINCE2 Agile framework.
+
+25
+00:00:53,380 --> 00:00:54,660
+But the second piece of this
+
+26
+00:00:54,660 --> 00:00:58,080
+is creating a Minimum
+Viable Product or an MVP.
+
+27
+00:00:58,080 --> 00:01:00,410
+Now when we talk about a
+Minimum Viable Product,
+
+28
+00:01:00,410 --> 00:01:02,060
+we're trying to create something
+
+29
+00:01:02,060 --> 00:01:04,880
+that we can get into the
+hands of either our end users
+
+30
+00:01:04,880 --> 00:01:07,390
+or other users or a sample to see
+
+31
+00:01:07,390 --> 00:01:10,600
+if it's going to be worth
+while creating the full thing.
+
+32
+00:01:10,600 --> 00:01:11,970
+So an example of this might be
+
+33
+00:01:11,970 --> 00:01:14,330
+if you're going to build
+a new electric car,
+
+34
+00:01:14,330 --> 00:01:16,670
+you might not create the final prototype
+
+35
+00:01:16,670 --> 00:01:18,550
+with all of the bells and whistles,
+
+36
+00:01:18,550 --> 00:01:20,950
+but instead, you might build just a car
+
+37
+00:01:20,950 --> 00:01:23,060
+that has four seats and an electric motor
+
+38
+00:01:23,060 --> 00:01:25,600
+to make sure you can get
+that part right first.
+
+39
+00:01:25,600 --> 00:01:27,510
+And if you can, that's now accepted
+
+40
+00:01:27,510 --> 00:01:29,630
+as a Minimum Viable
+Product, we would then go in
+
+41
+00:01:29,630 --> 00:01:31,960
+and put all the additional
+things, like the air conditioning
+
+42
+00:01:31,960 --> 00:01:35,080
+and the radio and all of the
+other bells and whistles.
+
+43
+00:01:35,080 --> 00:01:37,500
+We do this a lot inside
+the software world,
+
+44
+00:01:37,500 --> 00:01:40,310
+where if I'm going to
+build a large program,
+
+45
+00:01:40,310 --> 00:01:41,470
+like say a word processor
+
+46
+00:01:41,470 --> 00:01:43,630
+that's got hundreds of
+different functions,
+
+47
+00:01:43,630 --> 00:01:45,880
+well, the first Minimum
+Viable Product to that
+
+48
+00:01:45,880 --> 00:01:47,800
+is something that can take text in
+
+49
+00:01:47,800 --> 00:01:49,530
+and display it on the screen, and allow me
+
+50
+00:01:49,530 --> 00:01:51,200
+to go back and edit that text.
+
+51
+00:01:51,200 --> 00:01:52,670
+And then we might add in other features
+
+52
+00:01:52,670 --> 00:01:56,010
+like adding bold or italics,
+being able to change the color
+
+53
+00:01:56,010 --> 00:01:58,450
+or the justification, or
+then doing mail merge,
+
+54
+00:01:58,450 --> 00:01:59,930
+and all of those other things.
+
+55
+00:01:59,930 --> 00:02:02,420
+But the Minimum Viable
+Product is the least amount
+
+56
+00:02:02,420 --> 00:02:05,660
+that we can do to get something
+in the hands of our users.
+
+57
+00:02:05,660 --> 00:02:07,040
+If you're going to build an app,
+
+58
+00:02:07,040 --> 00:02:08,980
+sometimes we'll do this
+by doing wireframes
+
+59
+00:02:08,980 --> 00:02:10,280
+that aren't even functional.
+
+60
+00:02:10,280 --> 00:02:11,860
+But we can show you what
+it's going to look like,
+
+61
+00:02:11,860 --> 00:02:14,750
+and you can approve that and
+say you like or don't like it.
+
+62
+00:02:14,750 --> 00:02:17,270
+That would be a Minimum
+Viable Product nutcase.
+
+63
+00:02:17,270 --> 00:02:19,260
+The key concept with the
+Minimum Viable Product
+
+64
+00:02:19,260 --> 00:02:22,710
+is the minimum that we have
+to do to get initial feedback
+
+65
+00:02:22,710 --> 00:02:24,370
+so we can determine if
+we should keep moving
+
+66
+00:02:24,370 --> 00:02:25,780
+forward with this project.
+
+67
+00:02:25,780 --> 00:02:27,830
+This may be operational,
+it may be something
+
+68
+00:02:27,830 --> 00:02:30,350
+that we released to the
+public and sell as version one
+
+69
+00:02:30,350 --> 00:02:32,780
+with the intent that version
+two would be even better.
+
+70
+00:02:32,780 --> 00:02:33,950
+It just depends on how you want
+
+71
+00:02:33,950 --> 00:02:36,030
+to set up inside your project.
+
+72
+00:02:36,030 --> 00:02:38,820
+The next one we have is
+learn from experience.
+
+73
+00:02:38,820 --> 00:02:40,280
+And when we talk about
+learn from experience,
+
+74
+00:02:40,280 --> 00:02:42,230
+we remember that everybody makes mistakes,
+
+75
+00:02:42,230 --> 00:02:44,900
+but can we learn from those
+so we don't repeat those?
+
+76
+00:02:44,900 --> 00:02:48,520
+Now how do we implement learn
+from experience inside Agile?
+
+77
+00:02:48,520 --> 00:02:50,290
+Well we do it in three different ways.
+
+78
+00:02:50,290 --> 00:02:52,520
+The first is using retrospectives.
+
+79
+00:02:52,520 --> 00:02:55,400
+At the end of our sprints, we
+do our sprint retrospective,
+
+80
+00:02:55,400 --> 00:02:57,400
+and we start looking back at the sprint
+
+81
+00:02:57,400 --> 00:02:59,880
+and say what worked well
+and what didn't work well.
+
+82
+00:02:59,880 --> 00:03:02,110
+We then want to implement
+that into our next sprint.
+
+83
+00:03:02,110 --> 00:03:04,200
+That's a way to learn from experience.
+
+84
+00:03:04,200 --> 00:03:05,580
+Another way we do it in Agile
+
+85
+00:03:05,580 --> 00:03:07,530
+is by shortening those feedback loops,
+
+86
+00:03:07,530 --> 00:03:10,730
+by things like using Minimum
+Viable Products, right?
+
+87
+00:03:10,730 --> 00:03:13,740
+And we start getting things out
+into our users hands quicker
+
+88
+00:03:13,740 --> 00:03:16,290
+to get feedback sooner
+that we can implement.
+
+89
+00:03:16,290 --> 00:03:18,400
+That helps us learn from experience.
+
+90
+00:03:18,400 --> 00:03:21,030
+The third thing is
+inspecting and adapting.
+
+91
+00:03:21,030 --> 00:03:22,050
+As we're building things,
+
+92
+00:03:22,050 --> 00:03:25,160
+we're constantly inspecting
+them for quality and control,
+
+93
+00:03:25,160 --> 00:03:26,800
+and making sure they're what we want.
+
+94
+00:03:26,800 --> 00:03:29,410
+And if they're not, we're going
+to change it and adapt it,
+
+95
+00:03:29,410 --> 00:03:30,850
+learn from the experience and move
+
+96
+00:03:30,850 --> 00:03:33,050
+into the next version of the product.
+
+97
+00:03:33,050 --> 00:03:35,280
+Agile is really good about
+learn from experience.
+
+98
+00:03:35,280 --> 00:03:37,610
+It's one of those core tenants and beliefs
+
+99
+00:03:37,610 --> 00:03:40,610
+that we can all learn and
+implement it quicker and faster
+
+100
+00:03:40,610 --> 00:03:42,720
+to do something better in the future.
+
+101
+00:03:42,720 --> 00:03:44,340
+The next one that we have is defining
+
+102
+00:03:44,340 --> 00:03:46,100
+your roles and responsibilities.
+
+103
+00:03:46,100 --> 00:03:47,760
+This is where we want
+to focus and make sure
+
+104
+00:03:47,760 --> 00:03:50,580
+that everyone in the project
+knows what job they're doing
+
+105
+00:03:50,580 --> 00:03:52,920
+and what responsibilities
+they have associated
+
+106
+00:03:52,920 --> 00:03:55,020
+with that role or that job.
+
+107
+00:03:55,020 --> 00:03:57,180
+Inside of PRINCE2 Agile, we do this
+
+108
+00:03:57,180 --> 00:03:59,960
+by blending our PRINCE2
+roles and responsibilities
+
+109
+00:03:59,960 --> 00:04:01,390
+with those Agile roles.
+
+110
+00:04:01,390 --> 00:04:04,290
+So we start figuring
+out who inside the role
+
+111
+00:04:04,290 --> 00:04:05,330
+maybe the project manager
+
+112
+00:04:05,330 --> 00:04:07,630
+is also going to be the scrum master.
+
+113
+00:04:07,630 --> 00:04:08,890
+This may be that we're going to deal
+
+114
+00:04:08,890 --> 00:04:11,380
+with the team members or the team leader,
+
+115
+00:04:11,380 --> 00:04:13,790
+and they're going to be part
+of the development team.
+
+116
+00:04:13,790 --> 00:04:16,300
+We're going to make sure
+that we line up those roles
+
+117
+00:04:16,300 --> 00:04:19,650
+from the regular PRINCE2 rolls
+into the Agile roles as well
+
+118
+00:04:19,650 --> 00:04:21,240
+to make sure that there's a good blending,
+
+119
+00:04:21,240 --> 00:04:22,443
+and we can move forward.
+
+120
+00:04:23,470 --> 00:04:26,400
+The next principle we have
+is Management by Stages.
+
+121
+00:04:26,400 --> 00:04:27,700
+And with Management by Stages,
+
+122
+00:04:27,700 --> 00:04:31,340
+we took that big long project
+timeline and project plan,
+
+123
+00:04:31,340 --> 00:04:34,680
+and broke it down into smaller
+stages for us to work on.
+
+124
+00:04:34,680 --> 00:04:36,240
+This allowed us to figure out better
+
+125
+00:04:36,240 --> 00:04:38,560
+how long it would take
+and what the cost is.
+
+126
+00:04:38,560 --> 00:04:39,790
+Now that is what we would do
+
+127
+00:04:39,790 --> 00:04:41,830
+in a standard prints methodology.
+
+128
+00:04:41,830 --> 00:04:45,090
+But in Agile, we fix cost and we fix time.
+
+129
+00:04:45,090 --> 00:04:47,430
+So, do we still need to manage by stages?
+
+130
+00:04:47,430 --> 00:04:50,740
+Well yes, and we do
+this by using timeboxes.
+
+131
+00:04:50,740 --> 00:04:53,550
+By using a timebox, we have
+a fixed amount of time,
+
+132
+00:04:53,550 --> 00:04:55,020
+and a fixed amount of cost,
+
+133
+00:04:55,020 --> 00:04:57,420
+and this is going to
+be put into our sprint,
+
+134
+00:04:57,420 --> 00:04:59,870
+and we're using sprints
+as part of our releases.
+
+135
+00:04:59,870 --> 00:05:02,640
+These effectively start
+becoming our stages.
+
+136
+00:05:02,640 --> 00:05:04,670
+And at the end of a couple of sprints,
+
+137
+00:05:04,670 --> 00:05:07,240
+they may have three
+sprints inside one stage,
+
+138
+00:05:07,240 --> 00:05:09,530
+or you could have one sprint in one stage.
+
+139
+00:05:09,530 --> 00:05:12,010
+It depends on how your
+governance is being set up.
+
+140
+00:05:12,010 --> 00:05:14,380
+But this is how we implement
+this Management by Stages,
+
+141
+00:05:14,380 --> 00:05:17,300
+is by using shorter stages
+and shorter timeboxes
+
+142
+00:05:17,300 --> 00:05:19,590
+still allow us to have that control.
+
+143
+00:05:19,590 --> 00:05:22,020
+Our next principle is Manage by Exception.
+
+144
+00:05:22,020 --> 00:05:23,830
+With Manage by Exception, we are focused
+
+145
+00:05:23,830 --> 00:05:27,040
+on making sure that only
+significant changes or deviations
+
+146
+00:05:27,040 --> 00:05:28,810
+from the budget or the approved plan
+
+147
+00:05:28,810 --> 00:05:31,350
+were brought up to the
+attention of management.
+
+148
+00:05:31,350 --> 00:05:35,100
+Now in PRINCE2 Agile and
+PRINCE2, this is really the same.
+
+149
+00:05:35,100 --> 00:05:36,910
+It's the use of good tolerances.
+
+150
+00:05:36,910 --> 00:05:39,890
+If you have strong tolerances
+that are defined well,
+
+151
+00:05:39,890 --> 00:05:42,280
+this is going to allow you
+to empower your team members
+
+152
+00:05:42,280 --> 00:05:45,170
+to make decisions, and make
+changes that will get us
+
+153
+00:05:45,170 --> 00:05:47,790
+back to the good end state
+that we want for our product.
+
+154
+00:05:47,790 --> 00:05:50,580
+So tolerances are even
+more important in Agile
+
+155
+00:05:50,580 --> 00:05:51,920
+than they were in PRINCE2,
+
+156
+00:05:51,920 --> 00:05:54,890
+because it allows the team
+members to make the decisions,
+
+157
+00:05:54,890 --> 00:05:57,273
+and be able to work in
+this Agile methodology.
+
+158
+00:05:58,400 --> 00:06:01,070
+The next principle is Focus on Products.
+
+159
+00:06:01,070 --> 00:06:03,380
+Focus on Products is working to ensure
+
+160
+00:06:03,380 --> 00:06:05,320
+that we successfully deliver products
+
+161
+00:06:05,320 --> 00:06:07,340
+that will lead to the project's benefits
+
+162
+00:06:07,340 --> 00:06:09,520
+being realized by our end users.
+
+163
+00:06:09,520 --> 00:06:11,080
+Now in prints, this is focused
+
+164
+00:06:11,080 --> 00:06:13,250
+on making sure management
+products are created,
+
+165
+00:06:13,250 --> 00:06:14,760
+and the final deliverable
+
+166
+00:06:14,760 --> 00:06:17,240
+that thing we're building is created.
+
+167
+00:06:17,240 --> 00:06:20,660
+But in Agile, we're going to
+modify that just a little bit.
+
+168
+00:06:20,660 --> 00:06:22,640
+In Agile, we realize that the customer
+
+169
+00:06:22,640 --> 00:06:24,790
+doesn't get everything that they want.
+
+170
+00:06:24,790 --> 00:06:27,230
+But we do want to ensure they
+get everything that they need.
+
+171
+00:06:27,230 --> 00:06:29,640
+To do this, we do this
+with a prioritization
+
+172
+00:06:29,640 --> 00:06:31,900
+of the products and the quality criteria.
+
+173
+00:06:31,900 --> 00:06:34,230
+This allows the team
+and the project manager
+
+174
+00:06:34,230 --> 00:06:36,840
+to make decisions of how they're
+going to shift the product
+
+175
+00:06:36,840 --> 00:06:39,370
+and what pieces they're
+going to work on first.
+
+176
+00:06:39,370 --> 00:06:40,830
+Again, this works really well
+
+177
+00:06:40,830 --> 00:06:43,010
+when you're dealing
+something that's intangible
+
+178
+00:06:43,010 --> 00:06:45,040
+like a software, more than something
+
+179
+00:06:45,040 --> 00:06:46,460
+that's tangible like a house.
+
+180
+00:06:46,460 --> 00:06:48,640
+But both are going to exist.
+
+181
+00:06:48,640 --> 00:06:50,730
+Also when we deal with
+the management products
+
+182
+00:06:50,730 --> 00:06:52,470
+inside of PRINCE2 Agile.
+
+183
+00:06:52,470 --> 00:06:55,530
+We can really modify and tailor the format
+
+184
+00:06:55,530 --> 00:06:56,880
+and formality of these.
+
+185
+00:06:56,880 --> 00:06:59,940
+And this is part of this
+modifying the focus on products.
+
+186
+00:06:59,940 --> 00:07:02,830
+Instead of being focused on
+getting a checkpoint report up
+
+187
+00:07:02,830 --> 00:07:05,410
+from a team manager to
+the project manager,
+
+188
+00:07:05,410 --> 00:07:07,750
+we may instead just
+have the project manager
+
+189
+00:07:07,750 --> 00:07:10,110
+go and look at the information radiator,
+
+190
+00:07:10,110 --> 00:07:12,390
+and pull the information
+they need themselves.
+
+191
+00:07:12,390 --> 00:07:15,190
+This is a modification of
+the formality of the product
+
+192
+00:07:15,190 --> 00:07:16,920
+as well as the format of the product.
+
+193
+00:07:16,920 --> 00:07:18,930
+And there are lots of
+those that can happen
+
+194
+00:07:18,930 --> 00:07:21,200
+throughout your project
+as we move forward.
+
+195
+00:07:21,200 --> 00:07:23,230
+Some other tailoring and implementation
+
+196
+00:07:23,230 --> 00:07:25,240
+of these focus on products
+that get looked at
+
+197
+00:07:25,240 --> 00:07:26,750
+besides the checkpoint report
+
+198
+00:07:26,750 --> 00:07:29,060
+might be the way that
+highlight reports are sent up
+
+199
+00:07:29,060 --> 00:07:31,530
+from project manager up
+to the project board.
+
+200
+00:07:31,530 --> 00:07:33,990
+Or it may be the way that
+work packages are set up
+
+201
+00:07:33,990 --> 00:07:36,340
+from the project manager, down to the team
+
+202
+00:07:36,340 --> 00:07:38,130
+or the development team that's working it.
+
+203
+00:07:38,130 --> 00:07:39,960
+Instead of having a formal work package,
+
+204
+00:07:39,960 --> 00:07:42,150
+it might just be part
+of the release backlog
+
+205
+00:07:42,150 --> 00:07:43,200
+that gets put together.
+
+206
+00:07:43,200 --> 00:07:45,800
+And so all of these are
+things that can be modified
+
+207
+00:07:45,800 --> 00:07:47,630
+based on the formality or format
+
+208
+00:07:47,630 --> 00:07:49,760
+to meet our Agile working methods.
+
+209
+00:07:49,760 --> 00:07:51,450
+The seventh and final principle
+
+210
+00:07:51,450 --> 00:07:53,320
+is Tailor to Suit the Project.
+
+211
+00:07:53,320 --> 00:07:55,430
+This one was custom made for Agile,
+
+212
+00:07:55,430 --> 00:07:58,530
+because it really does allow
+us to adapt specifically,
+
+213
+00:07:58,530 --> 00:08:01,870
+everything inside of PRINCE2
+to our current project.
+
+214
+00:08:01,870 --> 00:08:03,730
+If we're going to work highly Agile,
+
+215
+00:08:03,730 --> 00:08:05,340
+we're going to do a lot of tailoring.
+
+216
+00:08:05,340 --> 00:08:07,070
+If we're going to work very little Agile,
+
+217
+00:08:07,070 --> 00:08:08,780
+we're going to do less tailoring.
+
+218
+00:08:08,780 --> 00:08:11,180
+The biggest way that we implement Agile
+
+219
+00:08:11,180 --> 00:08:13,700
+inside of Tailor to Suit
+the Project environment
+
+220
+00:08:13,700 --> 00:08:17,100
+is doing an Agile assessment
+using the Agilometer.
+
+221
+00:08:17,100 --> 00:08:19,410
+By going through those six
+areas of the Agilometer,
+
+222
+00:08:19,410 --> 00:08:21,480
+and figuring out where our organization
+
+223
+00:08:21,480 --> 00:08:22,820
+sits in relation to them,
+
+224
+00:08:22,820 --> 00:08:26,050
+whether we are highly Agile
+or low on the Agile scale.
+
+225
+00:08:26,050 --> 00:08:27,460
+It will help us better tailor
+
+226
+00:08:27,460 --> 00:08:29,050
+to suit our project environment
+
+227
+00:08:29,050 --> 00:08:31,393
+to address those risks as we move forward.
+

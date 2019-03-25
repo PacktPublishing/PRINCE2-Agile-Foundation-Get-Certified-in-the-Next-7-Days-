@@ -1,0 +1,435 @@
+﻿1
+00:00:00,380 --> 00:00:02,620
+- What is project management?
+
+2
+00:00:02,620 --> 00:00:05,410
+After all PRINCE2 Agile
+is focused on being
+
+3
+00:00:05,410 --> 00:00:07,390
+a project management framework.
+
+4
+00:00:07,390 --> 00:00:09,450
+Well, project management is the practice
+
+5
+00:00:09,450 --> 00:00:12,750
+of initiating, planning,
+executing, controlling
+
+6
+00:00:12,750 --> 00:00:15,060
+and closing the work of a team to achieve
+
+7
+00:00:15,060 --> 00:00:18,120
+specific goals and meet
+specific success criteria
+
+8
+00:00:18,120 --> 00:00:19,810
+at a specific time.
+
+9
+00:00:19,810 --> 00:00:22,400
+But we have to understand
+what is a project.
+
+10
+00:00:22,400 --> 00:00:25,200
+Well a project is a temporary organization
+
+11
+00:00:25,200 --> 00:00:26,890
+that's created for the
+purpose of delivering
+
+12
+00:00:26,890 --> 00:00:28,710
+one or more business products,
+
+13
+00:00:28,710 --> 00:00:31,660
+according to an agreed upon business case.
+
+14
+00:00:31,660 --> 00:00:34,550
+Now the key with a project
+is that it is temporary.
+
+15
+00:00:34,550 --> 00:00:36,780
+It is for a short duration of time.
+
+16
+00:00:36,780 --> 00:00:39,070
+Now what exactly is a
+short duration of time?
+
+17
+00:00:39,070 --> 00:00:41,220
+Well, a project may be a couple of months,
+
+18
+00:00:41,220 --> 00:00:43,180
+or it may be a couple
+of years, but we're not
+
+19
+00:00:43,180 --> 00:00:45,610
+going to do a single
+project and keep it going
+
+20
+00:00:45,610 --> 00:00:47,780
+for 20 or 30 years, that wouldn't be
+
+21
+00:00:47,780 --> 00:00:49,910
+a very temporary organization.
+
+22
+00:00:49,910 --> 00:00:52,220
+Now what kind of things
+do we do with a project?
+
+23
+00:00:52,220 --> 00:00:54,170
+Well, we may be building a new building,
+
+24
+00:00:54,170 --> 00:00:56,540
+so if we're going to build
+a skyscraper for example,
+
+25
+00:00:56,540 --> 00:00:59,097
+we have to plan exactly
+when each part of that
+
+26
+00:00:59,097 --> 00:01:02,110
+I'm going to happen, that
+includes building the foundation,
+
+27
+00:01:02,110 --> 00:01:03,960
+getting the work crews
+on so that we can build
+
+28
+00:01:03,960 --> 00:01:05,680
+up the structure, and then we have to put
+
+29
+00:01:05,680 --> 00:01:07,510
+on the outside of the
+building with the glass,
+
+30
+00:01:07,510 --> 00:01:09,070
+and the ceiling, and
+then we're going to have
+
+31
+00:01:09,070 --> 00:01:11,230
+to go inside building and
+start doing all the wiring
+
+32
+00:01:11,230 --> 00:01:14,030
+and the plumbing, there's a
+lot of moving pieces here.
+
+33
+00:01:14,030 --> 00:01:16,780
+And so project management helps us manage
+
+34
+00:01:16,780 --> 00:01:18,940
+the output of this project
+to make sure things are done
+
+35
+00:01:18,940 --> 00:01:21,380
+in the proper sequence,
+in the proper order,
+
+36
+00:01:21,380 --> 00:01:23,150
+and to the proper cost.
+
+37
+00:01:23,150 --> 00:01:24,820
+On the other hand, if
+we're going to do something
+
+38
+00:01:24,820 --> 00:01:26,710
+that's very normal and routine,
+
+39
+00:01:26,710 --> 00:01:29,090
+we call that business as usual.
+
+40
+00:01:29,090 --> 00:01:31,910
+Business as usual is defined
+as work that is conducted
+
+41
+00:01:31,910 --> 00:01:34,330
+by an organization on a daily basis.
+
+42
+00:01:34,330 --> 00:01:36,180
+So if you work in IT for example,
+
+43
+00:01:36,180 --> 00:01:38,260
+and you need to setup a new user account,
+
+44
+00:01:38,260 --> 00:01:39,930
+you wouldn't need a project for that.
+
+45
+00:01:39,930 --> 00:01:42,370
+Instead, that's a simple
+thing that you're going to do.
+
+46
+00:01:42,370 --> 00:01:44,830
+You'll get the person's
+name, you'll create an email,
+
+47
+00:01:44,830 --> 00:01:46,310
+and you'll setup their account.
+
+48
+00:01:46,310 --> 00:01:48,670
+If we want to build a
+whole new service for IT,
+
+49
+00:01:48,670 --> 00:01:50,480
+maybe we're going to
+migrate all of our servers
+
+50
+00:01:50,480 --> 00:01:53,210
+from Windows into Linux,
+that would be a project,
+
+51
+00:01:53,210 --> 00:01:55,130
+because it's bigger, it's more complex,
+
+52
+00:01:55,130 --> 00:01:56,250
+and it's more difficult.
+
+53
+00:01:56,250 --> 00:01:57,970
+And so that's what we're
+going to do, is figure
+
+54
+00:01:57,970 --> 00:02:00,720
+out what is a project and
+what is business as usual.
+
+55
+00:02:00,720 --> 00:02:02,790
+One of the key differences
+between projects
+
+56
+00:02:02,790 --> 00:02:05,100
+and business as usual is what frameworks
+
+57
+00:02:05,100 --> 00:02:06,470
+you can use for them.
+
+58
+00:02:06,470 --> 00:02:09,850
+Agile can be used for both
+projects and business as usual.
+
+59
+00:02:09,850 --> 00:02:11,510
+But PRINCE2 and PRINCE2 Agile
+
+60
+00:02:11,510 --> 00:02:13,810
+are designed specifically for projects.
+
+61
+00:02:13,810 --> 00:02:15,250
+If we're doing something
+that's going to be considered
+
+62
+00:02:15,250 --> 00:02:18,070
+business as usual, you
+can use Agile techniques,
+
+63
+00:02:18,070 --> 00:02:20,640
+but, you won't be using PRINCE2 Agile,
+
+64
+00:02:20,640 --> 00:02:22,470
+so any time we're going
+to do a project we have
+
+65
+00:02:22,470 --> 00:02:24,710
+to decide are we're going to use PRINCE2
+
+66
+00:02:24,710 --> 00:02:26,610
+or are we going to use PRINCE2 Agile?
+
+67
+00:02:26,610 --> 00:02:27,840
+If it is something that
+needs to be developed
+
+68
+00:02:27,840 --> 00:02:29,900
+in an Agile method,
+then we're going to lean
+
+69
+00:02:29,900 --> 00:02:31,270
+towards PRINCE2 Agile.
+
+70
+00:02:31,270 --> 00:02:33,300
+If it's something that needs
+really tight governance
+
+71
+00:02:33,300 --> 00:02:35,260
+and control structures,
+that's when we're going to
+
+72
+00:02:35,260 --> 00:02:37,284
+lean more towards PRINCE2.
+
+73
+00:02:37,284 --> 00:02:39,110
+So in this course we
+are going to be focused
+
+74
+00:02:39,110 --> 00:02:41,580
+on projects, not business as usual,
+
+75
+00:02:41,580 --> 00:02:43,820
+and so when we think
+about a project remember,
+
+76
+00:02:43,820 --> 00:02:45,480
+it is something that is temporary.
+
+77
+00:02:45,480 --> 00:02:47,440
+We're going to create
+a team to work on it.
+
+78
+00:02:47,440 --> 00:02:50,790
+This project may be difficult
+in nature or complex,
+
+79
+00:02:50,790 --> 00:02:53,620
+and there's a certain degree
+of uncertainty with it.
+
+80
+00:02:53,620 --> 00:02:55,160
+Now if we compare that to something that's
+
+81
+00:02:55,160 --> 00:02:56,840
+business as usual, that would be something
+
+82
+00:02:56,840 --> 00:02:58,761
+that's ongoing, there's a stable team
+
+83
+00:02:58,761 --> 00:03:01,400
+or a stable idea around how to do it.
+
+84
+00:03:01,400 --> 00:03:03,960
+There's this routineness
+to it, we do it every day.
+
+85
+00:03:03,960 --> 00:03:06,810
+For example, I am always
+going to be adding new users
+
+86
+00:03:06,810 --> 00:03:09,050
+to our system, that is
+just something that happens
+
+87
+00:03:09,050 --> 00:03:11,970
+all the time, we don't need
+a special project for that.
+
+88
+00:03:11,970 --> 00:03:13,780
+And there's this degree of certainty.
+
+89
+00:03:13,780 --> 00:03:16,410
+We know that if we do
+steps one, two and three,
+
+90
+00:03:16,410 --> 00:03:18,060
+we're going to get output a.
+
+91
+00:03:18,060 --> 00:03:20,260
+But with a project, we have to figure out
+
+92
+00:03:20,260 --> 00:03:22,650
+what are the steps, what
+order should they done
+
+93
+00:03:22,650 --> 00:03:24,800
+so that we can get the
+output that we desire,
+
+94
+00:03:24,800 --> 00:03:26,050
+and that's the big difference between
+
+95
+00:03:26,050 --> 00:03:27,900
+business as usual and projects.
+
+96
+00:03:27,900 --> 00:03:30,853
+In this course we're going
+to focus solely on projects.
+

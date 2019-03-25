@@ -1,0 +1,361 @@
+﻿1
+00:00:00,450 --> 00:00:02,980
+- The next thing we're
+going to discuss is risk,
+
+2
+00:00:02,980 --> 00:00:06,530
+and risk is actually reduced
+by working in an Agile method.
+
+3
+00:00:06,530 --> 00:00:08,700
+The reason for this is
+because our Agile techniques
+
+4
+00:00:08,700 --> 00:00:10,310
+work in an iterative method,
+
+5
+00:00:10,310 --> 00:00:12,240
+and we're allowed to quickly adapt
+
+6
+00:00:12,240 --> 00:00:15,140
+when we find an issue
+or risk and overcome it.
+
+7
+00:00:15,140 --> 00:00:17,290
+For example, when we start up a project,
+
+8
+00:00:17,290 --> 00:00:19,400
+we go and create our
+outlying business case,
+
+9
+00:00:19,400 --> 00:00:21,360
+and as we start outlining
+that business case,
+
+10
+00:00:21,360 --> 00:00:23,660
+we're going to avoid
+putting too much detail in,
+
+11
+00:00:23,660 --> 00:00:25,110
+and that's going to prevent
+us from being locked
+
+12
+00:00:25,110 --> 00:00:26,980
+into a certain set of requirements.
+
+13
+00:00:26,980 --> 00:00:29,110
+This allows us to be more
+agile during development,
+
+14
+00:00:29,110 --> 00:00:32,030
+and be able to overcome
+risks as they're identified.
+
+15
+00:00:32,030 --> 00:00:34,740
+Another thing that we do is we
+do our daily standup meetings
+
+16
+00:00:34,740 --> 00:00:35,870
+where we get the delivery team
+
+17
+00:00:35,870 --> 00:00:37,660
+all around the information radiator,
+
+18
+00:00:37,660 --> 00:00:39,530
+and we all talk about
+what we did yesterday
+
+19
+00:00:39,530 --> 00:00:40,980
+and what we're going to do today.
+
+20
+00:00:40,980 --> 00:00:42,850
+During that meeting, we're
+also going to identify
+
+21
+00:00:42,850 --> 00:00:45,270
+any risks or issues that
+need to be addressed,
+
+22
+00:00:45,270 --> 00:00:46,870
+and we can do that very quickly
+
+23
+00:00:46,870 --> 00:00:49,940
+at the detail level
+inside our delivery team.
+
+24
+00:00:49,940 --> 00:00:52,080
+This happens a lot because
+we have this self-managed
+
+25
+00:00:52,080 --> 00:00:53,690
+and self-directed team as well,
+
+26
+00:00:53,690 --> 00:00:56,230
+and that allows us to
+overcome risks and obstacles
+
+27
+00:00:56,230 --> 00:00:57,870
+throughout the project.
+
+28
+00:00:57,870 --> 00:01:00,090
+Additionally, in Agile,
+we're going to focus
+
+29
+00:01:00,090 --> 00:01:02,270
+on doing frequent demos
+and frequent delivery
+
+30
+00:01:02,270 --> 00:01:03,780
+or releases of products.
+
+31
+00:01:03,780 --> 00:01:05,790
+By doing that, we're getting
+things into the hands
+
+32
+00:01:05,790 --> 00:01:07,030
+of our customers sooner,
+
+33
+00:01:07,030 --> 00:01:09,500
+and that gives us additional
+customer interaction
+
+34
+00:01:09,500 --> 00:01:11,840
+that will help us identify any
+risks or challenges we have
+
+35
+00:01:11,840 --> 00:01:14,310
+in the project so that
+we can move forward.
+
+36
+00:01:14,310 --> 00:01:16,210
+While working in an agile way can help us
+
+37
+00:01:16,210 --> 00:01:19,090
+to reduce our risk, there
+are some unique risks
+
+38
+00:01:19,090 --> 00:01:21,810
+that will come up because
+we're working in an agile way.
+
+39
+00:01:21,810 --> 00:01:23,970
+For example, when we work in an agile way,
+
+40
+00:01:23,970 --> 00:01:26,900
+we're continuously going to
+be engaging with our customer.
+
+41
+00:01:26,900 --> 00:01:29,150
+That engagement gives
+us continual feedback
+
+42
+00:01:29,150 --> 00:01:31,480
+which is great, but
+that continual feedback
+
+43
+00:01:31,480 --> 00:01:33,170
+may also derail our project,
+
+44
+00:01:33,170 --> 00:01:34,470
+because we're constantly adjusting
+
+45
+00:01:34,470 --> 00:01:37,630
+and constantly doing new
+requirements and new changes
+
+46
+00:01:37,630 --> 00:01:39,180
+to the thing we're working on.
+
+47
+00:01:39,180 --> 00:01:41,740
+This is a risk that we're
+going to have to manage.
+
+48
+00:01:41,740 --> 00:01:44,730
+Another area that we're going
+to tailor inside the risk theme
+
+49
+00:01:44,730 --> 00:01:46,360
+is that we're going to
+reduce the formality
+
+50
+00:01:46,360 --> 00:01:48,470
+and bureaucracy that usually is seen
+
+51
+00:01:48,470 --> 00:01:50,670
+inside the risk management procedures.
+
+52
+00:01:50,670 --> 00:01:52,460
+In PRINCE2, we used something formal,
+
+53
+00:01:52,460 --> 00:01:54,150
+like an electronic risk register
+
+54
+00:01:54,150 --> 00:01:55,740
+to capture every single risk
+
+55
+00:01:55,740 --> 00:01:57,510
+and what mitigations
+we're putting against it
+
+56
+00:01:57,510 --> 00:01:59,430
+and what residual risk is left over,
+
+57
+00:01:59,430 --> 00:02:02,090
+but in PRINCE2 Agile, we
+may just have a few columns
+
+58
+00:02:02,090 --> 00:02:04,270
+on our team board or
+our information radiator
+
+59
+00:02:04,270 --> 00:02:05,570
+that's going to capture those risks
+
+60
+00:02:05,570 --> 00:02:06,980
+and what we're doing about them.
+
+61
+00:02:06,980 --> 00:02:10,260
+Overall, Agile is going to
+place a lot less emphasis
+
+62
+00:02:10,260 --> 00:02:12,970
+on risk than PRINCE2 does,
+and the reason for this
+
+63
+00:02:12,970 --> 00:02:15,330
+is because risk can be
+overcome much quicker
+
+64
+00:02:15,330 --> 00:02:18,010
+and much easier based
+on that self-managing,
+
+65
+00:02:18,010 --> 00:02:19,960
+self-organizing delivery team.
+
+66
+00:02:19,960 --> 00:02:22,090
+By using the Agile
+concepts and techniques,
+
+67
+00:02:22,090 --> 00:02:24,050
+we're already mitigating a lot of the risk
+
+68
+00:02:24,050 --> 00:02:26,700
+that we normally see in a
+traditional waterfall development
+
+69
+00:02:26,700 --> 00:02:28,700
+because we can react to changes faster,
+
+70
+00:02:28,700 --> 00:02:30,690
+but Agile does have its own risks
+
+71
+00:02:30,690 --> 00:02:32,140
+associated with it on its own,
+
+72
+00:02:32,140 --> 00:02:34,460
+and we assess that by
+looking at the Agilometer,
+
+73
+00:02:34,460 --> 00:02:37,320
+and assessing those six key
+areas of our organization
+
+74
+00:02:37,320 --> 00:02:38,820
+to see, are we going to be able to operate
+
+75
+00:02:38,820 --> 00:02:41,280
+as an agile organization,
+or are we going to be more
+
+76
+00:02:41,280 --> 00:02:42,940
+of a formal organization?
+
+77
+00:02:42,940 --> 00:02:44,920
+Either way, you're going to
+be able to identify that early
+
+78
+00:02:44,920 --> 00:02:46,430
+and put mitigations in place
+
+79
+00:02:46,430 --> 00:02:48,530
+so that you can have a successful project.
+

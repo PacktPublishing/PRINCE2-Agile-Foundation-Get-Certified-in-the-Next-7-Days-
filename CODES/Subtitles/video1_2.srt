@@ -1,0 +1,464 @@
+﻿1
+00:00:00,700 --> 00:00:03,920
+- In this lesson we're going
+to talk about the exam itself.
+
+2
+00:00:03,920 --> 00:00:05,350
+We're going to talk about how long it is,
+
+3
+00:00:05,350 --> 00:00:06,930
+how many questions it is,
+
+4
+00:00:06,930 --> 00:00:09,140
+and really what the point
+of the whole exam is.
+
+5
+00:00:09,140 --> 00:00:10,510
+And let's talk about that first.
+
+6
+00:00:10,510 --> 00:00:14,170
+What is the point of the
+PRINCE2 Agile Foundation exam?
+
+7
+00:00:14,170 --> 00:00:16,900
+Well, if you pass it, you're
+going to gain the first level
+
+8
+00:00:16,900 --> 00:00:20,410
+of certification inside the
+PRINCE2 Agile framework.
+
+9
+00:00:20,410 --> 00:00:22,070
+The second level is Practitioner,
+
+10
+00:00:22,070 --> 00:00:23,870
+and to be able to take the Practitioner,
+
+11
+00:00:23,870 --> 00:00:26,640
+you have to have already
+passed a Foundation level exam,
+
+12
+00:00:26,640 --> 00:00:28,470
+whether that's the PRINCE2 Foundation
+
+13
+00:00:28,470 --> 00:00:30,630
+or the PRINCE2 Agile Foundation.
+
+14
+00:00:30,630 --> 00:00:32,690
+When you look at this,
+it's really going to ask,
+
+15
+00:00:32,690 --> 00:00:35,260
+can you understand how to blend PRINCE2
+
+16
+00:00:35,260 --> 00:00:36,930
+with Agile techniques?
+
+17
+00:00:36,930 --> 00:00:39,970
+And they really want to know
+one fundamental question.
+
+18
+00:00:39,970 --> 00:00:42,707
+Are you able to know enough about PRINCE2
+
+19
+00:00:42,707 --> 00:00:45,500
+and Agile to work effectively inside of
+
+20
+00:00:45,500 --> 00:00:49,580
+a project management team
+underneath a PRINCE2 environment?
+
+21
+00:00:49,580 --> 00:00:51,450
+If you can, that's the level
+
+22
+00:00:51,450 --> 00:00:53,370
+that we're looking for for Foundation.
+
+23
+00:00:53,370 --> 00:00:55,330
+That means you have to
+understand the terms,
+
+24
+00:00:55,330 --> 00:00:56,970
+the techniques, and the tactics
+
+25
+00:00:56,970 --> 00:01:00,030
+that are used by both PRINCE2 and Agile.
+
+26
+00:01:00,030 --> 00:01:03,070
+So, when we look at this and
+we start looking at this exam,
+
+27
+00:01:03,070 --> 00:01:05,100
+there are going to be five exam objectives
+
+28
+00:01:05,100 --> 00:01:07,050
+that we're going to cover,
+and the rest of this course
+
+29
+00:01:07,050 --> 00:01:09,340
+is all built around these five things.
+
+30
+00:01:09,340 --> 00:01:11,800
+Think of it as our table of contents.
+
+31
+00:01:11,800 --> 00:01:14,530
+The first one is, do you
+understand key concepts
+
+32
+00:01:14,530 --> 00:01:16,780
+relating to projects and PRINCE2?
+
+33
+00:01:16,780 --> 00:01:19,800
+This is your traditional
+PRINCE2 framework.
+
+34
+00:01:19,800 --> 00:01:22,430
+The second one is, do you
+understand key concepts
+
+35
+00:01:22,430 --> 00:01:25,820
+relating to projects and
+PRINCE2 in an Agile environment?
+
+36
+00:01:25,820 --> 00:01:28,780
+This starts bringing in
+those Agile concepts.
+
+37
+00:01:28,780 --> 00:01:32,620
+Number three, do you understand
+PRINCE2 principles, themes,
+
+38
+00:01:32,620 --> 00:01:35,960
+processes, and management
+products and how to tailor them
+
+39
+00:01:35,960 --> 00:01:39,790
+and apply them inside of an Agile context?
+
+40
+00:01:39,790 --> 00:01:43,160
+Number four, do you understand
+the Agile ways of working,
+
+41
+00:01:43,160 --> 00:01:45,710
+the key terms, and the techniques?
+
+42
+00:01:45,710 --> 00:01:48,630
+And number five, do you
+understand the focus areas
+
+43
+00:01:48,630 --> 00:01:51,660
+that apply inside of an Agile context?
+
+44
+00:01:51,660 --> 00:01:54,340
+So when you sit down to
+take the exam on test day,
+
+45
+00:01:54,340 --> 00:01:56,580
+you're going to find that
+there are 50 questions
+
+46
+00:01:56,580 --> 00:01:58,610
+you have to answer in one hour.
+
+47
+00:01:58,610 --> 00:02:00,340
+And these questions come in the form
+
+48
+00:02:00,340 --> 00:02:04,890
+of multiple choice questions
+with choices A, B, C, or D.
+
+49
+00:02:04,890 --> 00:02:06,700
+Now, those multiple choice questions,
+
+50
+00:02:06,700 --> 00:02:09,460
+they'll show up as three
+different types of format.
+
+51
+00:02:09,460 --> 00:02:11,220
+The vast majority of these are going to be
+
+52
+00:02:11,220 --> 00:02:13,560
+what we call standard
+multiple choice questions,
+
+53
+00:02:13,560 --> 00:02:15,860
+where they might give you
+a definition and then ask,
+
+54
+00:02:15,860 --> 00:02:20,210
+based on A, B, C, or D, which
+terms matches that definition.
+
+55
+00:02:20,210 --> 00:02:22,030
+When we have a list type question,
+
+56
+00:02:22,030 --> 00:02:24,350
+this is one where they'll
+give you four statements,
+
+57
+00:02:24,350 --> 00:02:26,400
+labeled one, two, three, and four.
+
+58
+00:02:26,400 --> 00:02:28,100
+And then your multiple choice options,
+
+59
+00:02:28,100 --> 00:02:29,540
+you'll have to select which of
+
+60
+00:02:29,540 --> 00:02:31,390
+those two statements are true.
+
+61
+00:02:31,390 --> 00:02:33,800
+And you'll do that by
+choosing A, one and two,
+
+62
+00:02:33,800 --> 00:02:38,800
+B, two and three, C, three
+and four, or D, one and four.
+
+63
+00:02:38,840 --> 00:02:41,480
+And the last type is what
+we call a negative question.
+
+64
+00:02:41,480 --> 00:02:44,370
+They'll say, which of these are not true?
+
+65
+00:02:44,370 --> 00:02:47,200
+And then they'll have four
+answers, A, B, C, and D,
+
+66
+00:02:47,200 --> 00:02:49,320
+and you'll select the
+one that is not true.
+
+67
+00:02:49,320 --> 00:02:51,620
+As I said, the vast
+majority of the questions
+
+68
+00:02:51,620 --> 00:02:54,300
+will be standard multiple
+choice type though.
+
+69
+00:02:54,300 --> 00:02:56,080
+Now, to earn your certification,
+
+70
+00:02:56,080 --> 00:02:58,170
+you have to get at least 28 questions
+
+71
+00:02:58,170 --> 00:03:00,110
+out of 50 correct on test day.
+
+72
+00:03:00,110 --> 00:03:04,530
+That equates to 56%, so if
+you can score 56% or higher,
+
+73
+00:03:04,530 --> 00:03:06,490
+you're going to pass and get certified.
+
+74
+00:03:06,490 --> 00:03:09,780
+This is a very doable and
+very achievable number.
+
+75
+00:03:09,780 --> 00:03:12,410
+On exam day, it is closed-book though.
+
+76
+00:03:12,410 --> 00:03:14,080
+Everything you have to answer is going to
+
+77
+00:03:14,080 --> 00:03:16,670
+come out of your head,
+not out of a textbook,
+
+78
+00:03:16,670 --> 00:03:18,310
+and not out of any paper that you bring
+
+79
+00:03:18,310 --> 00:03:20,280
+with you into the exam center.
+
+80
+00:03:20,280 --> 00:03:21,890
+So how do you know when you're ready
+
+81
+00:03:21,890 --> 00:03:24,060
+to go take the Foundations exam?
+
+82
+00:03:24,060 --> 00:03:26,180
+Well, after you've
+taken this entire course
+
+83
+00:03:26,180 --> 00:03:27,710
+and you've watched all the videos,
+
+84
+00:03:27,710 --> 00:03:30,140
+you're going to take a
+practice exam at the end.
+
+85
+00:03:30,140 --> 00:03:31,560
+When you take that practice exam,
+
+86
+00:03:31,560 --> 00:03:33,720
+if you score a 70% or higher,
+
+87
+00:03:33,720 --> 00:03:36,560
+you're ready to go take
+the real foundations exam.
+
+88
+00:03:36,560 --> 00:03:37,990
+Now, wait a minute, Jason,
+
+89
+00:03:37,990 --> 00:03:40,090
+you said 70% on the practice exam,
+
+90
+00:03:40,090 --> 00:03:42,870
+but it's only 56% to pass the real exam.
+
+91
+00:03:42,870 --> 00:03:45,220
+Well, yes, the reason why I say that is
+
+92
+00:03:45,220 --> 00:03:47,270
+because I want to make
+sure that you are ready
+
+93
+00:03:47,270 --> 00:03:49,230
+and you pass it on the first try
+
+94
+00:03:49,230 --> 00:03:51,210
+because each time you take that exam,
+
+95
+00:03:51,210 --> 00:03:54,860
+it costs about $350 to
+buy your exam voucher.
+
+96
+00:03:54,860 --> 00:03:55,920
+And I don't know about you,
+
+97
+00:03:55,920 --> 00:03:58,300
+but I only want to have to
+take the Foundations exam once
+
+98
+00:03:58,300 --> 00:04:01,900
+if I'm paying $350 each
+time I take that exam.
+
+99
+00:04:01,900 --> 00:04:03,710
+Now, if you need more practice,
+
+100
+00:04:03,710 --> 00:04:06,110
+go out and find additional practice exams
+
+101
+00:04:06,110 --> 00:04:08,240
+to hone your skills to
+make sure you're ready
+
+102
+00:04:08,240 --> 00:04:09,900
+for that certification exam.
+
+103
+00:04:09,900 --> 00:04:11,760
+But again, if you're scoring 70% or higher
+
+104
+00:04:11,760 --> 00:04:14,923
+on my practice exam, you
+should be fine come test day.
+

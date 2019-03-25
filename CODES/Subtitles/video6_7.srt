@@ -1,0 +1,689 @@
+﻿1
+00:00:00,370 --> 00:00:02,803
+- Our final process is closing a project.
+
+2
+00:00:02,803 --> 00:00:05,550
+We've done everything we think
+we need to in the project,
+
+3
+00:00:05,550 --> 00:00:07,530
+and we're looking at finishing it.
+
+4
+00:00:07,530 --> 00:00:09,270
+Now, when we get to closing a project
+
+5
+00:00:09,270 --> 00:00:10,397
+inside the agile context,
+
+6
+00:00:10,397 --> 00:00:12,380
+we're going to look back and see
+
+7
+00:00:12,380 --> 00:00:13,213
+how did we do?
+
+8
+00:00:13,213 --> 00:00:14,145
+How much was delivered?
+
+9
+00:00:14,145 --> 00:00:15,272
+To what quality?
+
+10
+00:00:15,272 --> 00:00:17,348
+Was the benefit delivered as promised?
+
+11
+00:00:17,348 --> 00:00:19,578
+And was the processes working well?
+
+12
+00:00:19,578 --> 00:00:22,954
+This all looks very similar
+to managing a stage boundary
+
+13
+00:00:22,954 --> 00:00:24,578
+that we talked about in the last lesson,
+
+14
+00:00:24,578 --> 00:00:26,006
+but one thing we'll add to this is
+
+15
+00:00:26,006 --> 00:00:28,890
+we're going to look at the
+final project or release reviews
+
+16
+00:00:28,890 --> 00:00:29,950
+in retrospectives.
+
+17
+00:00:29,950 --> 00:00:32,774
+To make sure that we
+understood the whole process.
+
+18
+00:00:32,774 --> 00:00:35,250
+Now as we look forward we're going to say
+
+19
+00:00:35,250 --> 00:00:36,390
+are there and other benefits
+
+20
+00:00:36,390 --> 00:00:37,574
+that we can expect from this project,
+
+21
+00:00:37,574 --> 00:00:39,735
+and if so when will we get them?
+
+22
+00:00:39,735 --> 00:00:42,269
+This ties back to the
+original Prince Two-Way
+
+23
+00:00:42,269 --> 00:00:43,394
+of closing a project.
+
+24
+00:00:43,394 --> 00:00:45,570
+Is there anything
+outstanding in the project
+
+25
+00:00:45,570 --> 00:00:46,558
+that still needs to be completed?
+
+26
+00:00:46,558 --> 00:00:49,330
+Because you can close a
+project and still have
+
+27
+00:00:49,330 --> 00:00:50,986
+a couple of things that
+haven't been realized yet.
+
+28
+00:00:50,986 --> 00:00:54,220
+And those might be realized
+inside of the operations
+
+29
+00:00:54,220 --> 00:00:56,070
+as it's moved to business as usual.
+
+30
+00:00:56,070 --> 00:00:58,720
+The same thing occurs here
+inside the agile way of working.
+
+31
+00:00:58,720 --> 00:01:00,510
+Now as we look at the big picture here,
+
+32
+00:01:00,510 --> 00:01:02,810
+we want to make sure we're
+checking the original baselines
+
+33
+00:01:02,810 --> 00:01:05,430
+and documents to make sure
+we've met the original
+
+34
+00:01:05,430 --> 00:01:08,220
+and final outputs and
+outcomes that were expected.
+
+35
+00:01:08,220 --> 00:01:10,230
+We want to check our products
+if they've been accepted
+
+36
+00:01:10,230 --> 00:01:11,570
+by the operations team.
+
+37
+00:01:11,570 --> 00:01:13,064
+Conduct those operational handover,
+
+38
+00:01:13,064 --> 00:01:15,011
+and give this product to the customer.
+
+39
+00:01:15,011 --> 00:01:17,582
+And we need to finalize any documentation,
+
+40
+00:01:17,582 --> 00:01:20,450
+because as we built things
+a lot of times we're not
+
+41
+00:01:20,450 --> 00:01:22,126
+documenting it fully along the way.
+
+42
+00:01:22,126 --> 00:01:23,960
+Now that we're enclosing a project,
+
+43
+00:01:23,960 --> 00:01:25,800
+this is the time to tie all that up
+
+44
+00:01:25,800 --> 00:01:27,350
+and finish all the documentation
+
+45
+00:01:27,350 --> 00:01:30,090
+and play catch up so that
+we have a nice final product
+
+46
+00:01:30,090 --> 00:01:32,705
+that's been built much faster
+and much more efficiently
+
+47
+00:01:32,705 --> 00:01:34,409
+than if we had used a waterfall method.
+
+48
+00:01:34,409 --> 00:01:37,470
+Now as we start looking at
+what you're going to find
+
+49
+00:01:37,470 --> 00:01:39,951
+inside this closing a project process,
+
+50
+00:01:39,951 --> 00:01:42,198
+you're going to find that
+there are defined processes
+
+51
+00:01:42,198 --> 00:01:45,690
+that only exist in mature
+agile environments.
+
+52
+00:01:45,690 --> 00:01:49,241
+Often times closing a project
+is one of the messiest places
+
+53
+00:01:49,241 --> 00:01:52,102
+inside this whole agile
+thing in some companies.
+
+54
+00:01:52,102 --> 00:01:54,702
+The reason is because
+we built it really fast
+
+55
+00:01:54,702 --> 00:01:56,630
+and then we turn it over to operations,
+
+56
+00:01:56,630 --> 00:01:57,990
+but we have no support built for it.
+
+57
+00:01:57,990 --> 00:02:00,450
+For example, if I went and built a new app
+
+58
+00:02:00,450 --> 00:02:02,660
+and turned it over to the
+customer service team,
+
+59
+00:02:02,660 --> 00:02:03,616
+who now has to support it,
+
+60
+00:02:03,616 --> 00:02:05,420
+but they have no idea how it works,
+
+61
+00:02:05,420 --> 00:02:06,615
+because we didn't properly document it.
+
+62
+00:02:06,615 --> 00:02:07,896
+That can be a problem.
+
+63
+00:02:07,896 --> 00:02:11,093
+And so you want to try
+to level up your maturity
+
+64
+00:02:11,093 --> 00:02:14,300
+in your organization by defining
+good processes for this.
+
+65
+00:02:14,300 --> 00:02:17,135
+You want to make sure that
+regular handovers have occurred
+
+66
+00:02:17,135 --> 00:02:19,280
+and that you've been doing this
+
+67
+00:02:19,280 --> 00:02:20,480
+all the way along throughout the project,
+
+68
+00:02:20,480 --> 00:02:23,110
+so as a piece of softwares been developed
+
+69
+00:02:23,110 --> 00:02:24,760
+we're going to give it
+to the operations team
+
+70
+00:02:24,760 --> 00:02:25,931
+and release it into the environment.
+
+71
+00:02:25,931 --> 00:02:28,074
+They should then be able
+to understand how it works
+
+72
+00:02:28,074 --> 00:02:30,560
+and be able to support it moving forward.
+
+73
+00:02:30,560 --> 00:02:32,580
+If we've done this a lot
+throughout the project
+
+74
+00:02:32,580 --> 00:02:35,130
+in our agile way of working,
+this means that it can become
+
+75
+00:02:35,130 --> 00:02:36,046
+second nature.
+
+76
+00:02:36,046 --> 00:02:39,330
+If we haven't now we're going
+to be up against the wall
+
+77
+00:02:39,330 --> 00:02:40,950
+as we hit this closing a project,
+
+78
+00:02:40,950 --> 00:02:42,770
+because they're going
+to have to take it over
+
+79
+00:02:42,770 --> 00:02:44,938
+and you're going to have to
+train them up on how to do that.
+
+80
+00:02:44,938 --> 00:02:48,480
+Now as you look through the
+closing a project process,
+
+81
+00:02:48,480 --> 00:02:50,382
+there's a couple of things
+that you have to do.
+
+82
+00:02:50,382 --> 00:02:51,360
+The first is
+
+83
+00:02:51,360 --> 00:02:53,480
+you want to check against
+your original baseline.
+
+84
+00:02:53,480 --> 00:02:55,644
+Did we meet everything we set out to do?
+
+85
+00:02:55,644 --> 00:02:57,950
+If we didn't we need to figure out
+
+86
+00:02:57,950 --> 00:02:59,490
+is it viable to keep a project going
+
+87
+00:02:59,490 --> 00:03:00,673
+further to meet those things
+
+88
+00:03:00,673 --> 00:03:02,469
+or should we terminate at this point?
+
+89
+00:03:02,469 --> 00:03:04,840
+We also want to evaluate the use of agile
+
+90
+00:03:04,840 --> 00:03:06,266
+on this particular project,
+
+91
+00:03:06,266 --> 00:03:07,641
+because if we look back and we say,
+
+92
+00:03:07,641 --> 00:03:10,670
+hey this time we built a car
+and we tried doing it agile
+
+93
+00:03:10,670 --> 00:03:12,250
+and it didn't work out so well,
+
+94
+00:03:12,250 --> 00:03:14,599
+maybe next time you're going
+to do it in a less agile way.
+
+95
+00:03:14,599 --> 00:03:16,453
+Or you were building a piece of software
+
+96
+00:03:16,453 --> 00:03:18,880
+and it worked really well
+and you're going to say
+
+97
+00:03:18,880 --> 00:03:21,260
+we're going to use agile again
+next time we build software.
+
+98
+00:03:21,260 --> 00:03:22,611
+So you want to evaluate the use of agile
+
+99
+00:03:22,611 --> 00:03:24,681
+as doing a final retrospective.
+
+100
+00:03:24,681 --> 00:03:27,760
+Also you want to ensure
+there's some formality
+
+101
+00:03:27,760 --> 00:03:29,140
+to the final acceptance,
+
+102
+00:03:29,140 --> 00:03:31,020
+and that that level of
+formality is appropriate
+
+103
+00:03:31,020 --> 00:03:32,150
+for the project.
+
+104
+00:03:32,150 --> 00:03:34,430
+If we're releasing one small feature
+
+105
+00:03:34,430 --> 00:03:35,987
+we may not need a full turnover,
+
+106
+00:03:35,987 --> 00:03:38,290
+but if we're releasing a full product
+
+107
+00:03:38,290 --> 00:03:39,832
+and operations now has to support it
+
+108
+00:03:39,832 --> 00:03:42,370
+we want to make sure that
+in this formal handover
+
+109
+00:03:42,370 --> 00:03:44,480
+and acceptance between
+the development team
+
+110
+00:03:44,480 --> 00:03:45,401
+and the operations team.
+
+111
+00:03:45,401 --> 00:03:48,226
+We also again want to
+finalize any documentation,
+
+112
+00:03:48,226 --> 00:03:51,122
+because as we create things
+iteratively and incrementally
+
+113
+00:03:51,122 --> 00:03:54,170
+we need to make sure we have
+the final things in place
+
+114
+00:03:54,170 --> 00:03:55,120
+so that this can live on
+
+115
+00:03:55,120 --> 00:03:57,017
+as a finalized product in the future.
+
+116
+00:03:57,017 --> 00:03:59,340
+Now as we move forward
+we want to think about
+
+117
+00:03:59,340 --> 00:04:00,510
+what does this all look like?
+
+118
+00:04:00,510 --> 00:04:01,512
+How does it actually happen?
+
+119
+00:04:01,512 --> 00:04:03,383
+Well, one of the things that happens is
+
+120
+00:04:03,383 --> 00:04:05,560
+that we create a workshop at the end
+
+121
+00:04:05,560 --> 00:04:07,007
+as part of closing the project.
+
+122
+00:04:07,007 --> 00:04:09,215
+This workshop gets
+everybody in the same room
+
+123
+00:04:09,215 --> 00:04:11,700
+and we start talking about what went well
+
+124
+00:04:11,700 --> 00:04:12,600
+and what didn't.
+
+125
+00:04:12,600 --> 00:04:13,619
+We capture those lessons.
+
+126
+00:04:13,619 --> 00:04:16,160
+We ensure that the
+operations team is happy
+
+127
+00:04:16,160 --> 00:04:16,993
+and ready to accept.
+
+128
+00:04:16,993 --> 00:04:19,210
+We make sure the development
+team doesn't have any
+
+129
+00:04:19,210 --> 00:04:20,950
+outstanding work that needs to be done.
+
+130
+00:04:20,950 --> 00:04:23,000
+And all of that can be
+done collaboratively
+
+131
+00:04:23,000 --> 00:04:24,478
+inside this workshop.
+
+132
+00:04:24,478 --> 00:04:27,250
+Also we want to make sure
+that all the benefits
+
+133
+00:04:27,250 --> 00:04:28,353
+have already been delivered.
+
+134
+00:04:28,353 --> 00:04:31,020
+If they haven't we might
+need to continue on
+
+135
+00:04:31,020 --> 00:04:32,483
+in this project and not close it yet.
+
+136
+00:04:32,483 --> 00:04:34,519
+Or we my close this
+project and open a new one
+
+137
+00:04:34,519 --> 00:04:37,620
+to get the rest of those
+benefits if we decide
+
+138
+00:04:37,620 --> 00:04:38,800
+they're still needed.
+
+139
+00:04:38,800 --> 00:04:41,050
+And also we want to make
+sure that all the information
+
+140
+00:04:41,050 --> 00:04:43,530
+about this project is
+put together and archived
+
+141
+00:04:43,530 --> 00:04:44,363
+and documented.
+
+142
+00:04:44,363 --> 00:04:46,940
+What I mean by that is,
+we built a lot of stuff,
+
+143
+00:04:46,940 --> 00:04:48,292
+we have a lot of projects,
+
+144
+00:04:48,292 --> 00:04:50,888
+and we have information
+radiators and burn down charts,
+
+145
+00:04:50,888 --> 00:04:54,174
+and issues and tasks and
+suggestions and all of this stuff.
+
+146
+00:04:54,174 --> 00:04:56,990
+All of it should be collected
+and it should be archived
+
+147
+00:04:56,990 --> 00:04:59,330
+so that the organization
+can go back and look at it
+
+148
+00:04:59,330 --> 00:05:01,299
+in the future if we're
+doing similar projects.
+
+149
+00:05:01,299 --> 00:05:04,191
+For example, if I went
+a built a car this time
+
+150
+00:05:04,191 --> 00:05:06,546
+and now three months later
+I need to go build a truck
+
+151
+00:05:06,546 --> 00:05:08,630
+a lot of that is going to carry over,
+
+152
+00:05:08,630 --> 00:05:11,060
+and so we can go back to
+this projects records,
+
+153
+00:05:11,060 --> 00:05:12,730
+pull that information, and decide
+
+154
+00:05:12,730 --> 00:05:14,890
+what is going to be
+applicable as we move forward
+
+155
+00:05:14,890 --> 00:05:16,263
+in developing that truck.
+
